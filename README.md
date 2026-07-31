@@ -411,9 +411,9 @@ npm start
 | Name | Student ID | Research Component |
 |------|------------|--------------------|
 | Hussainiya M.H.F | IT22643636 | Prakriti Identification |
-| Shenali Kumarathunga | IT22114976 | Adaptive Skin Disease Identification |
-| W.D.M. Methsiluni | IT22161024 | Dual Perspective Explanation |
-| H.P.W.N. Herath | IT22081384 | Personalized Recommendation Module |
+| Kumarathunga S.R | IT22114976 | Adaptive Skin Disease Identification |
+| Methsiluni W.D.M | IT22161024 | Dual Perspective Explanation |
+| Herath H.P.W.N | IT22081384 | Personalized Recommendation Module |
 
 ---
 
