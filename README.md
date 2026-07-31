@@ -341,9 +341,9 @@ project-root/
 ## Clone Repository
 
 ```bash
-git clone https://github.com/your-username/your-repository.git
+git clone https://github.com/R26-ResearchProject/R26-IT-035.git
 
-cd your-repository
+cd R26-IT-035
 ```
 
 ---
