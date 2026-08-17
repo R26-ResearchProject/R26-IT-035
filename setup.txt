@@ -1,0 +1,27 @@
+1.Feature:AI-based Ayurvedic Prakriti identification — Vata, Pitta, or Kapha.
+
+2.Facial Analysis:Extracts 20 facial features and groups them into 
+Geometry, Texture, Colour, and Symmetry modules.
+
+3.Module Fusion:Each module calculates Vata/Pitta/Kapha scores and confidence, 
+then confidence-aware fusion combines the four modules into the final facial scores.
+
+4.Questionnaire & Final Result:Combines 30% facial analysis + 70% adaptive 
+questionnaire to identify the dominant Prakriti, secondary Prakriti, scores, and confidence.
+
+5.Technologies:React.js, Vite, Tailwind CSS, Python, FastAPI, OpenCV, MediaPipe, NumPy, Scikit-learn, and Random Forest.
+
+
+# Backend
+cd backend
+py -0
+py -3.11 -m venv venv (MediaPipe only supports this Python version)
+venv\Scripts\activate
+python --version
+pip install -r requirements.txt
+uvicorn app.main:app --reload
+
+# Frontend 
+cd frontend
+npm install
+npm run dev
