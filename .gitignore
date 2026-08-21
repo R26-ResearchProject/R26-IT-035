@@ -1,0 +1,33 @@
+# Global
+.DS_Store
+.vscode/
+.idea/
+
+# Python
+**/__pycache__/
+**/*.py[cod]
+**/.pytest_cache/
+**/.mypy_cache/
+**/.ruff_cache/
+**/venv/
+**/.venv/
+**/env/
+
+# Node
+**/node_modules/
+**/dist/
+**/build/
+**/.vite/
+**/*.tsbuildinfo
+
+# Environment and secrets
+**/.env
+**/.env.*
+!.env.example
+
+# Logs
+**/logs/
+**/*.log
+
+# Test coverage
+**/coverage/
