@@ -1,0 +1,11 @@
+{
+  "version": "0.0.1",
+  "configurations": [
+    {
+      "name": "recommendation-web",
+      "runtimeExecutable": ".venv/bin/python",
+      "runtimeArgs": ["src/web_app.py"],
+      "port": 5001
+    }
+  ]
+}
