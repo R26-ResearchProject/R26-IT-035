@@ -1,150 +1,459 @@
-# Prakriti-Aware Recommendation Module (Part 1)
+# AI-Based Skin Disease Identification with Ayurvedic Prakriti Personalization
 
-This module provides a structured, explainable, safety-aware recommendation engine for:
-- Lifestyle guidance
-- Diet guidance
-- Home-care guidance
+> An AI-powered web application that integrates **Computer Vision**, **Machine Learning**, and **Ayurvedic Prakriti Analysis** to provide personalized skin disease identification, dual-perspective explanations, and lifestyle recommendations.
 
-It is designed as a data-driven component in the larger system:
-**AI-Based Skin Disease Identification with Ayurvedic Prakriti Personalization**.
+## Project Demonstration
 
-## Key Design Principles
+<p align="center">
+  <a href="https://mysliit-my.sharepoint.com/:v:/g/personal/it22081384_my_sliit_lk/IQCdXOoakZgJSLY7C_PbMSrJAaiYWBZqq8F8WXsKXjykH64?e=fhXqYf" target="_blank">
+    <img src="screenshots/demo-thumbnail.png" alt="Project Demonstration" width="900">
+  </a>
+</p>
 
-- No hardcoded recommendation text inside Python logic
-- Knowledge-driven retrieval from JSON files
-- Weighted scoring and ranking
-- Safety-first gating and filtering
-- Explainable output with matched factors and confidence notes
-- JSON input/output for easy API integration later
+<p align="center">
+  <strong>Figure 1.</strong> Click the image above to watch the complete project demonstration.
+</p>
 
-## Project Structure
+<p align="center">
+<!--
+![Python](https://img.shields.io/badge/Python-3.10+-blue?logo=python)
+![FastAPI](https://img.shields.io/badge/FastAPI-Backend-009688?logo=fastapi)
+![React](https://img.shields.io/badge/React-Frontend-61DAFB?logo=react)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-DeepLearning-FF6F00?logo=tensorflow)
+![MongoDB](https://img.shields.io/badge/MongoDB-Database-47A248?logo=mongodb)
+![License](https://img.shields.io/badge/License-Educational-blue)
+-->
+<img src="https://skillicons.dev/icons?i=python,fastapi,tensorflow,react,js,html,css,mongodb,opencv,git,github,vscode&perline=12" />
+
+</p>
+
+---
+
+## Table of Contents
+
+- [Overview](#overview)
+- [Research Objectives](#research-objectives)
+- [Key Features](#key-features)
+- [System Workflow](#system-workflow)
+- [Application Workflow](#application-workflow)
+- [Technology Stack](#technology-stack)
+- [Project Structure](#project-structure)
+- [Getting Started](#getting-started)
+- [Team Members](#team-members)
+- [Research Contributions](#research-contributions)
+- [Future Enhancements](#future-enhancements)
+- [License](#license)
+- [Acknowledgements](#acknowledgements)
+
+---
+
+# Overview
+
+This project was developed as the **Final Year Research Project** for the **Bachelor of Science (Hons) in Information Technology** at the **Sri Lanka Institute of Information Technology (SLIIT)**.
+
+Unlike conventional skin disease classification systems, this platform combines **Artificial Intelligence** with **Ayurvedic healthcare principles** to provide a more personalized healthcare decision-support experience.
+
+The system is capable of:
+
+-  Detecting skin diseases using Deep Learning
+-  Identifying the user's Ayurvedic **Prakriti (Body Constitution)**
+-  Collecting additional symptoms through an adaptive questionnaire
+-  Providing explanations from both Western Medical and Ayurvedic perspectives
+-  Generating personalized lifestyle and dietary recommendations
+
+> **Disclaimer**
+>
+> This application is intended **solely for research and educational purposes** and should **not** be considered a replacement for professional medical diagnosis or treatment.
+
+---
+
+#  Research Objectives
+
+The primary objective of this research is to design and implement an intelligent healthcare decision-support system capable of integrating:
+
+- AI-based Skin Disease Identification
+- Ayurvedic Prakriti Identification
+- Explainable Artificial Intelligence (XAI)
+- Adaptive Symptom Assessment
+- Personalized Recommendation Generation
+
+The goal is to improve user understanding while promoting responsible and explainable AI within healthcare.
+
+---
+
+#  Key Features
+
+##  AI Skin Disease Detection
+
+- Upload an image of the affected skin area
+- Deep Learning prediction using Transfer Learning
+- Confidence score for each prediction
+
+---
+
+##  Face Detection
+
+- Detects and validates facial images
+- Ensures image quality before processing
+- Extracts facial features for Prakriti analysis
+
+---
+
+##  Ayurvedic Prakriti Identification
+
+The system predicts the user's body constitution:
+
+- Vata
+- Pitta
+- Kapha
+- Mixed Prakriti Types
+
+Prediction is based on:
+
+- Facial characteristics
+- User questionnaire
+- Machine Learning model
+
+---
+
+##  Adaptive Symptom Questionnaire
+
+Instead of asking every possible question, the application dynamically generates questions based on previous responses.
+
+Benefits include:
+
+- Reduced user effort
+- Improved prediction confidence
+- Personalized interaction
+
+---
+
+##  Explainable Results
+
+Each prediction includes explanations from two perspectives.
+
+### Western Medical Perspective
+
+- Disease overview
+- Common symptoms
+- Possible causes
+- General treatment information
+
+### Ayurvedic Perspective
+
+- Dosha imbalance
+- Traditional interpretation
+- Ayurvedic understanding of the condition
+
+---
+
+##  Personalized Recommendations
+
+Recommendations are generated by combining:
+
+- Predicted Skin Disease
+- Identified Prakriti
+
+The recommendation engine provides:
+
+-  Dietary suggestions
+-  Lifestyle guidance
+-  Wellness recommendations
+-  Foods to avoid
+-  Home care advice
+
+---
+
+#  System Workflow
 
 ```text
-recommendation_module/
+          User
+            │
+            ▼
+     Upload Face Image
+            │
+            ▼
+     Face Detection
+            │
+            ▼
+  Prakriti Identification
+            │
+            ▼
+ Upload Skin Disease Image
+            │
+            ▼
+ Skin Disease Prediction
+            │
+            ▼
+ Adaptive Questionnaire
+            │
+            ▼
+  Dual Perspective Explanation
+            │
+            ▼
+ Personalized Recommendations
+```
+
+---
+
+# Application Workflow
+
+The following screenshots illustrate the complete workflow of the proposed AI-based decision-support system.
+
+---
+
+## Step 01 — Home Page
+
+The landing page introduces the application and provides access to the AI-assisted assessment workflow.
+
+<p align="center">
+<img src="screenshots/step01.png" width="900">
+</p>
+
+---
+
+## Step 02 — Prakriti Identification
+
+The user captures a facial image for AI-assisted Prakriti prediction.
+
+<p align="center">
+<img src="screenshots/step02.png" width="900">
+</p>
+
+---
+
+## Step 03 — Prakriti Questionnaire
+
+The adaptive questionnaire refines the body constitution prediction.
+
+<p align="center">
+<img src="screenshots/step03.png" width="900">
+</p>
+
+---
+
+## Step 04 — Prakriti Result
+
+The system predicts the user's Ayurvedic body constitution.
+
+<p align="center">
+<img src="screenshots/step04.png" width="900">
+</p>
+
+---
+
+## Step 05 — Skin Image Upload
+
+The user uploads an image of the affected skin region.
+
+<p align="center">
+<img src="screenshots/step05.png" width="900">
+</p>
+
+---
+
+## Step 06 — Adaptive Symptom Questionnaire
+
+Additional questions are generated dynamically to improve prediction confidence.
+
+<p align="center">
+<img src="screenshots/step06.png" width="900">
+</p>
+
+---
+
+## Step 07 — Skin Disease Prediction
+
+The deep learning model predicts the skin disease together with confidence and severity.
+
+<p align="center">
+<img src="screenshots/step07.png" width="900">
+</p>
+
+---
+
+## Step 08 — Dual Perspective Explanation
+
+The predicted disease is explained from both Western medical and Ayurvedic perspectives.
+
+<p align="center">
+<img src="screenshots/step08.png" width="900">
+</p>
+
+---
+
+## Step 09 — Personalized Recommendations
+
+The recommendation engine generates personalized lifestyle and dietary guidance.
+
+<p align="center">
+<img src="screenshots/step09.png" width="900">
+</p>
+
+---
+
+# Technology Stack
+
+| Layer | Technologies |
+|--------|--------------|
+| Frontend | React.js, HTML5, CSS3, JavaScript |
+| Backend | FastAPI, Python |
+| Machine Learning | TensorFlow, Keras, MobileNetV2, OpenCV, NumPy, Scikit-learn |
+| Database | MongoDB |
+| Development Tools | Git, GitHub, Visual Studio Code, Google Colab, Postman |
+
+---
+
+#  Project Structure
+
+```text
+project-root/
 │
-├── data/
-│   ├── recommendations.json
-│   ├── mappings.json
-│   └── safety_rules.json
+├── backend/
+│   ├── api/
+│   ├── models/
+│   ├── services/
+│   ├── utils/
+│   └── main.py
 │
-├── src/
-│   ├── main.py
-│   ├── recommendation_engine.py
-│   ├── scoring.py
-│   ├── safety_filter.py
-│   ├── explainability.py
-│   ├── data_loader.py
-│   └── schemas.py
+├── frontend/
+│   ├── public/
+│   ├── src/
+│   └── package.json
 │
-├── tests/
-│   └── test_engine.py
+├── model/
+│   ├── skin_model.h5
+│   └── class_labels.json
 │
-├── sample_input.json
-├── sample_output.json
+├── dataset/
+│
+├── screenshots/
+│
+├── requirements.txt
+│
 └── README.md
 ```
 
-## How It Works
+---
 
-1. **Load and validate input** from `sample_input.json`
-2. **Run global safety checks**
-   - referral requested
-   - low confidence
-   - severe condition
-3. **Retrieve candidates** by condition + prakriti + symptom overlap
-4. **Score candidates** with weighted formula:
+#  Getting Started
 
-   `final_score = (prakriti * 0.30) + (condition * 0.25) + (symptom * 0.20) + (module_conf * 0.10) + (expert * 0.10) + (mapping * 0.05)`
-
-5. **Apply safety filters** (blocked tags, risky recommendations, context conflicts)
-6. **Rank and diversify** recommendations across categories where possible
-7. **Generate explainable output** with reason and confidence explanation
-
-## Run the Module
-
-From inside `recommendation_module`:
+## Clone Repository
 
 ```bash
-python3 src/main.py --input sample_input.json --output sample_output.json --top-k 5
+git clone https://github.com/R26-ResearchProject/R26-IT-035.git
+
+cd R26-IT-035
 ```
 
-## Run Tests
+---
+
+# ⚙ Backend Setup
+
+Create a virtual environment.
 
 ```bash
-python3 -m unittest discover -s tests -p "test_*.py"
+python -m venv venv
 ```
 
-## Visual Interface (Manual Entry Mode)
+Activate it.
 
-This module now includes a browser-based UI for manual entry of:
-- Prakriti module output
-- Skin module output
-- User context
-
-### 1) Create and activate a local virtual environment
-
-From workspace root:
+### Windows
 
 ```bash
-python3 -m venv recommendation_module/.venv
-source recommendation_module/.venv/bin/activate
+venv\Scripts\activate
 ```
 
-### 2) Install dependencies
+### macOS/Linux
 
 ```bash
-pip install -r recommendation_module/requirements.txt
+source venv/bin/activate
 ```
 
-### 3) Start the web app
+Install required packages.
 
 ```bash
-python recommendation_module/src/web_app.py
+pip install -r requirements.txt
 ```
 
-Open [http://127.0.0.1:5001](http://127.0.0.1:5001) in your browser.
-
-### 4) Use the interface
-
-- Fill form fields manually (simulating outputs from other modules)
-- Click **Generate Recommendations**
-- Review grouped results by category (diet, lifestyle, home_care)
-- Review confidence level, explanation summary, and referral warning
-- Use **Scenario Presets** for one-click demo cases
-- Use **Payload JSON** area to import/export full request payloads
-- Use **Future Module Integration (Mock)** buttons to simulate upstream module responses
-
-### 5) (Optional) Enable AI-assisted follow-up answers
-
-The Follow-up Assistant chatbot answers most questions with deterministic,
-rule-based logic (why-not / compare / what-if), grounded in the engine's own
-scored data. For open-ended questions it can't classify (e.g. "what do you
-mean by small amount of ghee?"), it can optionally fall back to Claude,
-given only the current recommendation text as context — it never invents
-facts outside what's already shown to the user.
-
-To enable it, set an API key before starting the server:
+Run the API.
 
 ```bash
-export ANTHROPIC_API_KEY=your-key-here
-python recommendation_module/src/web_app.py
+uvicorn main:app --reload
 ```
 
-Without a key set, the assistant works exactly as before (static help
-message on unmatched questions) — this feature is fully optional and never
-blocks the rest of the app. Answers produced this way are labeled
-"AI-assisted" in the chat UI for transparency. Override the model with the
-`AI_FALLBACK_MODEL` environment variable if needed (defaults to a small,
-fast Claude model).
+---
 
-## Future API Integration
+#  Frontend Setup
 
-- Replace manual input with calls to the Prakriti and Skin module APIs.
-- Keep request/response structure stable (`/api/recommend`) so frontend changes remain minimal.
-- Reuse the same UI output rendering logic because engine output is already structured and explainable.
+Navigate to the frontend directory.
 
-## Notes for Future API Integration
+```bash
+cd frontend
+```
 
-- Keep `sample_input.json` schema as API request contract.
-- Replace JSON knowledge files with database tables later.
-- Keep scoring/explainability logic unchanged to preserve reproducibility for research.
+Install dependencies.
+
+```bash
+npm install
+```
+
+Start the React application.
+
+```bash
+npm start
+```
+
+---
+
+#  Team Members
+
+| Name | Student ID | Research Component |
+|------|------------|--------------------|
+| Hussainiya M.H.F | IT22643636 | Prakriti Identification |
+| Kumarathunga S.R | IT22114976 | Adaptive Skin Disease Identification |
+| Methsiluni W.D.M | IT22161024 | Dual Perspective Explanation |
+| Herath H.P.W.N | IT22081384 | Personalized Recommendation Module |
+
+---
+
+#  Research Contributions
+
+Each researcher independently designed and implemented a dedicated research component.
+
+The final system integrates these modules into a unified AI-driven healthcare decision-support platform.
+
+---
+
+#  Future Enhancements
+
+- Mobile Application
+- Additional Skin Disease Classes
+- Clinical Validation
+- Explainable AI Dashboard
+- Multi-language Support
+- Cloud Deployment
+- Electronic Medical Record Integration
+
+---
+
+#  License
+
+This repository is published for **academic and research purposes only**.
+
+Please contact the authors before using any part of this work in commercial products.
+
+---
+
+#  Acknowledgements
+
+We sincerely thank:
+
+- Our project supervisors
+- The external Ayurvedic consultant
+- Sri Lanka Institute of Information Technology (SLIIT)
+- Everyone who contributed to the completion of this research
+
+Their continuous guidance and encouragement made this project possible.
+
+---
