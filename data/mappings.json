@@ -1,0 +1,4760 @@
+[
+  {
+    "rec_id": "R001",
+    "prakriti": "Vata",
+    "condition": "Eczema",
+    "symptoms": [
+      "dryness",
+      "itching"
+    ],
+    "match_weight": 0.88
+  },
+  {
+    "rec_id": "R002",
+    "prakriti": "Vata",
+    "condition": "Eczema",
+    "symptoms": [
+      "dryness"
+    ],
+    "match_weight": 0.92
+  },
+  {
+    "rec_id": "R003",
+    "prakriti": "Vata",
+    "condition": "Eczema",
+    "symptoms": [
+      "itching",
+      "stress_trigger"
+    ],
+    "match_weight": 0.84
+  },
+  {
+    "rec_id": "R004",
+    "prakriti": "Pitta",
+    "condition": "Eczema",
+    "symptoms": [
+      "redness"
+    ],
+    "match_weight": 0.72
+  },
+  {
+    "rec_id": "R005",
+    "prakriti": "Kapha",
+    "condition": "Psoriasis",
+    "symptoms": [
+      "thick_scaling"
+    ],
+    "match_weight": 0.65
+  },
+  {
+    "rec_id": "R006",
+    "prakriti": "Pitta",
+    "condition": "Acne",
+    "symptoms": [
+      "redness",
+      "inflammation",
+      "oiliness"
+    ],
+    "match_weight": 0.91
+  },
+  {
+    "rec_id": "R007",
+    "prakriti": "Kapha",
+    "condition": "Fungal Infection",
+    "symptoms": [
+      "itching",
+      "moist_patches"
+    ],
+    "match_weight": 0.9
+  },
+  {
+    "rec_id": "R008",
+    "prakriti": "Vata",
+    "condition": "Dry Skin",
+    "symptoms": [
+      "dryness",
+      "flaking"
+    ],
+    "match_weight": 0.89
+  },
+  {
+    "rec_id": "R009",
+    "prakriti": "Pitta",
+    "condition": "Psoriasis",
+    "symptoms": [
+      "redness",
+      "inflammation",
+      "thick_scaling"
+    ],
+    "match_weight": 0.86
+  },
+  {
+    "rec_id": "R010",
+    "prakriti": "Kapha",
+    "condition": "Fungal Infection",
+    "symptoms": [
+      "itching",
+      "sweating"
+    ],
+    "match_weight": 0.83
+  },
+  {
+    "rec_id": "R011",
+    "prakriti": "Pitta",
+    "condition": "Acne",
+    "symptoms": [
+      "redness",
+      "burning"
+    ],
+    "match_weight": 0.84
+  },
+  {
+    "rec_id": "R012",
+    "prakriti": "Kapha",
+    "condition": "Fungal Infection",
+    "symptoms": [
+      "itching",
+      "moist_patches",
+      "odor"
+    ],
+    "match_weight": 0.92
+  },
+  {
+    "rec_id": "R013",
+    "prakriti": "Vata",
+    "condition": "Eczema",
+    "symptoms": [
+      "itching",
+      "flare_pattern"
+    ],
+    "match_weight": 0.7
+  },
+  {
+    "rec_id": "R014",
+    "prakriti": "Pitta",
+    "condition": "Acne",
+    "symptoms": [
+      "oiliness",
+      "comedones",
+      "redness"
+    ],
+    "match_weight": 0.93
+  },
+  {
+    "rec_id": "R015",
+    "prakriti": "Vata",
+    "condition": "Dry Skin",
+    "symptoms": [
+      "dryness",
+      "tightness"
+    ],
+    "match_weight": 0.94
+  },
+  {
+    "rec_id": "R016",
+    "prakriti": "Kapha",
+    "condition": "Psoriasis",
+    "symptoms": [
+      "thick_scaling",
+      "dryness"
+    ],
+    "match_weight": 0.88
+  },
+  {
+    "rec_id": "R017",
+    "prakriti": "Kapha",
+    "condition": "Fungal Infection",
+    "symptoms": [
+      "moist_patches",
+      "itching",
+      "redness"
+    ],
+    "match_weight": 0.95
+  },
+  {
+    "rec_id": "R018",
+    "prakriti": "Pitta",
+    "condition": "Eczema",
+    "symptoms": [
+      "redness",
+      "itching"
+    ],
+    "match_weight": 0.76
+  },
+  {
+    "rec_id": "R019",
+    "prakriti": "Vata",
+    "condition": "Dry Skin",
+    "symptoms": [
+      "dryness",
+      "flaking"
+    ],
+    "match_weight": 0.86
+  },
+  {
+    "rec_id": "R020",
+    "prakriti": "Pitta",
+    "condition": "Eczema",
+    "symptoms": [
+      "redness",
+      "burning"
+    ],
+    "match_weight": 0.88
+  },
+  {
+    "rec_id": "R021",
+    "prakriti": "Kapha",
+    "condition": "Fungal Infection",
+    "symptoms": [
+      "moist_patches",
+      "itching"
+    ],
+    "match_weight": 0.89
+  },
+  {
+    "rec_id": "R022",
+    "prakriti": "Vata",
+    "condition": "Eczema",
+    "symptoms": [
+      "dryness",
+      "itching"
+    ],
+    "match_weight": 0.82
+  },
+  {
+    "rec_id": "R023",
+    "prakriti": "Pitta",
+    "condition": "Acne",
+    "symptoms": [
+      "oiliness",
+      "inflammation",
+      "redness"
+    ],
+    "match_weight": 0.94
+  },
+  {
+    "rec_id": "R024",
+    "prakriti": "Pitta",
+    "condition": "Psoriasis",
+    "symptoms": [
+      "redness",
+      "thick_scaling"
+    ],
+    "match_weight": 0.8
+  },
+  {
+    "rec_id": "R025",
+    "prakriti": "Vata",
+    "condition": "Dry Skin",
+    "symptoms": [
+      "dryness",
+      "tightness"
+    ],
+    "match_weight": 0.78
+  },
+  {
+    "rec_id": "R026",
+    "prakriti": "Pitta",
+    "condition": "Acne",
+    "symptoms": [
+      "oiliness",
+      "comedones"
+    ],
+    "match_weight": 0.9
+  },
+  {
+    "rec_id": "R027",
+    "prakriti": "Kapha",
+    "condition": "Fungal Infection",
+    "symptoms": [
+      "sweating",
+      "moist_patches"
+    ],
+    "match_weight": 0.87
+  },
+  {
+    "rec_id": "R028",
+    "prakriti": "Vata",
+    "condition": "Eczema",
+    "symptoms": [
+      "itching",
+      "dryness"
+    ],
+    "match_weight": 0.85
+  },
+  {
+    "rec_id": "R029",
+    "prakriti": "Pitta",
+    "condition": "Eczema",
+    "symptoms": [
+      "redness",
+      "burning"
+    ],
+    "match_weight": 0.9
+  },
+  {
+    "rec_id": "R030",
+    "prakriti": "Kapha",
+    "condition": "Fungal Infection",
+    "symptoms": [
+      "itching",
+      "odor",
+      "moist_patches"
+    ],
+    "match_weight": 0.93
+  },
+  {
+    "rec_id": "R031",
+    "prakriti": "Vata",
+    "condition": "Eczema",
+    "symptoms": [
+      "itching",
+      "flare_pattern"
+    ],
+    "match_weight": 0.74
+  },
+  {
+    "rec_id": "R032",
+    "prakriti": "Pitta",
+    "condition": "Acne",
+    "symptoms": [
+      "redness",
+      "inflammation"
+    ],
+    "match_weight": 0.85
+  },
+  {
+    "rec_id": "R033",
+    "prakriti": "Kapha",
+    "condition": "Psoriasis",
+    "symptoms": [
+      "thick_scaling",
+      "dryness"
+    ],
+    "match_weight": 0.76
+  },
+  {
+    "rec_id": "R034",
+    "prakriti": "Vata",
+    "condition": "Dry Skin",
+    "symptoms": [
+      "dryness",
+      "tightness",
+      "flaking"
+    ],
+    "match_weight": 0.88
+  },
+  {
+    "rec_id": "R035",
+    "prakriti": "Pitta",
+    "condition": "Acne",
+    "symptoms": [
+      "oiliness",
+      "redness"
+    ],
+    "match_weight": 0.87
+  },
+  {
+    "rec_id": "R036",
+    "prakriti": "Vata",
+    "condition": "Psoriasis",
+    "symptoms": [
+      "dryness",
+      "flare_pattern"
+    ],
+    "match_weight": 0.71
+  },
+  {
+    "rec_id": "R037",
+    "prakriti": "Vata",
+    "condition": "Dry Skin",
+    "symptoms": [
+      "dryness",
+      "tightness"
+    ],
+    "match_weight": 0.92
+  },
+  {
+    "rec_id": "R038",
+    "prakriti": "Pitta",
+    "condition": "Eczema",
+    "symptoms": [
+      "redness",
+      "burning",
+      "itching"
+    ],
+    "match_weight": 0.84
+  },
+  {
+    "rec_id": "R039",
+    "prakriti": "Kapha",
+    "condition": "Fungal Infection",
+    "symptoms": [
+      "moist_patches",
+      "itching"
+    ],
+    "match_weight": 0.95
+  },
+  {
+    "rec_id": "R040",
+    "prakriti": "Vata",
+    "condition": "Eczema",
+    "symptoms": [
+      "dryness",
+      "itching"
+    ],
+    "match_weight": 0.91
+  },
+  {
+    "rec_id": "R041",
+    "prakriti": "Pitta",
+    "condition": "Acne",
+    "symptoms": [
+      "oiliness",
+      "comedones",
+      "redness"
+    ],
+    "match_weight": 0.82
+  },
+  {
+    "rec_id": "R042",
+    "prakriti": "Kapha",
+    "condition": "Psoriasis",
+    "symptoms": [
+      "thick_scaling",
+      "dryness"
+    ],
+    "match_weight": 0.89
+  },
+  {
+    "rec_id": "R043",
+    "prakriti": "Vata",
+    "condition": "Dry Skin",
+    "symptoms": [
+      "dryness",
+      "flaking"
+    ],
+    "match_weight": 0.96
+  },
+  {
+    "rec_id": "R044",
+    "prakriti": "Pitta",
+    "condition": "Acne",
+    "symptoms": [
+      "redness",
+      "sensitivity"
+    ],
+    "match_weight": 0.9
+  },
+  {
+    "rec_id": "R045",
+    "prakriti": "Kapha",
+    "condition": "Fungal Infection",
+    "symptoms": [
+      "itching",
+      "odor",
+      "sweating"
+    ],
+    "match_weight": 0.88
+  },
+  {
+    "rec_id": "R046",
+    "prakriti": "Vata",
+    "condition": "Dry Skin",
+    "symptoms": [
+      "dryness",
+      "roughness"
+    ],
+    "match_weight": 0.79
+  },
+  {
+    "rec_id": "R047",
+    "prakriti": "Pitta",
+    "condition": "Acne",
+    "symptoms": [
+      "inflammation",
+      "redness"
+    ],
+    "match_weight": 0.83
+  },
+  {
+    "rec_id": "R048",
+    "prakriti": "Kapha",
+    "condition": "Fungal Infection",
+    "symptoms": [
+      "moist_patches",
+      "recurrence"
+    ],
+    "match_weight": 0.9
+  },
+  {
+    "rec_id": "R049",
+    "prakriti": "Vata",
+    "condition": "Eczema",
+    "symptoms": [
+      "dryness",
+      "itching",
+      "barrier_damage"
+    ],
+    "match_weight": 0.93
+  },
+  {
+    "rec_id": "R050",
+    "prakriti": "Pitta",
+    "condition": "Psoriasis",
+    "symptoms": [
+      "redness",
+      "inflammation",
+      "scaling"
+    ],
+    "match_weight": 0.81
+  },
+  {
+    "rec_id": "R251",
+    "prakriti": "Vata",
+    "condition": "Acne",
+    "symptoms": [
+      "dryness",
+      "flare_pattern"
+    ],
+    "match_weight": 0.78
+  },
+  {
+    "rec_id": "R252",
+    "prakriti": "Vata",
+    "condition": "Acne",
+    "symptoms": [
+      "stress_trigger",
+      "dryness"
+    ],
+    "match_weight": 0.75
+  },
+  {
+    "rec_id": "R253",
+    "prakriti": "Vata",
+    "condition": "Acne",
+    "symptoms": [
+      "dryness",
+      "flaking"
+    ],
+    "match_weight": 0.8
+  },
+  {
+    "rec_id": "R254",
+    "prakriti": "Kapha",
+    "condition": "Acne",
+    "symptoms": [
+      "oiliness",
+      "comedones"
+    ],
+    "match_weight": 0.86
+  },
+  {
+    "rec_id": "R255",
+    "prakriti": "Kapha",
+    "condition": "Acne",
+    "symptoms": [
+      "oiliness",
+      "inflammation"
+    ],
+    "match_weight": 0.79
+  },
+  {
+    "rec_id": "R256",
+    "prakriti": "Kapha",
+    "condition": "Acne",
+    "symptoms": [
+      "oiliness",
+      "comedones",
+      "recurrence"
+    ],
+    "match_weight": 0.83
+  },
+  {
+    "rec_id": "R257",
+    "prakriti": "Pitta",
+    "condition": "Dry Skin",
+    "symptoms": [
+      "dryness",
+      "redness"
+    ],
+    "match_weight": 0.75
+  },
+  {
+    "rec_id": "R258",
+    "prakriti": "Pitta",
+    "condition": "Dry Skin",
+    "symptoms": [
+      "dryness",
+      "sensitivity"
+    ],
+    "match_weight": 0.73
+  },
+  {
+    "rec_id": "R259",
+    "prakriti": "Pitta",
+    "condition": "Dry Skin",
+    "symptoms": [
+      "dryness",
+      "tightness"
+    ],
+    "match_weight": 0.78
+  },
+  {
+    "rec_id": "R260",
+    "prakriti": "Kapha",
+    "condition": "Dry Skin",
+    "symptoms": [
+      "dryness",
+      "roughness"
+    ],
+    "match_weight": 0.72
+  },
+  {
+    "rec_id": "R261",
+    "prakriti": "Kapha",
+    "condition": "Dry Skin",
+    "symptoms": [
+      "dryness"
+    ],
+    "match_weight": 0.7
+  },
+  {
+    "rec_id": "R262",
+    "prakriti": "Kapha",
+    "condition": "Dry Skin",
+    "symptoms": [
+      "dryness",
+      "flaking"
+    ],
+    "match_weight": 0.74
+  },
+  {
+    "rec_id": "R263",
+    "prakriti": "Kapha",
+    "condition": "Eczema",
+    "symptoms": [
+      "moist_patches",
+      "inflammation"
+    ],
+    "match_weight": 0.76
+  },
+  {
+    "rec_id": "R264",
+    "prakriti": "Kapha",
+    "condition": "Eczema",
+    "symptoms": [
+      "moist_patches",
+      "itching"
+    ],
+    "match_weight": 0.79
+  },
+  {
+    "rec_id": "R265",
+    "prakriti": "Kapha",
+    "condition": "Eczema",
+    "symptoms": [
+      "moist_patches",
+      "recurrence"
+    ],
+    "match_weight": 0.75
+  },
+  {
+    "rec_id": "R266",
+    "prakriti": "Vata",
+    "condition": "Fungal Infection",
+    "symptoms": [
+      "dryness",
+      "flaking"
+    ],
+    "match_weight": 0.72
+  },
+  {
+    "rec_id": "R267",
+    "prakriti": "Vata",
+    "condition": "Fungal Infection",
+    "symptoms": [
+      "dryness"
+    ],
+    "match_weight": 0.7
+  },
+  {
+    "rec_id": "R268",
+    "prakriti": "Vata",
+    "condition": "Fungal Infection",
+    "symptoms": [
+      "dryness",
+      "itching"
+    ],
+    "match_weight": 0.74
+  },
+  {
+    "rec_id": "R269",
+    "prakriti": "Pitta",
+    "condition": "Fungal Infection",
+    "symptoms": [
+      "redness",
+      "inflammation"
+    ],
+    "match_weight": 0.77
+  },
+  {
+    "rec_id": "R270",
+    "prakriti": "Pitta",
+    "condition": "Fungal Infection",
+    "symptoms": [
+      "itching",
+      "sweating"
+    ],
+    "match_weight": 0.75
+  },
+  {
+    "rec_id": "R271",
+    "prakriti": "Pitta",
+    "condition": "Fungal Infection",
+    "symptoms": [
+      "redness",
+      "itching"
+    ],
+    "match_weight": 0.8
+  },
+  {
+    "rec_id": "R272",
+    "prakriti": "Vata",
+    "condition": "Urticaria",
+    "symptoms": [
+      "flare_pattern",
+      "stress_trigger"
+    ],
+    "match_weight": 0.7
+  },
+  {
+    "rec_id": "R273",
+    "prakriti": "Vata",
+    "condition": "Urticaria",
+    "symptoms": [
+      "itching",
+      "stress_trigger"
+    ],
+    "match_weight": 0.73
+  },
+  {
+    "rec_id": "R274",
+    "prakriti": "Pitta",
+    "condition": "Urticaria",
+    "symptoms": [
+      "redness",
+      "inflammation"
+    ],
+    "match_weight": 0.78
+  },
+  {
+    "rec_id": "R275",
+    "prakriti": "Pitta",
+    "condition": "Urticaria",
+    "symptoms": [
+      "redness",
+      "itching"
+    ],
+    "match_weight": 0.8
+  },
+  {
+    "rec_id": "R276",
+    "prakriti": "Kapha",
+    "condition": "Urticaria",
+    "symptoms": [
+      "recurrence",
+      "flare_pattern"
+    ],
+    "match_weight": 0.71
+  },
+  {
+    "rec_id": "R277",
+    "prakriti": "Kapha",
+    "condition": "Urticaria",
+    "symptoms": [
+      "recurrence"
+    ],
+    "match_weight": 0.7
+  },
+  {
+    "rec_id": "R051",
+    "prakriti": "Vata",
+    "condition": "Eczema",
+    "symptoms": [
+      "dryness",
+      "itching"
+    ],
+    "match_weight": 0.75
+  },
+  {
+    "rec_id": "R051",
+    "prakriti": "Pitta",
+    "condition": "Eczema",
+    "symptoms": [
+      "dryness",
+      "itching"
+    ],
+    "match_weight": 0.75
+  },
+  {
+    "rec_id": "R051",
+    "prakriti": "Kapha",
+    "condition": "Eczema",
+    "symptoms": [
+      "dryness",
+      "itching"
+    ],
+    "match_weight": 0.75
+  },
+  {
+    "rec_id": "R052",
+    "prakriti": "Vata",
+    "condition": "Eczema",
+    "symptoms": [
+      "dryness",
+      "itching"
+    ],
+    "match_weight": 0.75
+  },
+  {
+    "rec_id": "R052",
+    "prakriti": "Pitta",
+    "condition": "Eczema",
+    "symptoms": [
+      "dryness",
+      "itching"
+    ],
+    "match_weight": 0.75
+  },
+  {
+    "rec_id": "R052",
+    "prakriti": "Kapha",
+    "condition": "Eczema",
+    "symptoms": [
+      "dryness",
+      "itching"
+    ],
+    "match_weight": 0.75
+  },
+  {
+    "rec_id": "R053",
+    "prakriti": "Vata",
+    "condition": "Eczema",
+    "symptoms": [
+      "dryness",
+      "itching"
+    ],
+    "match_weight": 0.75
+  },
+  {
+    "rec_id": "R053",
+    "prakriti": "Pitta",
+    "condition": "Eczema",
+    "symptoms": [
+      "dryness",
+      "itching"
+    ],
+    "match_weight": 0.75
+  },
+  {
+    "rec_id": "R053",
+    "prakriti": "Kapha",
+    "condition": "Eczema",
+    "symptoms": [
+      "dryness",
+      "itching"
+    ],
+    "match_weight": 0.75
+  },
+  {
+    "rec_id": "R054",
+    "prakriti": "Vata",
+    "condition": "Eczema",
+    "symptoms": [
+      "dryness",
+      "itching"
+    ],
+    "match_weight": 0.75
+  },
+  {
+    "rec_id": "R054",
+    "prakriti": "Pitta",
+    "condition": "Eczema",
+    "symptoms": [
+      "dryness",
+      "itching"
+    ],
+    "match_weight": 0.75
+  },
+  {
+    "rec_id": "R054",
+    "prakriti": "Kapha",
+    "condition": "Eczema",
+    "symptoms": [
+      "dryness",
+      "itching"
+    ],
+    "match_weight": 0.75
+  },
+  {
+    "rec_id": "R055",
+    "prakriti": "Vata",
+    "condition": "Eczema",
+    "symptoms": [
+      "dryness",
+      "itching"
+    ],
+    "match_weight": 0.75
+  },
+  {
+    "rec_id": "R055",
+    "prakriti": "Pitta",
+    "condition": "Eczema",
+    "symptoms": [
+      "dryness",
+      "itching"
+    ],
+    "match_weight": 0.75
+  },
+  {
+    "rec_id": "R055",
+    "prakriti": "Kapha",
+    "condition": "Eczema",
+    "symptoms": [
+      "dryness",
+      "itching"
+    ],
+    "match_weight": 0.75
+  },
+  {
+    "rec_id": "R056",
+    "prakriti": "Vata",
+    "condition": "Eczema",
+    "symptoms": [
+      "dryness",
+      "itching"
+    ],
+    "match_weight": 0.75
+  },
+  {
+    "rec_id": "R056",
+    "prakriti": "Pitta",
+    "condition": "Eczema",
+    "symptoms": [
+      "dryness",
+      "itching"
+    ],
+    "match_weight": 0.75
+  },
+  {
+    "rec_id": "R056",
+    "prakriti": "Kapha",
+    "condition": "Eczema",
+    "symptoms": [
+      "dryness",
+      "itching"
+    ],
+    "match_weight": 0.75
+  },
+  {
+    "rec_id": "R057",
+    "prakriti": "Vata",
+    "condition": "Eczema",
+    "symptoms": [
+      "dryness",
+      "itching"
+    ],
+    "match_weight": 0.75
+  },
+  {
+    "rec_id": "R057",
+    "prakriti": "Pitta",
+    "condition": "Eczema",
+    "symptoms": [
+      "dryness",
+      "itching"
+    ],
+    "match_weight": 0.75
+  },
+  {
+    "rec_id": "R057",
+    "prakriti": "Kapha",
+    "condition": "Eczema",
+    "symptoms": [
+      "dryness",
+      "itching"
+    ],
+    "match_weight": 0.75
+  },
+  {
+    "rec_id": "R058",
+    "prakriti": "Vata",
+    "condition": "Eczema",
+    "symptoms": [
+      "dryness",
+      "itching"
+    ],
+    "match_weight": 0.75
+  },
+  {
+    "rec_id": "R058",
+    "prakriti": "Pitta",
+    "condition": "Eczema",
+    "symptoms": [
+      "dryness",
+      "itching"
+    ],
+    "match_weight": 0.75
+  },
+  {
+    "rec_id": "R058",
+    "prakriti": "Kapha",
+    "condition": "Eczema",
+    "symptoms": [
+      "dryness",
+      "itching"
+    ],
+    "match_weight": 0.75
+  },
+  {
+    "rec_id": "R059",
+    "prakriti": "Vata",
+    "condition": "Eczema",
+    "symptoms": [
+      "dryness",
+      "itching"
+    ],
+    "match_weight": 0.75
+  },
+  {
+    "rec_id": "R059",
+    "prakriti": "Pitta",
+    "condition": "Eczema",
+    "symptoms": [
+      "dryness",
+      "itching"
+    ],
+    "match_weight": 0.75
+  },
+  {
+    "rec_id": "R059",
+    "prakriti": "Kapha",
+    "condition": "Eczema",
+    "symptoms": [
+      "dryness",
+      "itching"
+    ],
+    "match_weight": 0.75
+  },
+  {
+    "rec_id": "R060",
+    "prakriti": "Vata",
+    "condition": "Eczema",
+    "symptoms": [
+      "dryness",
+      "itching"
+    ],
+    "match_weight": 0.75
+  },
+  {
+    "rec_id": "R060",
+    "prakriti": "Pitta",
+    "condition": "Eczema",
+    "symptoms": [
+      "dryness",
+      "itching"
+    ],
+    "match_weight": 0.75
+  },
+  {
+    "rec_id": "R060",
+    "prakriti": "Kapha",
+    "condition": "Eczema",
+    "symptoms": [
+      "dryness",
+      "itching"
+    ],
+    "match_weight": 0.75
+  },
+  {
+    "rec_id": "R061",
+    "prakriti": "Vata",
+    "condition": "Eczema",
+    "symptoms": [
+      "dryness",
+      "itching"
+    ],
+    "match_weight": 0.75
+  },
+  {
+    "rec_id": "R061",
+    "prakriti": "Pitta",
+    "condition": "Eczema",
+    "symptoms": [
+      "dryness",
+      "itching"
+    ],
+    "match_weight": 0.75
+  },
+  {
+    "rec_id": "R061",
+    "prakriti": "Kapha",
+    "condition": "Eczema",
+    "symptoms": [
+      "dryness",
+      "itching"
+    ],
+    "match_weight": 0.75
+  },
+  {
+    "rec_id": "R062",
+    "prakriti": "Vata",
+    "condition": "Eczema",
+    "symptoms": [
+      "dryness",
+      "itching"
+    ],
+    "match_weight": 0.75
+  },
+  {
+    "rec_id": "R062",
+    "prakriti": "Pitta",
+    "condition": "Eczema",
+    "symptoms": [
+      "dryness",
+      "itching"
+    ],
+    "match_weight": 0.75
+  },
+  {
+    "rec_id": "R062",
+    "prakriti": "Kapha",
+    "condition": "Eczema",
+    "symptoms": [
+      "dryness",
+      "itching"
+    ],
+    "match_weight": 0.75
+  },
+  {
+    "rec_id": "R063",
+    "prakriti": "Vata",
+    "condition": "Eczema",
+    "symptoms": [
+      "dryness",
+      "itching"
+    ],
+    "match_weight": 0.75
+  },
+  {
+    "rec_id": "R063",
+    "prakriti": "Pitta",
+    "condition": "Eczema",
+    "symptoms": [
+      "dryness",
+      "itching"
+    ],
+    "match_weight": 0.75
+  },
+  {
+    "rec_id": "R063",
+    "prakriti": "Kapha",
+    "condition": "Eczema",
+    "symptoms": [
+      "dryness",
+      "itching"
+    ],
+    "match_weight": 0.75
+  },
+  {
+    "rec_id": "R064",
+    "prakriti": "Vata",
+    "condition": "Eczema",
+    "symptoms": [
+      "dryness",
+      "itching"
+    ],
+    "match_weight": 0.75
+  },
+  {
+    "rec_id": "R064",
+    "prakriti": "Pitta",
+    "condition": "Eczema",
+    "symptoms": [
+      "dryness",
+      "itching"
+    ],
+    "match_weight": 0.75
+  },
+  {
+    "rec_id": "R064",
+    "prakriti": "Kapha",
+    "condition": "Eczema",
+    "symptoms": [
+      "dryness",
+      "itching"
+    ],
+    "match_weight": 0.75
+  },
+  {
+    "rec_id": "R065",
+    "prakriti": "Vata",
+    "condition": "Eczema",
+    "symptoms": [
+      "dryness",
+      "itching"
+    ],
+    "match_weight": 0.75
+  },
+  {
+    "rec_id": "R065",
+    "prakriti": "Pitta",
+    "condition": "Eczema",
+    "symptoms": [
+      "dryness",
+      "itching"
+    ],
+    "match_weight": 0.75
+  },
+  {
+    "rec_id": "R065",
+    "prakriti": "Kapha",
+    "condition": "Eczema",
+    "symptoms": [
+      "dryness",
+      "itching"
+    ],
+    "match_weight": 0.75
+  },
+  {
+    "rec_id": "R066",
+    "prakriti": "Vata",
+    "condition": "Eczema",
+    "symptoms": [
+      "dryness",
+      "itching"
+    ],
+    "match_weight": 0.75
+  },
+  {
+    "rec_id": "R066",
+    "prakriti": "Pitta",
+    "condition": "Eczema",
+    "symptoms": [
+      "dryness",
+      "itching"
+    ],
+    "match_weight": 0.75
+  },
+  {
+    "rec_id": "R066",
+    "prakriti": "Kapha",
+    "condition": "Eczema",
+    "symptoms": [
+      "dryness",
+      "itching"
+    ],
+    "match_weight": 0.75
+  },
+  {
+    "rec_id": "R067",
+    "prakriti": "Vata",
+    "condition": "Eczema",
+    "symptoms": [
+      "dryness",
+      "itching"
+    ],
+    "match_weight": 0.75
+  },
+  {
+    "rec_id": "R067",
+    "prakriti": "Pitta",
+    "condition": "Eczema",
+    "symptoms": [
+      "dryness",
+      "itching"
+    ],
+    "match_weight": 0.75
+  },
+  {
+    "rec_id": "R067",
+    "prakriti": "Kapha",
+    "condition": "Eczema",
+    "symptoms": [
+      "dryness",
+      "itching"
+    ],
+    "match_weight": 0.75
+  },
+  {
+    "rec_id": "R068",
+    "prakriti": "Vata",
+    "condition": "Eczema",
+    "symptoms": [
+      "dryness",
+      "itching"
+    ],
+    "match_weight": 0.75
+  },
+  {
+    "rec_id": "R068",
+    "prakriti": "Pitta",
+    "condition": "Eczema",
+    "symptoms": [
+      "dryness",
+      "itching"
+    ],
+    "match_weight": 0.75
+  },
+  {
+    "rec_id": "R068",
+    "prakriti": "Kapha",
+    "condition": "Eczema",
+    "symptoms": [
+      "dryness",
+      "itching"
+    ],
+    "match_weight": 0.75
+  },
+  {
+    "rec_id": "R069",
+    "prakriti": "Vata",
+    "condition": "Eczema",
+    "symptoms": [
+      "dryness",
+      "itching"
+    ],
+    "match_weight": 0.75
+  },
+  {
+    "rec_id": "R069",
+    "prakriti": "Pitta",
+    "condition": "Eczema",
+    "symptoms": [
+      "dryness",
+      "itching"
+    ],
+    "match_weight": 0.75
+  },
+  {
+    "rec_id": "R069",
+    "prakriti": "Kapha",
+    "condition": "Eczema",
+    "symptoms": [
+      "dryness",
+      "itching"
+    ],
+    "match_weight": 0.75
+  },
+  {
+    "rec_id": "R070",
+    "prakriti": "Vata",
+    "condition": "Eczema",
+    "symptoms": [
+      "dryness",
+      "itching"
+    ],
+    "match_weight": 0.75
+  },
+  {
+    "rec_id": "R070",
+    "prakriti": "Pitta",
+    "condition": "Eczema",
+    "symptoms": [
+      "dryness",
+      "itching"
+    ],
+    "match_weight": 0.75
+  },
+  {
+    "rec_id": "R070",
+    "prakriti": "Kapha",
+    "condition": "Eczema",
+    "symptoms": [
+      "dryness",
+      "itching"
+    ],
+    "match_weight": 0.75
+  },
+  {
+    "rec_id": "R071",
+    "prakriti": "Vata",
+    "condition": "Eczema",
+    "symptoms": [
+      "dryness",
+      "itching"
+    ],
+    "match_weight": 0.75
+  },
+  {
+    "rec_id": "R071",
+    "prakriti": "Pitta",
+    "condition": "Eczema",
+    "symptoms": [
+      "dryness",
+      "itching"
+    ],
+    "match_weight": 0.75
+  },
+  {
+    "rec_id": "R071",
+    "prakriti": "Kapha",
+    "condition": "Eczema",
+    "symptoms": [
+      "dryness",
+      "itching"
+    ],
+    "match_weight": 0.75
+  },
+  {
+    "rec_id": "R072",
+    "prakriti": "Vata",
+    "condition": "Eczema",
+    "symptoms": [
+      "dryness",
+      "itching"
+    ],
+    "match_weight": 0.75
+  },
+  {
+    "rec_id": "R072",
+    "prakriti": "Pitta",
+    "condition": "Eczema",
+    "symptoms": [
+      "dryness",
+      "itching"
+    ],
+    "match_weight": 0.75
+  },
+  {
+    "rec_id": "R072",
+    "prakriti": "Kapha",
+    "condition": "Eczema",
+    "symptoms": [
+      "dryness",
+      "itching"
+    ],
+    "match_weight": 0.75
+  },
+  {
+    "rec_id": "R073",
+    "prakriti": "Vata",
+    "condition": "Acne",
+    "symptoms": [
+      "oiliness",
+      "comedones",
+      "inflammation"
+    ],
+    "match_weight": 0.75
+  },
+  {
+    "rec_id": "R073",
+    "prakriti": "Pitta",
+    "condition": "Acne",
+    "symptoms": [
+      "oiliness",
+      "comedones",
+      "inflammation"
+    ],
+    "match_weight": 0.75
+  },
+  {
+    "rec_id": "R073",
+    "prakriti": "Kapha",
+    "condition": "Acne",
+    "symptoms": [
+      "oiliness",
+      "comedones",
+      "inflammation"
+    ],
+    "match_weight": 0.75
+  },
+  {
+    "rec_id": "R074",
+    "prakriti": "Vata",
+    "condition": "Acne",
+    "symptoms": [
+      "oiliness",
+      "comedones",
+      "inflammation"
+    ],
+    "match_weight": 0.75
+  },
+  {
+    "rec_id": "R074",
+    "prakriti": "Pitta",
+    "condition": "Acne",
+    "symptoms": [
+      "oiliness",
+      "comedones",
+      "inflammation"
+    ],
+    "match_weight": 0.75
+  },
+  {
+    "rec_id": "R074",
+    "prakriti": "Kapha",
+    "condition": "Acne",
+    "symptoms": [
+      "oiliness",
+      "comedones",
+      "inflammation"
+    ],
+    "match_weight": 0.75
+  },
+  {
+    "rec_id": "R075",
+    "prakriti": "Vata",
+    "condition": "Acne",
+    "symptoms": [
+      "oiliness",
+      "comedones",
+      "inflammation"
+    ],
+    "match_weight": 0.75
+  },
+  {
+    "rec_id": "R075",
+    "prakriti": "Pitta",
+    "condition": "Acne",
+    "symptoms": [
+      "oiliness",
+      "comedones",
+      "inflammation"
+    ],
+    "match_weight": 0.75
+  },
+  {
+    "rec_id": "R075",
+    "prakriti": "Kapha",
+    "condition": "Acne",
+    "symptoms": [
+      "oiliness",
+      "comedones",
+      "inflammation"
+    ],
+    "match_weight": 0.75
+  },
+  {
+    "rec_id": "R076",
+    "prakriti": "Vata",
+    "condition": "Acne",
+    "symptoms": [
+      "oiliness",
+      "comedones",
+      "inflammation"
+    ],
+    "match_weight": 0.75
+  },
+  {
+    "rec_id": "R076",
+    "prakriti": "Pitta",
+    "condition": "Acne",
+    "symptoms": [
+      "oiliness",
+      "comedones",
+      "inflammation"
+    ],
+    "match_weight": 0.75
+  },
+  {
+    "rec_id": "R076",
+    "prakriti": "Kapha",
+    "condition": "Acne",
+    "symptoms": [
+      "oiliness",
+      "comedones",
+      "inflammation"
+    ],
+    "match_weight": 0.75
+  },
+  {
+    "rec_id": "R077",
+    "prakriti": "Vata",
+    "condition": "Acne",
+    "symptoms": [
+      "oiliness",
+      "comedones",
+      "inflammation"
+    ],
+    "match_weight": 0.75
+  },
+  {
+    "rec_id": "R077",
+    "prakriti": "Pitta",
+    "condition": "Acne",
+    "symptoms": [
+      "oiliness",
+      "comedones",
+      "inflammation"
+    ],
+    "match_weight": 0.75
+  },
+  {
+    "rec_id": "R077",
+    "prakriti": "Kapha",
+    "condition": "Acne",
+    "symptoms": [
+      "oiliness",
+      "comedones",
+      "inflammation"
+    ],
+    "match_weight": 0.75
+  },
+  {
+    "rec_id": "R078",
+    "prakriti": "Vata",
+    "condition": "Acne",
+    "symptoms": [
+      "oiliness",
+      "comedones",
+      "inflammation"
+    ],
+    "match_weight": 0.75
+  },
+  {
+    "rec_id": "R078",
+    "prakriti": "Pitta",
+    "condition": "Acne",
+    "symptoms": [
+      "oiliness",
+      "comedones",
+      "inflammation"
+    ],
+    "match_weight": 0.75
+  },
+  {
+    "rec_id": "R078",
+    "prakriti": "Kapha",
+    "condition": "Acne",
+    "symptoms": [
+      "oiliness",
+      "comedones",
+      "inflammation"
+    ],
+    "match_weight": 0.75
+  },
+  {
+    "rec_id": "R079",
+    "prakriti": "Vata",
+    "condition": "Acne",
+    "symptoms": [
+      "oiliness",
+      "comedones",
+      "inflammation"
+    ],
+    "match_weight": 0.75
+  },
+  {
+    "rec_id": "R079",
+    "prakriti": "Pitta",
+    "condition": "Acne",
+    "symptoms": [
+      "oiliness",
+      "comedones",
+      "inflammation"
+    ],
+    "match_weight": 0.75
+  },
+  {
+    "rec_id": "R079",
+    "prakriti": "Kapha",
+    "condition": "Acne",
+    "symptoms": [
+      "oiliness",
+      "comedones",
+      "inflammation"
+    ],
+    "match_weight": 0.75
+  },
+  {
+    "rec_id": "R080",
+    "prakriti": "Vata",
+    "condition": "Acne",
+    "symptoms": [
+      "oiliness",
+      "comedones",
+      "inflammation"
+    ],
+    "match_weight": 0.75
+  },
+  {
+    "rec_id": "R080",
+    "prakriti": "Pitta",
+    "condition": "Acne",
+    "symptoms": [
+      "oiliness",
+      "comedones",
+      "inflammation"
+    ],
+    "match_weight": 0.75
+  },
+  {
+    "rec_id": "R080",
+    "prakriti": "Kapha",
+    "condition": "Acne",
+    "symptoms": [
+      "oiliness",
+      "comedones",
+      "inflammation"
+    ],
+    "match_weight": 0.75
+  },
+  {
+    "rec_id": "R081",
+    "prakriti": "Vata",
+    "condition": "Acne",
+    "symptoms": [
+      "oiliness",
+      "comedones",
+      "inflammation"
+    ],
+    "match_weight": 0.75
+  },
+  {
+    "rec_id": "R081",
+    "prakriti": "Pitta",
+    "condition": "Acne",
+    "symptoms": [
+      "oiliness",
+      "comedones",
+      "inflammation"
+    ],
+    "match_weight": 0.75
+  },
+  {
+    "rec_id": "R081",
+    "prakriti": "Kapha",
+    "condition": "Acne",
+    "symptoms": [
+      "oiliness",
+      "comedones",
+      "inflammation"
+    ],
+    "match_weight": 0.75
+  },
+  {
+    "rec_id": "R082",
+    "prakriti": "Vata",
+    "condition": "Acne",
+    "symptoms": [
+      "oiliness",
+      "comedones",
+      "inflammation"
+    ],
+    "match_weight": 0.75
+  },
+  {
+    "rec_id": "R082",
+    "prakriti": "Pitta",
+    "condition": "Acne",
+    "symptoms": [
+      "oiliness",
+      "comedones",
+      "inflammation"
+    ],
+    "match_weight": 0.75
+  },
+  {
+    "rec_id": "R082",
+    "prakriti": "Kapha",
+    "condition": "Acne",
+    "symptoms": [
+      "oiliness",
+      "comedones",
+      "inflammation"
+    ],
+    "match_weight": 0.75
+  },
+  {
+    "rec_id": "R083",
+    "prakriti": "Vata",
+    "condition": "Acne",
+    "symptoms": [
+      "oiliness",
+      "comedones",
+      "inflammation"
+    ],
+    "match_weight": 0.75
+  },
+  {
+    "rec_id": "R083",
+    "prakriti": "Pitta",
+    "condition": "Acne",
+    "symptoms": [
+      "oiliness",
+      "comedones",
+      "inflammation"
+    ],
+    "match_weight": 0.75
+  },
+  {
+    "rec_id": "R083",
+    "prakriti": "Kapha",
+    "condition": "Acne",
+    "symptoms": [
+      "oiliness",
+      "comedones",
+      "inflammation"
+    ],
+    "match_weight": 0.75
+  },
+  {
+    "rec_id": "R084",
+    "prakriti": "Vata",
+    "condition": "Acne",
+    "symptoms": [
+      "oiliness",
+      "comedones",
+      "inflammation"
+    ],
+    "match_weight": 0.75
+  },
+  {
+    "rec_id": "R084",
+    "prakriti": "Pitta",
+    "condition": "Acne",
+    "symptoms": [
+      "oiliness",
+      "comedones",
+      "inflammation"
+    ],
+    "match_weight": 0.75
+  },
+  {
+    "rec_id": "R084",
+    "prakriti": "Kapha",
+    "condition": "Acne",
+    "symptoms": [
+      "oiliness",
+      "comedones",
+      "inflammation"
+    ],
+    "match_weight": 0.75
+  },
+  {
+    "rec_id": "R085",
+    "prakriti": "Vata",
+    "condition": "Acne",
+    "symptoms": [
+      "oiliness",
+      "comedones",
+      "inflammation"
+    ],
+    "match_weight": 0.75
+  },
+  {
+    "rec_id": "R085",
+    "prakriti": "Pitta",
+    "condition": "Acne",
+    "symptoms": [
+      "oiliness",
+      "comedones",
+      "inflammation"
+    ],
+    "match_weight": 0.75
+  },
+  {
+    "rec_id": "R085",
+    "prakriti": "Kapha",
+    "condition": "Acne",
+    "symptoms": [
+      "oiliness",
+      "comedones",
+      "inflammation"
+    ],
+    "match_weight": 0.75
+  },
+  {
+    "rec_id": "R086",
+    "prakriti": "Vata",
+    "condition": "Acne",
+    "symptoms": [
+      "oiliness",
+      "comedones",
+      "inflammation"
+    ],
+    "match_weight": 0.75
+  },
+  {
+    "rec_id": "R086",
+    "prakriti": "Pitta",
+    "condition": "Acne",
+    "symptoms": [
+      "oiliness",
+      "comedones",
+      "inflammation"
+    ],
+    "match_weight": 0.75
+  },
+  {
+    "rec_id": "R086",
+    "prakriti": "Kapha",
+    "condition": "Acne",
+    "symptoms": [
+      "oiliness",
+      "comedones",
+      "inflammation"
+    ],
+    "match_weight": 0.75
+  },
+  {
+    "rec_id": "R087",
+    "prakriti": "Vata",
+    "condition": "Acne",
+    "symptoms": [
+      "oiliness",
+      "comedones",
+      "inflammation"
+    ],
+    "match_weight": 0.75
+  },
+  {
+    "rec_id": "R087",
+    "prakriti": "Pitta",
+    "condition": "Acne",
+    "symptoms": [
+      "oiliness",
+      "comedones",
+      "inflammation"
+    ],
+    "match_weight": 0.75
+  },
+  {
+    "rec_id": "R087",
+    "prakriti": "Kapha",
+    "condition": "Acne",
+    "symptoms": [
+      "oiliness",
+      "comedones",
+      "inflammation"
+    ],
+    "match_weight": 0.75
+  },
+  {
+    "rec_id": "R088",
+    "prakriti": "Vata",
+    "condition": "Acne",
+    "symptoms": [
+      "oiliness",
+      "comedones",
+      "inflammation"
+    ],
+    "match_weight": 0.75
+  },
+  {
+    "rec_id": "R088",
+    "prakriti": "Pitta",
+    "condition": "Acne",
+    "symptoms": [
+      "oiliness",
+      "comedones",
+      "inflammation"
+    ],
+    "match_weight": 0.75
+  },
+  {
+    "rec_id": "R088",
+    "prakriti": "Kapha",
+    "condition": "Acne",
+    "symptoms": [
+      "oiliness",
+      "comedones",
+      "inflammation"
+    ],
+    "match_weight": 0.75
+  },
+  {
+    "rec_id": "R089",
+    "prakriti": "Vata",
+    "condition": "Acne",
+    "symptoms": [
+      "oiliness",
+      "comedones",
+      "inflammation"
+    ],
+    "match_weight": 0.75
+  },
+  {
+    "rec_id": "R089",
+    "prakriti": "Pitta",
+    "condition": "Acne",
+    "symptoms": [
+      "oiliness",
+      "comedones",
+      "inflammation"
+    ],
+    "match_weight": 0.75
+  },
+  {
+    "rec_id": "R089",
+    "prakriti": "Kapha",
+    "condition": "Acne",
+    "symptoms": [
+      "oiliness",
+      "comedones",
+      "inflammation"
+    ],
+    "match_weight": 0.75
+  },
+  {
+    "rec_id": "R090",
+    "prakriti": "Vata",
+    "condition": "Acne",
+    "symptoms": [
+      "oiliness",
+      "comedones",
+      "inflammation"
+    ],
+    "match_weight": 0.75
+  },
+  {
+    "rec_id": "R090",
+    "prakriti": "Pitta",
+    "condition": "Acne",
+    "symptoms": [
+      "oiliness",
+      "comedones",
+      "inflammation"
+    ],
+    "match_weight": 0.75
+  },
+  {
+    "rec_id": "R090",
+    "prakriti": "Kapha",
+    "condition": "Acne",
+    "symptoms": [
+      "oiliness",
+      "comedones",
+      "inflammation"
+    ],
+    "match_weight": 0.75
+  },
+  {
+    "rec_id": "R091",
+    "prakriti": "Vata",
+    "condition": "Acne",
+    "symptoms": [
+      "oiliness",
+      "comedones",
+      "inflammation"
+    ],
+    "match_weight": 0.75
+  },
+  {
+    "rec_id": "R091",
+    "prakriti": "Pitta",
+    "condition": "Acne",
+    "symptoms": [
+      "oiliness",
+      "comedones",
+      "inflammation"
+    ],
+    "match_weight": 0.75
+  },
+  {
+    "rec_id": "R091",
+    "prakriti": "Kapha",
+    "condition": "Acne",
+    "symptoms": [
+      "oiliness",
+      "comedones",
+      "inflammation"
+    ],
+    "match_weight": 0.75
+  },
+  {
+    "rec_id": "R092",
+    "prakriti": "Vata",
+    "condition": "Acne",
+    "symptoms": [
+      "oiliness",
+      "comedones",
+      "inflammation"
+    ],
+    "match_weight": 0.75
+  },
+  {
+    "rec_id": "R092",
+    "prakriti": "Pitta",
+    "condition": "Acne",
+    "symptoms": [
+      "oiliness",
+      "comedones",
+      "inflammation"
+    ],
+    "match_weight": 0.75
+  },
+  {
+    "rec_id": "R092",
+    "prakriti": "Kapha",
+    "condition": "Acne",
+    "symptoms": [
+      "oiliness",
+      "comedones",
+      "inflammation"
+    ],
+    "match_weight": 0.75
+  },
+  {
+    "rec_id": "R093",
+    "prakriti": "Vata",
+    "condition": "Acne",
+    "symptoms": [
+      "oiliness",
+      "comedones",
+      "inflammation"
+    ],
+    "match_weight": 0.75
+  },
+  {
+    "rec_id": "R093",
+    "prakriti": "Pitta",
+    "condition": "Acne",
+    "symptoms": [
+      "oiliness",
+      "comedones",
+      "inflammation"
+    ],
+    "match_weight": 0.75
+  },
+  {
+    "rec_id": "R093",
+    "prakriti": "Kapha",
+    "condition": "Acne",
+    "symptoms": [
+      "oiliness",
+      "comedones",
+      "inflammation"
+    ],
+    "match_weight": 0.75
+  },
+  {
+    "rec_id": "R094",
+    "prakriti": "Vata",
+    "condition": "Acne",
+    "symptoms": [
+      "oiliness",
+      "comedones",
+      "inflammation"
+    ],
+    "match_weight": 0.75
+  },
+  {
+    "rec_id": "R094",
+    "prakriti": "Pitta",
+    "condition": "Acne",
+    "symptoms": [
+      "oiliness",
+      "comedones",
+      "inflammation"
+    ],
+    "match_weight": 0.75
+  },
+  {
+    "rec_id": "R094",
+    "prakriti": "Kapha",
+    "condition": "Acne",
+    "symptoms": [
+      "oiliness",
+      "comedones",
+      "inflammation"
+    ],
+    "match_weight": 0.75
+  },
+  {
+    "rec_id": "R095",
+    "prakriti": "Vata",
+    "condition": "Psoriasis",
+    "symptoms": [
+      "thick_scaling",
+      "inflammation"
+    ],
+    "match_weight": 0.75
+  },
+  {
+    "rec_id": "R095",
+    "prakriti": "Pitta",
+    "condition": "Psoriasis",
+    "symptoms": [
+      "thick_scaling",
+      "inflammation"
+    ],
+    "match_weight": 0.75
+  },
+  {
+    "rec_id": "R095",
+    "prakriti": "Kapha",
+    "condition": "Psoriasis",
+    "symptoms": [
+      "thick_scaling",
+      "inflammation"
+    ],
+    "match_weight": 0.75
+  },
+  {
+    "rec_id": "R096",
+    "prakriti": "Vata",
+    "condition": "Psoriasis",
+    "symptoms": [
+      "thick_scaling",
+      "inflammation"
+    ],
+    "match_weight": 0.75
+  },
+  {
+    "rec_id": "R096",
+    "prakriti": "Pitta",
+    "condition": "Psoriasis",
+    "symptoms": [
+      "thick_scaling",
+      "inflammation"
+    ],
+    "match_weight": 0.75
+  },
+  {
+    "rec_id": "R096",
+    "prakriti": "Kapha",
+    "condition": "Psoriasis",
+    "symptoms": [
+      "thick_scaling",
+      "inflammation"
+    ],
+    "match_weight": 0.75
+  },
+  {
+    "rec_id": "R097",
+    "prakriti": "Vata",
+    "condition": "Psoriasis",
+    "symptoms": [
+      "thick_scaling",
+      "inflammation"
+    ],
+    "match_weight": 0.75
+  },
+  {
+    "rec_id": "R097",
+    "prakriti": "Pitta",
+    "condition": "Psoriasis",
+    "symptoms": [
+      "thick_scaling",
+      "inflammation"
+    ],
+    "match_weight": 0.75
+  },
+  {
+    "rec_id": "R097",
+    "prakriti": "Kapha",
+    "condition": "Psoriasis",
+    "symptoms": [
+      "thick_scaling",
+      "inflammation"
+    ],
+    "match_weight": 0.75
+  },
+  {
+    "rec_id": "R098",
+    "prakriti": "Vata",
+    "condition": "Psoriasis",
+    "symptoms": [
+      "thick_scaling",
+      "inflammation"
+    ],
+    "match_weight": 0.75
+  },
+  {
+    "rec_id": "R098",
+    "prakriti": "Pitta",
+    "condition": "Psoriasis",
+    "symptoms": [
+      "thick_scaling",
+      "inflammation"
+    ],
+    "match_weight": 0.75
+  },
+  {
+    "rec_id": "R098",
+    "prakriti": "Kapha",
+    "condition": "Psoriasis",
+    "symptoms": [
+      "thick_scaling",
+      "inflammation"
+    ],
+    "match_weight": 0.75
+  },
+  {
+    "rec_id": "R099",
+    "prakriti": "Vata",
+    "condition": "Psoriasis",
+    "symptoms": [
+      "thick_scaling",
+      "inflammation"
+    ],
+    "match_weight": 0.75
+  },
+  {
+    "rec_id": "R099",
+    "prakriti": "Pitta",
+    "condition": "Psoriasis",
+    "symptoms": [
+      "thick_scaling",
+      "inflammation"
+    ],
+    "match_weight": 0.75
+  },
+  {
+    "rec_id": "R099",
+    "prakriti": "Kapha",
+    "condition": "Psoriasis",
+    "symptoms": [
+      "thick_scaling",
+      "inflammation"
+    ],
+    "match_weight": 0.75
+  },
+  {
+    "rec_id": "R100",
+    "prakriti": "Vata",
+    "condition": "Psoriasis",
+    "symptoms": [
+      "thick_scaling",
+      "inflammation"
+    ],
+    "match_weight": 0.75
+  },
+  {
+    "rec_id": "R100",
+    "prakriti": "Pitta",
+    "condition": "Psoriasis",
+    "symptoms": [
+      "thick_scaling",
+      "inflammation"
+    ],
+    "match_weight": 0.75
+  },
+  {
+    "rec_id": "R100",
+    "prakriti": "Kapha",
+    "condition": "Psoriasis",
+    "symptoms": [
+      "thick_scaling",
+      "inflammation"
+    ],
+    "match_weight": 0.75
+  },
+  {
+    "rec_id": "R101",
+    "prakriti": "Vata",
+    "condition": "Psoriasis",
+    "symptoms": [
+      "thick_scaling",
+      "inflammation"
+    ],
+    "match_weight": 0.75
+  },
+  {
+    "rec_id": "R101",
+    "prakriti": "Pitta",
+    "condition": "Psoriasis",
+    "symptoms": [
+      "thick_scaling",
+      "inflammation"
+    ],
+    "match_weight": 0.75
+  },
+  {
+    "rec_id": "R101",
+    "prakriti": "Kapha",
+    "condition": "Psoriasis",
+    "symptoms": [
+      "thick_scaling",
+      "inflammation"
+    ],
+    "match_weight": 0.75
+  },
+  {
+    "rec_id": "R102",
+    "prakriti": "Vata",
+    "condition": "Psoriasis",
+    "symptoms": [
+      "thick_scaling",
+      "inflammation"
+    ],
+    "match_weight": 0.75
+  },
+  {
+    "rec_id": "R102",
+    "prakriti": "Pitta",
+    "condition": "Psoriasis",
+    "symptoms": [
+      "thick_scaling",
+      "inflammation"
+    ],
+    "match_weight": 0.75
+  },
+  {
+    "rec_id": "R102",
+    "prakriti": "Kapha",
+    "condition": "Psoriasis",
+    "symptoms": [
+      "thick_scaling",
+      "inflammation"
+    ],
+    "match_weight": 0.75
+  },
+  {
+    "rec_id": "R103",
+    "prakriti": "Vata",
+    "condition": "Psoriasis",
+    "symptoms": [
+      "thick_scaling",
+      "inflammation"
+    ],
+    "match_weight": 0.75
+  },
+  {
+    "rec_id": "R103",
+    "prakriti": "Pitta",
+    "condition": "Psoriasis",
+    "symptoms": [
+      "thick_scaling",
+      "inflammation"
+    ],
+    "match_weight": 0.75
+  },
+  {
+    "rec_id": "R103",
+    "prakriti": "Kapha",
+    "condition": "Psoriasis",
+    "symptoms": [
+      "thick_scaling",
+      "inflammation"
+    ],
+    "match_weight": 0.75
+  },
+  {
+    "rec_id": "R104",
+    "prakriti": "Vata",
+    "condition": "Psoriasis",
+    "symptoms": [
+      "thick_scaling",
+      "inflammation"
+    ],
+    "match_weight": 0.75
+  },
+  {
+    "rec_id": "R104",
+    "prakriti": "Pitta",
+    "condition": "Psoriasis",
+    "symptoms": [
+      "thick_scaling",
+      "inflammation"
+    ],
+    "match_weight": 0.75
+  },
+  {
+    "rec_id": "R104",
+    "prakriti": "Kapha",
+    "condition": "Psoriasis",
+    "symptoms": [
+      "thick_scaling",
+      "inflammation"
+    ],
+    "match_weight": 0.75
+  },
+  {
+    "rec_id": "R105",
+    "prakriti": "Vata",
+    "condition": "Psoriasis",
+    "symptoms": [
+      "thick_scaling",
+      "inflammation"
+    ],
+    "match_weight": 0.75
+  },
+  {
+    "rec_id": "R105",
+    "prakriti": "Pitta",
+    "condition": "Psoriasis",
+    "symptoms": [
+      "thick_scaling",
+      "inflammation"
+    ],
+    "match_weight": 0.75
+  },
+  {
+    "rec_id": "R105",
+    "prakriti": "Kapha",
+    "condition": "Psoriasis",
+    "symptoms": [
+      "thick_scaling",
+      "inflammation"
+    ],
+    "match_weight": 0.75
+  },
+  {
+    "rec_id": "R106",
+    "prakriti": "Vata",
+    "condition": "Psoriasis",
+    "symptoms": [
+      "thick_scaling",
+      "inflammation"
+    ],
+    "match_weight": 0.75
+  },
+  {
+    "rec_id": "R106",
+    "prakriti": "Pitta",
+    "condition": "Psoriasis",
+    "symptoms": [
+      "thick_scaling",
+      "inflammation"
+    ],
+    "match_weight": 0.75
+  },
+  {
+    "rec_id": "R106",
+    "prakriti": "Kapha",
+    "condition": "Psoriasis",
+    "symptoms": [
+      "thick_scaling",
+      "inflammation"
+    ],
+    "match_weight": 0.75
+  },
+  {
+    "rec_id": "R107",
+    "prakriti": "Vata",
+    "condition": "Psoriasis",
+    "symptoms": [
+      "thick_scaling",
+      "inflammation"
+    ],
+    "match_weight": 0.75
+  },
+  {
+    "rec_id": "R107",
+    "prakriti": "Pitta",
+    "condition": "Psoriasis",
+    "symptoms": [
+      "thick_scaling",
+      "inflammation"
+    ],
+    "match_weight": 0.75
+  },
+  {
+    "rec_id": "R107",
+    "prakriti": "Kapha",
+    "condition": "Psoriasis",
+    "symptoms": [
+      "thick_scaling",
+      "inflammation"
+    ],
+    "match_weight": 0.75
+  },
+  {
+    "rec_id": "R108",
+    "prakriti": "Vata",
+    "condition": "Psoriasis",
+    "symptoms": [
+      "thick_scaling",
+      "inflammation"
+    ],
+    "match_weight": 0.75
+  },
+  {
+    "rec_id": "R108",
+    "prakriti": "Pitta",
+    "condition": "Psoriasis",
+    "symptoms": [
+      "thick_scaling",
+      "inflammation"
+    ],
+    "match_weight": 0.75
+  },
+  {
+    "rec_id": "R108",
+    "prakriti": "Kapha",
+    "condition": "Psoriasis",
+    "symptoms": [
+      "thick_scaling",
+      "inflammation"
+    ],
+    "match_weight": 0.75
+  },
+  {
+    "rec_id": "R109",
+    "prakriti": "Vata",
+    "condition": "Psoriasis",
+    "symptoms": [
+      "thick_scaling",
+      "inflammation"
+    ],
+    "match_weight": 0.75
+  },
+  {
+    "rec_id": "R109",
+    "prakriti": "Pitta",
+    "condition": "Psoriasis",
+    "symptoms": [
+      "thick_scaling",
+      "inflammation"
+    ],
+    "match_weight": 0.75
+  },
+  {
+    "rec_id": "R109",
+    "prakriti": "Kapha",
+    "condition": "Psoriasis",
+    "symptoms": [
+      "thick_scaling",
+      "inflammation"
+    ],
+    "match_weight": 0.75
+  },
+  {
+    "rec_id": "R110",
+    "prakriti": "Vata",
+    "condition": "Psoriasis",
+    "symptoms": [
+      "thick_scaling",
+      "inflammation"
+    ],
+    "match_weight": 0.75
+  },
+  {
+    "rec_id": "R110",
+    "prakriti": "Pitta",
+    "condition": "Psoriasis",
+    "symptoms": [
+      "thick_scaling",
+      "inflammation"
+    ],
+    "match_weight": 0.75
+  },
+  {
+    "rec_id": "R110",
+    "prakriti": "Kapha",
+    "condition": "Psoriasis",
+    "symptoms": [
+      "thick_scaling",
+      "inflammation"
+    ],
+    "match_weight": 0.75
+  },
+  {
+    "rec_id": "R111",
+    "prakriti": "Vata",
+    "condition": "Psoriasis",
+    "symptoms": [
+      "thick_scaling",
+      "inflammation"
+    ],
+    "match_weight": 0.75
+  },
+  {
+    "rec_id": "R111",
+    "prakriti": "Pitta",
+    "condition": "Psoriasis",
+    "symptoms": [
+      "thick_scaling",
+      "inflammation"
+    ],
+    "match_weight": 0.75
+  },
+  {
+    "rec_id": "R111",
+    "prakriti": "Kapha",
+    "condition": "Psoriasis",
+    "symptoms": [
+      "thick_scaling",
+      "inflammation"
+    ],
+    "match_weight": 0.75
+  },
+  {
+    "rec_id": "R112",
+    "prakriti": "Vata",
+    "condition": "Psoriasis",
+    "symptoms": [
+      "thick_scaling",
+      "inflammation"
+    ],
+    "match_weight": 0.75
+  },
+  {
+    "rec_id": "R112",
+    "prakriti": "Pitta",
+    "condition": "Psoriasis",
+    "symptoms": [
+      "thick_scaling",
+      "inflammation"
+    ],
+    "match_weight": 0.75
+  },
+  {
+    "rec_id": "R112",
+    "prakriti": "Kapha",
+    "condition": "Psoriasis",
+    "symptoms": [
+      "thick_scaling",
+      "inflammation"
+    ],
+    "match_weight": 0.75
+  },
+  {
+    "rec_id": "R113",
+    "prakriti": "Vata",
+    "condition": "Psoriasis",
+    "symptoms": [
+      "thick_scaling",
+      "inflammation"
+    ],
+    "match_weight": 0.75
+  },
+  {
+    "rec_id": "R113",
+    "prakriti": "Pitta",
+    "condition": "Psoriasis",
+    "symptoms": [
+      "thick_scaling",
+      "inflammation"
+    ],
+    "match_weight": 0.75
+  },
+  {
+    "rec_id": "R113",
+    "prakriti": "Kapha",
+    "condition": "Psoriasis",
+    "symptoms": [
+      "thick_scaling",
+      "inflammation"
+    ],
+    "match_weight": 0.75
+  },
+  {
+    "rec_id": "R114",
+    "prakriti": "Vata",
+    "condition": "Psoriasis",
+    "symptoms": [
+      "thick_scaling",
+      "inflammation"
+    ],
+    "match_weight": 0.75
+  },
+  {
+    "rec_id": "R114",
+    "prakriti": "Pitta",
+    "condition": "Psoriasis",
+    "symptoms": [
+      "thick_scaling",
+      "inflammation"
+    ],
+    "match_weight": 0.75
+  },
+  {
+    "rec_id": "R114",
+    "prakriti": "Kapha",
+    "condition": "Psoriasis",
+    "symptoms": [
+      "thick_scaling",
+      "inflammation"
+    ],
+    "match_weight": 0.75
+  },
+  {
+    "rec_id": "R115",
+    "prakriti": "Vata",
+    "condition": "Psoriasis",
+    "symptoms": [
+      "thick_scaling",
+      "inflammation"
+    ],
+    "match_weight": 0.75
+  },
+  {
+    "rec_id": "R115",
+    "prakriti": "Pitta",
+    "condition": "Psoriasis",
+    "symptoms": [
+      "thick_scaling",
+      "inflammation"
+    ],
+    "match_weight": 0.75
+  },
+  {
+    "rec_id": "R115",
+    "prakriti": "Kapha",
+    "condition": "Psoriasis",
+    "symptoms": [
+      "thick_scaling",
+      "inflammation"
+    ],
+    "match_weight": 0.75
+  },
+  {
+    "rec_id": "R116",
+    "prakriti": "Vata",
+    "condition": "Psoriasis",
+    "symptoms": [
+      "thick_scaling",
+      "inflammation"
+    ],
+    "match_weight": 0.75
+  },
+  {
+    "rec_id": "R116",
+    "prakriti": "Pitta",
+    "condition": "Psoriasis",
+    "symptoms": [
+      "thick_scaling",
+      "inflammation"
+    ],
+    "match_weight": 0.75
+  },
+  {
+    "rec_id": "R116",
+    "prakriti": "Kapha",
+    "condition": "Psoriasis",
+    "symptoms": [
+      "thick_scaling",
+      "inflammation"
+    ],
+    "match_weight": 0.75
+  },
+  {
+    "rec_id": "R117",
+    "prakriti": "Vata",
+    "condition": "Fungal Infection",
+    "symptoms": [
+      "moist_patches",
+      "itching"
+    ],
+    "match_weight": 0.75
+  },
+  {
+    "rec_id": "R117",
+    "prakriti": "Pitta",
+    "condition": "Fungal Infection",
+    "symptoms": [
+      "moist_patches",
+      "itching"
+    ],
+    "match_weight": 0.75
+  },
+  {
+    "rec_id": "R117",
+    "prakriti": "Kapha",
+    "condition": "Fungal Infection",
+    "symptoms": [
+      "moist_patches",
+      "itching"
+    ],
+    "match_weight": 0.75
+  },
+  {
+    "rec_id": "R118",
+    "prakriti": "Vata",
+    "condition": "Fungal Infection",
+    "symptoms": [
+      "moist_patches",
+      "itching"
+    ],
+    "match_weight": 0.75
+  },
+  {
+    "rec_id": "R118",
+    "prakriti": "Pitta",
+    "condition": "Fungal Infection",
+    "symptoms": [
+      "moist_patches",
+      "itching"
+    ],
+    "match_weight": 0.75
+  },
+  {
+    "rec_id": "R118",
+    "prakriti": "Kapha",
+    "condition": "Fungal Infection",
+    "symptoms": [
+      "moist_patches",
+      "itching"
+    ],
+    "match_weight": 0.75
+  },
+  {
+    "rec_id": "R119",
+    "prakriti": "Vata",
+    "condition": "Fungal Infection",
+    "symptoms": [
+      "moist_patches",
+      "itching"
+    ],
+    "match_weight": 0.75
+  },
+  {
+    "rec_id": "R119",
+    "prakriti": "Pitta",
+    "condition": "Fungal Infection",
+    "symptoms": [
+      "moist_patches",
+      "itching"
+    ],
+    "match_weight": 0.75
+  },
+  {
+    "rec_id": "R119",
+    "prakriti": "Kapha",
+    "condition": "Fungal Infection",
+    "symptoms": [
+      "moist_patches",
+      "itching"
+    ],
+    "match_weight": 0.75
+  },
+  {
+    "rec_id": "R120",
+    "prakriti": "Vata",
+    "condition": "Fungal Infection",
+    "symptoms": [
+      "moist_patches",
+      "itching"
+    ],
+    "match_weight": 0.75
+  },
+  {
+    "rec_id": "R120",
+    "prakriti": "Pitta",
+    "condition": "Fungal Infection",
+    "symptoms": [
+      "moist_patches",
+      "itching"
+    ],
+    "match_weight": 0.75
+  },
+  {
+    "rec_id": "R120",
+    "prakriti": "Kapha",
+    "condition": "Fungal Infection",
+    "symptoms": [
+      "moist_patches",
+      "itching"
+    ],
+    "match_weight": 0.75
+  },
+  {
+    "rec_id": "R121",
+    "prakriti": "Vata",
+    "condition": "Fungal Infection",
+    "symptoms": [
+      "moist_patches",
+      "itching"
+    ],
+    "match_weight": 0.75
+  },
+  {
+    "rec_id": "R121",
+    "prakriti": "Pitta",
+    "condition": "Fungal Infection",
+    "symptoms": [
+      "moist_patches",
+      "itching"
+    ],
+    "match_weight": 0.75
+  },
+  {
+    "rec_id": "R121",
+    "prakriti": "Kapha",
+    "condition": "Fungal Infection",
+    "symptoms": [
+      "moist_patches",
+      "itching"
+    ],
+    "match_weight": 0.75
+  },
+  {
+    "rec_id": "R122",
+    "prakriti": "Vata",
+    "condition": "Fungal Infection",
+    "symptoms": [
+      "moist_patches",
+      "itching"
+    ],
+    "match_weight": 0.75
+  },
+  {
+    "rec_id": "R122",
+    "prakriti": "Pitta",
+    "condition": "Fungal Infection",
+    "symptoms": [
+      "moist_patches",
+      "itching"
+    ],
+    "match_weight": 0.75
+  },
+  {
+    "rec_id": "R122",
+    "prakriti": "Kapha",
+    "condition": "Fungal Infection",
+    "symptoms": [
+      "moist_patches",
+      "itching"
+    ],
+    "match_weight": 0.75
+  },
+  {
+    "rec_id": "R123",
+    "prakriti": "Vata",
+    "condition": "Fungal Infection",
+    "symptoms": [
+      "moist_patches",
+      "itching"
+    ],
+    "match_weight": 0.75
+  },
+  {
+    "rec_id": "R123",
+    "prakriti": "Pitta",
+    "condition": "Fungal Infection",
+    "symptoms": [
+      "moist_patches",
+      "itching"
+    ],
+    "match_weight": 0.75
+  },
+  {
+    "rec_id": "R123",
+    "prakriti": "Kapha",
+    "condition": "Fungal Infection",
+    "symptoms": [
+      "moist_patches",
+      "itching"
+    ],
+    "match_weight": 0.75
+  },
+  {
+    "rec_id": "R124",
+    "prakriti": "Vata",
+    "condition": "Fungal Infection",
+    "symptoms": [
+      "moist_patches",
+      "itching"
+    ],
+    "match_weight": 0.75
+  },
+  {
+    "rec_id": "R124",
+    "prakriti": "Pitta",
+    "condition": "Fungal Infection",
+    "symptoms": [
+      "moist_patches",
+      "itching"
+    ],
+    "match_weight": 0.75
+  },
+  {
+    "rec_id": "R124",
+    "prakriti": "Kapha",
+    "condition": "Fungal Infection",
+    "symptoms": [
+      "moist_patches",
+      "itching"
+    ],
+    "match_weight": 0.75
+  },
+  {
+    "rec_id": "R125",
+    "prakriti": "Vata",
+    "condition": "Fungal Infection",
+    "symptoms": [
+      "moist_patches",
+      "itching"
+    ],
+    "match_weight": 0.75
+  },
+  {
+    "rec_id": "R125",
+    "prakriti": "Pitta",
+    "condition": "Fungal Infection",
+    "symptoms": [
+      "moist_patches",
+      "itching"
+    ],
+    "match_weight": 0.75
+  },
+  {
+    "rec_id": "R125",
+    "prakriti": "Kapha",
+    "condition": "Fungal Infection",
+    "symptoms": [
+      "moist_patches",
+      "itching"
+    ],
+    "match_weight": 0.75
+  },
+  {
+    "rec_id": "R126",
+    "prakriti": "Vata",
+    "condition": "Fungal Infection",
+    "symptoms": [
+      "moist_patches",
+      "itching"
+    ],
+    "match_weight": 0.75
+  },
+  {
+    "rec_id": "R126",
+    "prakriti": "Pitta",
+    "condition": "Fungal Infection",
+    "symptoms": [
+      "moist_patches",
+      "itching"
+    ],
+    "match_weight": 0.75
+  },
+  {
+    "rec_id": "R126",
+    "prakriti": "Kapha",
+    "condition": "Fungal Infection",
+    "symptoms": [
+      "moist_patches",
+      "itching"
+    ],
+    "match_weight": 0.75
+  },
+  {
+    "rec_id": "R127",
+    "prakriti": "Vata",
+    "condition": "Fungal Infection",
+    "symptoms": [
+      "moist_patches",
+      "itching"
+    ],
+    "match_weight": 0.75
+  },
+  {
+    "rec_id": "R127",
+    "prakriti": "Pitta",
+    "condition": "Fungal Infection",
+    "symptoms": [
+      "moist_patches",
+      "itching"
+    ],
+    "match_weight": 0.75
+  },
+  {
+    "rec_id": "R127",
+    "prakriti": "Kapha",
+    "condition": "Fungal Infection",
+    "symptoms": [
+      "moist_patches",
+      "itching"
+    ],
+    "match_weight": 0.75
+  },
+  {
+    "rec_id": "R128",
+    "prakriti": "Vata",
+    "condition": "Fungal Infection",
+    "symptoms": [
+      "moist_patches",
+      "itching"
+    ],
+    "match_weight": 0.75
+  },
+  {
+    "rec_id": "R128",
+    "prakriti": "Pitta",
+    "condition": "Fungal Infection",
+    "symptoms": [
+      "moist_patches",
+      "itching"
+    ],
+    "match_weight": 0.75
+  },
+  {
+    "rec_id": "R128",
+    "prakriti": "Kapha",
+    "condition": "Fungal Infection",
+    "symptoms": [
+      "moist_patches",
+      "itching"
+    ],
+    "match_weight": 0.75
+  },
+  {
+    "rec_id": "R129",
+    "prakriti": "Vata",
+    "condition": "Fungal Infection",
+    "symptoms": [
+      "moist_patches",
+      "itching"
+    ],
+    "match_weight": 0.75
+  },
+  {
+    "rec_id": "R129",
+    "prakriti": "Pitta",
+    "condition": "Fungal Infection",
+    "symptoms": [
+      "moist_patches",
+      "itching"
+    ],
+    "match_weight": 0.75
+  },
+  {
+    "rec_id": "R129",
+    "prakriti": "Kapha",
+    "condition": "Fungal Infection",
+    "symptoms": [
+      "moist_patches",
+      "itching"
+    ],
+    "match_weight": 0.75
+  },
+  {
+    "rec_id": "R130",
+    "prakriti": "Vata",
+    "condition": "Fungal Infection",
+    "symptoms": [
+      "moist_patches",
+      "itching"
+    ],
+    "match_weight": 0.75
+  },
+  {
+    "rec_id": "R130",
+    "prakriti": "Pitta",
+    "condition": "Fungal Infection",
+    "symptoms": [
+      "moist_patches",
+      "itching"
+    ],
+    "match_weight": 0.75
+  },
+  {
+    "rec_id": "R130",
+    "prakriti": "Kapha",
+    "condition": "Fungal Infection",
+    "symptoms": [
+      "moist_patches",
+      "itching"
+    ],
+    "match_weight": 0.75
+  },
+  {
+    "rec_id": "R131",
+    "prakriti": "Vata",
+    "condition": "Fungal Infection",
+    "symptoms": [
+      "moist_patches",
+      "itching"
+    ],
+    "match_weight": 0.75
+  },
+  {
+    "rec_id": "R131",
+    "prakriti": "Pitta",
+    "condition": "Fungal Infection",
+    "symptoms": [
+      "moist_patches",
+      "itching"
+    ],
+    "match_weight": 0.75
+  },
+  {
+    "rec_id": "R131",
+    "prakriti": "Kapha",
+    "condition": "Fungal Infection",
+    "symptoms": [
+      "moist_patches",
+      "itching"
+    ],
+    "match_weight": 0.75
+  },
+  {
+    "rec_id": "R132",
+    "prakriti": "Vata",
+    "condition": "Fungal Infection",
+    "symptoms": [
+      "moist_patches",
+      "itching"
+    ],
+    "match_weight": 0.75
+  },
+  {
+    "rec_id": "R132",
+    "prakriti": "Pitta",
+    "condition": "Fungal Infection",
+    "symptoms": [
+      "moist_patches",
+      "itching"
+    ],
+    "match_weight": 0.75
+  },
+  {
+    "rec_id": "R132",
+    "prakriti": "Kapha",
+    "condition": "Fungal Infection",
+    "symptoms": [
+      "moist_patches",
+      "itching"
+    ],
+    "match_weight": 0.75
+  },
+  {
+    "rec_id": "R133",
+    "prakriti": "Vata",
+    "condition": "Fungal Infection",
+    "symptoms": [
+      "moist_patches",
+      "itching"
+    ],
+    "match_weight": 0.75
+  },
+  {
+    "rec_id": "R133",
+    "prakriti": "Pitta",
+    "condition": "Fungal Infection",
+    "symptoms": [
+      "moist_patches",
+      "itching"
+    ],
+    "match_weight": 0.75
+  },
+  {
+    "rec_id": "R133",
+    "prakriti": "Kapha",
+    "condition": "Fungal Infection",
+    "symptoms": [
+      "moist_patches",
+      "itching"
+    ],
+    "match_weight": 0.75
+  },
+  {
+    "rec_id": "R134",
+    "prakriti": "Vata",
+    "condition": "Fungal Infection",
+    "symptoms": [
+      "moist_patches",
+      "itching"
+    ],
+    "match_weight": 0.75
+  },
+  {
+    "rec_id": "R134",
+    "prakriti": "Pitta",
+    "condition": "Fungal Infection",
+    "symptoms": [
+      "moist_patches",
+      "itching"
+    ],
+    "match_weight": 0.75
+  },
+  {
+    "rec_id": "R134",
+    "prakriti": "Kapha",
+    "condition": "Fungal Infection",
+    "symptoms": [
+      "moist_patches",
+      "itching"
+    ],
+    "match_weight": 0.75
+  },
+  {
+    "rec_id": "R135",
+    "prakriti": "Vata",
+    "condition": "Fungal Infection",
+    "symptoms": [
+      "moist_patches",
+      "itching"
+    ],
+    "match_weight": 0.75
+  },
+  {
+    "rec_id": "R135",
+    "prakriti": "Pitta",
+    "condition": "Fungal Infection",
+    "symptoms": [
+      "moist_patches",
+      "itching"
+    ],
+    "match_weight": 0.75
+  },
+  {
+    "rec_id": "R135",
+    "prakriti": "Kapha",
+    "condition": "Fungal Infection",
+    "symptoms": [
+      "moist_patches",
+      "itching"
+    ],
+    "match_weight": 0.75
+  },
+  {
+    "rec_id": "R136",
+    "prakriti": "Vata",
+    "condition": "Fungal Infection",
+    "symptoms": [
+      "moist_patches",
+      "itching"
+    ],
+    "match_weight": 0.75
+  },
+  {
+    "rec_id": "R136",
+    "prakriti": "Pitta",
+    "condition": "Fungal Infection",
+    "symptoms": [
+      "moist_patches",
+      "itching"
+    ],
+    "match_weight": 0.75
+  },
+  {
+    "rec_id": "R136",
+    "prakriti": "Kapha",
+    "condition": "Fungal Infection",
+    "symptoms": [
+      "moist_patches",
+      "itching"
+    ],
+    "match_weight": 0.75
+  },
+  {
+    "rec_id": "R137",
+    "prakriti": "Vata",
+    "condition": "Fungal Infection",
+    "symptoms": [
+      "moist_patches",
+      "itching"
+    ],
+    "match_weight": 0.75
+  },
+  {
+    "rec_id": "R137",
+    "prakriti": "Pitta",
+    "condition": "Fungal Infection",
+    "symptoms": [
+      "moist_patches",
+      "itching"
+    ],
+    "match_weight": 0.75
+  },
+  {
+    "rec_id": "R137",
+    "prakriti": "Kapha",
+    "condition": "Fungal Infection",
+    "symptoms": [
+      "moist_patches",
+      "itching"
+    ],
+    "match_weight": 0.75
+  },
+  {
+    "rec_id": "R138",
+    "prakriti": "Vata",
+    "condition": "Fungal Infection",
+    "symptoms": [
+      "moist_patches",
+      "itching"
+    ],
+    "match_weight": 0.75
+  },
+  {
+    "rec_id": "R138",
+    "prakriti": "Pitta",
+    "condition": "Fungal Infection",
+    "symptoms": [
+      "moist_patches",
+      "itching"
+    ],
+    "match_weight": 0.75
+  },
+  {
+    "rec_id": "R138",
+    "prakriti": "Kapha",
+    "condition": "Fungal Infection",
+    "symptoms": [
+      "moist_patches",
+      "itching"
+    ],
+    "match_weight": 0.75
+  },
+  {
+    "rec_id": "R139",
+    "prakriti": "Vata",
+    "condition": "Dry Skin",
+    "symptoms": [
+      "dryness"
+    ],
+    "match_weight": 0.75
+  },
+  {
+    "rec_id": "R139",
+    "prakriti": "Pitta",
+    "condition": "Dry Skin",
+    "symptoms": [
+      "dryness"
+    ],
+    "match_weight": 0.75
+  },
+  {
+    "rec_id": "R139",
+    "prakriti": "Kapha",
+    "condition": "Dry Skin",
+    "symptoms": [
+      "dryness"
+    ],
+    "match_weight": 0.75
+  },
+  {
+    "rec_id": "R140",
+    "prakriti": "Vata",
+    "condition": "Dry Skin",
+    "symptoms": [
+      "dryness"
+    ],
+    "match_weight": 0.75
+  },
+  {
+    "rec_id": "R140",
+    "prakriti": "Pitta",
+    "condition": "Dry Skin",
+    "symptoms": [
+      "dryness"
+    ],
+    "match_weight": 0.75
+  },
+  {
+    "rec_id": "R140",
+    "prakriti": "Kapha",
+    "condition": "Dry Skin",
+    "symptoms": [
+      "dryness"
+    ],
+    "match_weight": 0.75
+  },
+  {
+    "rec_id": "R141",
+    "prakriti": "Vata",
+    "condition": "Dry Skin",
+    "symptoms": [
+      "dryness"
+    ],
+    "match_weight": 0.75
+  },
+  {
+    "rec_id": "R141",
+    "prakriti": "Pitta",
+    "condition": "Dry Skin",
+    "symptoms": [
+      "dryness"
+    ],
+    "match_weight": 0.75
+  },
+  {
+    "rec_id": "R141",
+    "prakriti": "Kapha",
+    "condition": "Dry Skin",
+    "symptoms": [
+      "dryness"
+    ],
+    "match_weight": 0.75
+  },
+  {
+    "rec_id": "R142",
+    "prakriti": "Vata",
+    "condition": "Dry Skin",
+    "symptoms": [
+      "dryness"
+    ],
+    "match_weight": 0.75
+  },
+  {
+    "rec_id": "R142",
+    "prakriti": "Pitta",
+    "condition": "Dry Skin",
+    "symptoms": [
+      "dryness"
+    ],
+    "match_weight": 0.75
+  },
+  {
+    "rec_id": "R142",
+    "prakriti": "Kapha",
+    "condition": "Dry Skin",
+    "symptoms": [
+      "dryness"
+    ],
+    "match_weight": 0.75
+  },
+  {
+    "rec_id": "R143",
+    "prakriti": "Vata",
+    "condition": "Dry Skin",
+    "symptoms": [
+      "dryness"
+    ],
+    "match_weight": 0.75
+  },
+  {
+    "rec_id": "R143",
+    "prakriti": "Pitta",
+    "condition": "Dry Skin",
+    "symptoms": [
+      "dryness"
+    ],
+    "match_weight": 0.75
+  },
+  {
+    "rec_id": "R143",
+    "prakriti": "Kapha",
+    "condition": "Dry Skin",
+    "symptoms": [
+      "dryness"
+    ],
+    "match_weight": 0.75
+  },
+  {
+    "rec_id": "R144",
+    "prakriti": "Vata",
+    "condition": "Dry Skin",
+    "symptoms": [
+      "dryness"
+    ],
+    "match_weight": 0.75
+  },
+  {
+    "rec_id": "R144",
+    "prakriti": "Pitta",
+    "condition": "Dry Skin",
+    "symptoms": [
+      "dryness"
+    ],
+    "match_weight": 0.75
+  },
+  {
+    "rec_id": "R144",
+    "prakriti": "Kapha",
+    "condition": "Dry Skin",
+    "symptoms": [
+      "dryness"
+    ],
+    "match_weight": 0.75
+  },
+  {
+    "rec_id": "R145",
+    "prakriti": "Vata",
+    "condition": "Dry Skin",
+    "symptoms": [
+      "dryness"
+    ],
+    "match_weight": 0.75
+  },
+  {
+    "rec_id": "R145",
+    "prakriti": "Pitta",
+    "condition": "Dry Skin",
+    "symptoms": [
+      "dryness"
+    ],
+    "match_weight": 0.75
+  },
+  {
+    "rec_id": "R145",
+    "prakriti": "Kapha",
+    "condition": "Dry Skin",
+    "symptoms": [
+      "dryness"
+    ],
+    "match_weight": 0.75
+  },
+  {
+    "rec_id": "R146",
+    "prakriti": "Vata",
+    "condition": "Dry Skin",
+    "symptoms": [
+      "dryness"
+    ],
+    "match_weight": 0.75
+  },
+  {
+    "rec_id": "R146",
+    "prakriti": "Pitta",
+    "condition": "Dry Skin",
+    "symptoms": [
+      "dryness"
+    ],
+    "match_weight": 0.75
+  },
+  {
+    "rec_id": "R146",
+    "prakriti": "Kapha",
+    "condition": "Dry Skin",
+    "symptoms": [
+      "dryness"
+    ],
+    "match_weight": 0.75
+  },
+  {
+    "rec_id": "R147",
+    "prakriti": "Vata",
+    "condition": "Dry Skin",
+    "symptoms": [
+      "dryness"
+    ],
+    "match_weight": 0.75
+  },
+  {
+    "rec_id": "R147",
+    "prakriti": "Pitta",
+    "condition": "Dry Skin",
+    "symptoms": [
+      "dryness"
+    ],
+    "match_weight": 0.75
+  },
+  {
+    "rec_id": "R147",
+    "prakriti": "Kapha",
+    "condition": "Dry Skin",
+    "symptoms": [
+      "dryness"
+    ],
+    "match_weight": 0.75
+  },
+  {
+    "rec_id": "R148",
+    "prakriti": "Vata",
+    "condition": "Dry Skin",
+    "symptoms": [
+      "dryness"
+    ],
+    "match_weight": 0.75
+  },
+  {
+    "rec_id": "R148",
+    "prakriti": "Pitta",
+    "condition": "Dry Skin",
+    "symptoms": [
+      "dryness"
+    ],
+    "match_weight": 0.75
+  },
+  {
+    "rec_id": "R148",
+    "prakriti": "Kapha",
+    "condition": "Dry Skin",
+    "symptoms": [
+      "dryness"
+    ],
+    "match_weight": 0.75
+  },
+  {
+    "rec_id": "R149",
+    "prakriti": "Vata",
+    "condition": "Dry Skin",
+    "symptoms": [
+      "dryness"
+    ],
+    "match_weight": 0.75
+  },
+  {
+    "rec_id": "R149",
+    "prakriti": "Pitta",
+    "condition": "Dry Skin",
+    "symptoms": [
+      "dryness"
+    ],
+    "match_weight": 0.75
+  },
+  {
+    "rec_id": "R149",
+    "prakriti": "Kapha",
+    "condition": "Dry Skin",
+    "symptoms": [
+      "dryness"
+    ],
+    "match_weight": 0.75
+  },
+  {
+    "rec_id": "R150",
+    "prakriti": "Vata",
+    "condition": "Dry Skin",
+    "symptoms": [
+      "dryness"
+    ],
+    "match_weight": 0.75
+  },
+  {
+    "rec_id": "R150",
+    "prakriti": "Pitta",
+    "condition": "Dry Skin",
+    "symptoms": [
+      "dryness"
+    ],
+    "match_weight": 0.75
+  },
+  {
+    "rec_id": "R150",
+    "prakriti": "Kapha",
+    "condition": "Dry Skin",
+    "symptoms": [
+      "dryness"
+    ],
+    "match_weight": 0.75
+  },
+  {
+    "rec_id": "R151",
+    "prakriti": "Vata",
+    "condition": "Dry Skin",
+    "symptoms": [
+      "dryness"
+    ],
+    "match_weight": 0.75
+  },
+  {
+    "rec_id": "R151",
+    "prakriti": "Pitta",
+    "condition": "Dry Skin",
+    "symptoms": [
+      "dryness"
+    ],
+    "match_weight": 0.75
+  },
+  {
+    "rec_id": "R151",
+    "prakriti": "Kapha",
+    "condition": "Dry Skin",
+    "symptoms": [
+      "dryness"
+    ],
+    "match_weight": 0.75
+  },
+  {
+    "rec_id": "R152",
+    "prakriti": "Vata",
+    "condition": "Dry Skin",
+    "symptoms": [
+      "dryness"
+    ],
+    "match_weight": 0.75
+  },
+  {
+    "rec_id": "R152",
+    "prakriti": "Pitta",
+    "condition": "Dry Skin",
+    "symptoms": [
+      "dryness"
+    ],
+    "match_weight": 0.75
+  },
+  {
+    "rec_id": "R152",
+    "prakriti": "Kapha",
+    "condition": "Dry Skin",
+    "symptoms": [
+      "dryness"
+    ],
+    "match_weight": 0.75
+  },
+  {
+    "rec_id": "R153",
+    "prakriti": "Vata",
+    "condition": "Dry Skin",
+    "symptoms": [
+      "dryness"
+    ],
+    "match_weight": 0.75
+  },
+  {
+    "rec_id": "R153",
+    "prakriti": "Pitta",
+    "condition": "Dry Skin",
+    "symptoms": [
+      "dryness"
+    ],
+    "match_weight": 0.75
+  },
+  {
+    "rec_id": "R153",
+    "prakriti": "Kapha",
+    "condition": "Dry Skin",
+    "symptoms": [
+      "dryness"
+    ],
+    "match_weight": 0.75
+  },
+  {
+    "rec_id": "R154",
+    "prakriti": "Vata",
+    "condition": "Dry Skin",
+    "symptoms": [
+      "dryness"
+    ],
+    "match_weight": 0.75
+  },
+  {
+    "rec_id": "R154",
+    "prakriti": "Pitta",
+    "condition": "Dry Skin",
+    "symptoms": [
+      "dryness"
+    ],
+    "match_weight": 0.75
+  },
+  {
+    "rec_id": "R154",
+    "prakriti": "Kapha",
+    "condition": "Dry Skin",
+    "symptoms": [
+      "dryness"
+    ],
+    "match_weight": 0.75
+  },
+  {
+    "rec_id": "R155",
+    "prakriti": "Vata",
+    "condition": "Dry Skin",
+    "symptoms": [
+      "dryness"
+    ],
+    "match_weight": 0.75
+  },
+  {
+    "rec_id": "R155",
+    "prakriti": "Pitta",
+    "condition": "Dry Skin",
+    "symptoms": [
+      "dryness"
+    ],
+    "match_weight": 0.75
+  },
+  {
+    "rec_id": "R155",
+    "prakriti": "Kapha",
+    "condition": "Dry Skin",
+    "symptoms": [
+      "dryness"
+    ],
+    "match_weight": 0.75
+  },
+  {
+    "rec_id": "R156",
+    "prakriti": "Vata",
+    "condition": "Dry Skin",
+    "symptoms": [
+      "dryness"
+    ],
+    "match_weight": 0.75
+  },
+  {
+    "rec_id": "R156",
+    "prakriti": "Pitta",
+    "condition": "Dry Skin",
+    "symptoms": [
+      "dryness"
+    ],
+    "match_weight": 0.75
+  },
+  {
+    "rec_id": "R156",
+    "prakriti": "Kapha",
+    "condition": "Dry Skin",
+    "symptoms": [
+      "dryness"
+    ],
+    "match_weight": 0.75
+  },
+  {
+    "rec_id": "R157",
+    "prakriti": "Vata",
+    "condition": "Dry Skin",
+    "symptoms": [
+      "dryness"
+    ],
+    "match_weight": 0.75
+  },
+  {
+    "rec_id": "R157",
+    "prakriti": "Pitta",
+    "condition": "Dry Skin",
+    "symptoms": [
+      "dryness"
+    ],
+    "match_weight": 0.75
+  },
+  {
+    "rec_id": "R157",
+    "prakriti": "Kapha",
+    "condition": "Dry Skin",
+    "symptoms": [
+      "dryness"
+    ],
+    "match_weight": 0.75
+  },
+  {
+    "rec_id": "R158",
+    "prakriti": "Vata",
+    "condition": "Dry Skin",
+    "symptoms": [
+      "dryness"
+    ],
+    "match_weight": 0.75
+  },
+  {
+    "rec_id": "R158",
+    "prakriti": "Pitta",
+    "condition": "Dry Skin",
+    "symptoms": [
+      "dryness"
+    ],
+    "match_weight": 0.75
+  },
+  {
+    "rec_id": "R158",
+    "prakriti": "Kapha",
+    "condition": "Dry Skin",
+    "symptoms": [
+      "dryness"
+    ],
+    "match_weight": 0.75
+  },
+  {
+    "rec_id": "R159",
+    "prakriti": "Vata",
+    "condition": "Dry Skin",
+    "symptoms": [
+      "dryness"
+    ],
+    "match_weight": 0.75
+  },
+  {
+    "rec_id": "R159",
+    "prakriti": "Pitta",
+    "condition": "Dry Skin",
+    "symptoms": [
+      "dryness"
+    ],
+    "match_weight": 0.75
+  },
+  {
+    "rec_id": "R159",
+    "prakriti": "Kapha",
+    "condition": "Dry Skin",
+    "symptoms": [
+      "dryness"
+    ],
+    "match_weight": 0.75
+  },
+  {
+    "rec_id": "R160",
+    "prakriti": "Vata",
+    "condition": "Dry Skin",
+    "symptoms": [
+      "dryness"
+    ],
+    "match_weight": 0.75
+  },
+  {
+    "rec_id": "R160",
+    "prakriti": "Pitta",
+    "condition": "Dry Skin",
+    "symptoms": [
+      "dryness"
+    ],
+    "match_weight": 0.75
+  },
+  {
+    "rec_id": "R160",
+    "prakriti": "Kapha",
+    "condition": "Dry Skin",
+    "symptoms": [
+      "dryness"
+    ],
+    "match_weight": 0.75
+  },
+  {
+    "rec_id": "R205",
+    "prakriti": "Vata",
+    "condition": "Urticaria",
+    "symptoms": [
+      "flare_pattern"
+    ],
+    "match_weight": 0.75
+  },
+  {
+    "rec_id": "R205",
+    "prakriti": "Pitta",
+    "condition": "Urticaria",
+    "symptoms": [
+      "flare_pattern"
+    ],
+    "match_weight": 0.75
+  },
+  {
+    "rec_id": "R205",
+    "prakriti": "Kapha",
+    "condition": "Urticaria",
+    "symptoms": [
+      "flare_pattern"
+    ],
+    "match_weight": 0.75
+  },
+  {
+    "rec_id": "R206",
+    "prakriti": "Vata",
+    "condition": "Urticaria",
+    "symptoms": [
+      "flare_pattern"
+    ],
+    "match_weight": 0.75
+  },
+  {
+    "rec_id": "R206",
+    "prakriti": "Pitta",
+    "condition": "Urticaria",
+    "symptoms": [
+      "flare_pattern"
+    ],
+    "match_weight": 0.75
+  },
+  {
+    "rec_id": "R206",
+    "prakriti": "Kapha",
+    "condition": "Urticaria",
+    "symptoms": [
+      "flare_pattern"
+    ],
+    "match_weight": 0.75
+  },
+  {
+    "rec_id": "R207",
+    "prakriti": "Vata",
+    "condition": "Urticaria",
+    "symptoms": [
+      "flare_pattern"
+    ],
+    "match_weight": 0.75
+  },
+  {
+    "rec_id": "R207",
+    "prakriti": "Pitta",
+    "condition": "Urticaria",
+    "symptoms": [
+      "flare_pattern"
+    ],
+    "match_weight": 0.75
+  },
+  {
+    "rec_id": "R207",
+    "prakriti": "Kapha",
+    "condition": "Urticaria",
+    "symptoms": [
+      "flare_pattern"
+    ],
+    "match_weight": 0.75
+  },
+  {
+    "rec_id": "R208",
+    "prakriti": "Vata",
+    "condition": "Urticaria",
+    "symptoms": [
+      "flare_pattern"
+    ],
+    "match_weight": 0.75
+  },
+  {
+    "rec_id": "R208",
+    "prakriti": "Pitta",
+    "condition": "Urticaria",
+    "symptoms": [
+      "flare_pattern"
+    ],
+    "match_weight": 0.75
+  },
+  {
+    "rec_id": "R208",
+    "prakriti": "Kapha",
+    "condition": "Urticaria",
+    "symptoms": [
+      "flare_pattern"
+    ],
+    "match_weight": 0.75
+  },
+  {
+    "rec_id": "R209",
+    "prakriti": "Vata",
+    "condition": "Urticaria",
+    "symptoms": [
+      "flare_pattern"
+    ],
+    "match_weight": 0.75
+  },
+  {
+    "rec_id": "R209",
+    "prakriti": "Pitta",
+    "condition": "Urticaria",
+    "symptoms": [
+      "flare_pattern"
+    ],
+    "match_weight": 0.75
+  },
+  {
+    "rec_id": "R209",
+    "prakriti": "Kapha",
+    "condition": "Urticaria",
+    "symptoms": [
+      "flare_pattern"
+    ],
+    "match_weight": 0.75
+  },
+  {
+    "rec_id": "R210",
+    "prakriti": "Vata",
+    "condition": "Urticaria",
+    "symptoms": [
+      "flare_pattern"
+    ],
+    "match_weight": 0.75
+  },
+  {
+    "rec_id": "R210",
+    "prakriti": "Pitta",
+    "condition": "Urticaria",
+    "symptoms": [
+      "flare_pattern"
+    ],
+    "match_weight": 0.75
+  },
+  {
+    "rec_id": "R210",
+    "prakriti": "Kapha",
+    "condition": "Urticaria",
+    "symptoms": [
+      "flare_pattern"
+    ],
+    "match_weight": 0.75
+  },
+  {
+    "rec_id": "R211",
+    "prakriti": "Vata",
+    "condition": "Urticaria",
+    "symptoms": [
+      "flare_pattern"
+    ],
+    "match_weight": 0.75
+  },
+  {
+    "rec_id": "R211",
+    "prakriti": "Pitta",
+    "condition": "Urticaria",
+    "symptoms": [
+      "flare_pattern"
+    ],
+    "match_weight": 0.75
+  },
+  {
+    "rec_id": "R211",
+    "prakriti": "Kapha",
+    "condition": "Urticaria",
+    "symptoms": [
+      "flare_pattern"
+    ],
+    "match_weight": 0.75
+  },
+  {
+    "rec_id": "R212",
+    "prakriti": "Vata",
+    "condition": "Urticaria",
+    "symptoms": [
+      "flare_pattern"
+    ],
+    "match_weight": 0.75
+  },
+  {
+    "rec_id": "R212",
+    "prakriti": "Pitta",
+    "condition": "Urticaria",
+    "symptoms": [
+      "flare_pattern"
+    ],
+    "match_weight": 0.75
+  },
+  {
+    "rec_id": "R212",
+    "prakriti": "Kapha",
+    "condition": "Urticaria",
+    "symptoms": [
+      "flare_pattern"
+    ],
+    "match_weight": 0.75
+  },
+  {
+    "rec_id": "R213",
+    "prakriti": "Vata",
+    "condition": "Urticaria",
+    "symptoms": [
+      "flare_pattern"
+    ],
+    "match_weight": 0.75
+  },
+  {
+    "rec_id": "R213",
+    "prakriti": "Pitta",
+    "condition": "Urticaria",
+    "symptoms": [
+      "flare_pattern"
+    ],
+    "match_weight": 0.75
+  },
+  {
+    "rec_id": "R213",
+    "prakriti": "Kapha",
+    "condition": "Urticaria",
+    "symptoms": [
+      "flare_pattern"
+    ],
+    "match_weight": 0.75
+  },
+  {
+    "rec_id": "R214",
+    "prakriti": "Vata",
+    "condition": "Urticaria",
+    "symptoms": [
+      "flare_pattern"
+    ],
+    "match_weight": 0.75
+  },
+  {
+    "rec_id": "R214",
+    "prakriti": "Pitta",
+    "condition": "Urticaria",
+    "symptoms": [
+      "flare_pattern"
+    ],
+    "match_weight": 0.75
+  },
+  {
+    "rec_id": "R214",
+    "prakriti": "Kapha",
+    "condition": "Urticaria",
+    "symptoms": [
+      "flare_pattern"
+    ],
+    "match_weight": 0.75
+  },
+  {
+    "rec_id": "R215",
+    "prakriti": "Vata",
+    "condition": "Urticaria",
+    "symptoms": [
+      "flare_pattern"
+    ],
+    "match_weight": 0.75
+  },
+  {
+    "rec_id": "R215",
+    "prakriti": "Pitta",
+    "condition": "Urticaria",
+    "symptoms": [
+      "flare_pattern"
+    ],
+    "match_weight": 0.75
+  },
+  {
+    "rec_id": "R215",
+    "prakriti": "Kapha",
+    "condition": "Urticaria",
+    "symptoms": [
+      "flare_pattern"
+    ],
+    "match_weight": 0.75
+  },
+  {
+    "rec_id": "R216",
+    "prakriti": "Vata",
+    "condition": "Urticaria",
+    "symptoms": [
+      "flare_pattern"
+    ],
+    "match_weight": 0.75
+  },
+  {
+    "rec_id": "R216",
+    "prakriti": "Pitta",
+    "condition": "Urticaria",
+    "symptoms": [
+      "flare_pattern"
+    ],
+    "match_weight": 0.75
+  },
+  {
+    "rec_id": "R216",
+    "prakriti": "Kapha",
+    "condition": "Urticaria",
+    "symptoms": [
+      "flare_pattern"
+    ],
+    "match_weight": 0.75
+  },
+  {
+    "rec_id": "R217",
+    "prakriti": "Vata",
+    "condition": "Urticaria",
+    "symptoms": [
+      "flare_pattern"
+    ],
+    "match_weight": 0.75
+  },
+  {
+    "rec_id": "R217",
+    "prakriti": "Pitta",
+    "condition": "Urticaria",
+    "symptoms": [
+      "flare_pattern"
+    ],
+    "match_weight": 0.75
+  },
+  {
+    "rec_id": "R217",
+    "prakriti": "Kapha",
+    "condition": "Urticaria",
+    "symptoms": [
+      "flare_pattern"
+    ],
+    "match_weight": 0.75
+  },
+  {
+    "rec_id": "R218",
+    "prakriti": "Vata",
+    "condition": "Urticaria",
+    "symptoms": [
+      "flare_pattern"
+    ],
+    "match_weight": 0.75
+  },
+  {
+    "rec_id": "R218",
+    "prakriti": "Pitta",
+    "condition": "Urticaria",
+    "symptoms": [
+      "flare_pattern"
+    ],
+    "match_weight": 0.75
+  },
+  {
+    "rec_id": "R218",
+    "prakriti": "Kapha",
+    "condition": "Urticaria",
+    "symptoms": [
+      "flare_pattern"
+    ],
+    "match_weight": 0.75
+  },
+  {
+    "rec_id": "R219",
+    "prakriti": "Vata",
+    "condition": "Urticaria",
+    "symptoms": [
+      "flare_pattern"
+    ],
+    "match_weight": 0.75
+  },
+  {
+    "rec_id": "R219",
+    "prakriti": "Pitta",
+    "condition": "Urticaria",
+    "symptoms": [
+      "flare_pattern"
+    ],
+    "match_weight": 0.75
+  },
+  {
+    "rec_id": "R219",
+    "prakriti": "Kapha",
+    "condition": "Urticaria",
+    "symptoms": [
+      "flare_pattern"
+    ],
+    "match_weight": 0.75
+  },
+  {
+    "rec_id": "R220",
+    "prakriti": "Vata",
+    "condition": "Urticaria",
+    "symptoms": [
+      "flare_pattern"
+    ],
+    "match_weight": 0.75
+  },
+  {
+    "rec_id": "R220",
+    "prakriti": "Pitta",
+    "condition": "Urticaria",
+    "symptoms": [
+      "flare_pattern"
+    ],
+    "match_weight": 0.75
+  },
+  {
+    "rec_id": "R220",
+    "prakriti": "Kapha",
+    "condition": "Urticaria",
+    "symptoms": [
+      "flare_pattern"
+    ],
+    "match_weight": 0.75
+  },
+  {
+    "rec_id": "R221",
+    "prakriti": "Vata",
+    "condition": "Urticaria",
+    "symptoms": [
+      "flare_pattern"
+    ],
+    "match_weight": 0.75
+  },
+  {
+    "rec_id": "R221",
+    "prakriti": "Pitta",
+    "condition": "Urticaria",
+    "symptoms": [
+      "flare_pattern"
+    ],
+    "match_weight": 0.75
+  },
+  {
+    "rec_id": "R221",
+    "prakriti": "Kapha",
+    "condition": "Urticaria",
+    "symptoms": [
+      "flare_pattern"
+    ],
+    "match_weight": 0.75
+  },
+  {
+    "rec_id": "R222",
+    "prakriti": "Vata",
+    "condition": "Urticaria",
+    "symptoms": [
+      "flare_pattern"
+    ],
+    "match_weight": 0.75
+  },
+  {
+    "rec_id": "R222",
+    "prakriti": "Pitta",
+    "condition": "Urticaria",
+    "symptoms": [
+      "flare_pattern"
+    ],
+    "match_weight": 0.75
+  },
+  {
+    "rec_id": "R222",
+    "prakriti": "Kapha",
+    "condition": "Urticaria",
+    "symptoms": [
+      "flare_pattern"
+    ],
+    "match_weight": 0.75
+  },
+  {
+    "rec_id": "R223",
+    "prakriti": "Vata",
+    "condition": "Urticaria",
+    "symptoms": [
+      "flare_pattern"
+    ],
+    "match_weight": 0.75
+  },
+  {
+    "rec_id": "R223",
+    "prakriti": "Pitta",
+    "condition": "Urticaria",
+    "symptoms": [
+      "flare_pattern"
+    ],
+    "match_weight": 0.75
+  },
+  {
+    "rec_id": "R223",
+    "prakriti": "Kapha",
+    "condition": "Urticaria",
+    "symptoms": [
+      "flare_pattern"
+    ],
+    "match_weight": 0.75
+  },
+  {
+    "rec_id": "R224",
+    "prakriti": "Vata",
+    "condition": "Urticaria",
+    "symptoms": [
+      "flare_pattern"
+    ],
+    "match_weight": 0.75
+  },
+  {
+    "rec_id": "R224",
+    "prakriti": "Pitta",
+    "condition": "Urticaria",
+    "symptoms": [
+      "flare_pattern"
+    ],
+    "match_weight": 0.75
+  },
+  {
+    "rec_id": "R224",
+    "prakriti": "Kapha",
+    "condition": "Urticaria",
+    "symptoms": [
+      "flare_pattern"
+    ],
+    "match_weight": 0.75
+  },
+  {
+    "rec_id": "R225",
+    "prakriti": "Vata",
+    "condition": "Urticaria",
+    "symptoms": [
+      "flare_pattern"
+    ],
+    "match_weight": 0.75
+  },
+  {
+    "rec_id": "R225",
+    "prakriti": "Pitta",
+    "condition": "Urticaria",
+    "symptoms": [
+      "flare_pattern"
+    ],
+    "match_weight": 0.75
+  },
+  {
+    "rec_id": "R225",
+    "prakriti": "Kapha",
+    "condition": "Urticaria",
+    "symptoms": [
+      "flare_pattern"
+    ],
+    "match_weight": 0.75
+  },
+  {
+    "rec_id": "R226",
+    "prakriti": "Vata",
+    "condition": "Urticaria",
+    "symptoms": [
+      "flare_pattern"
+    ],
+    "match_weight": 0.75
+  },
+  {
+    "rec_id": "R226",
+    "prakriti": "Pitta",
+    "condition": "Urticaria",
+    "symptoms": [
+      "flare_pattern"
+    ],
+    "match_weight": 0.75
+  },
+  {
+    "rec_id": "R226",
+    "prakriti": "Kapha",
+    "condition": "Urticaria",
+    "symptoms": [
+      "flare_pattern"
+    ],
+    "match_weight": 0.75
+  },
+  {
+    "rec_id": "R278",
+    "prakriti": "Vata",
+    "condition": "Viral Infection",
+    "symptoms": [
+      "dryness",
+      "flare_pattern"
+    ],
+    "match_weight": 0.72
+  },
+  {
+    "rec_id": "R279",
+    "prakriti": "Vata",
+    "condition": "Viral Infection",
+    "symptoms": [
+      "dryness"
+    ],
+    "match_weight": 0.7
+  },
+  {
+    "rec_id": "R280",
+    "prakriti": "Vata",
+    "condition": "Viral Infection",
+    "symptoms": [
+      "dryness",
+      "itching"
+    ],
+    "match_weight": 0.74
+  },
+  {
+    "rec_id": "R281",
+    "prakriti": "Pitta",
+    "condition": "Viral Infection",
+    "symptoms": [
+      "inflammation"
+    ],
+    "match_weight": 0.73
+  },
+  {
+    "rec_id": "R282",
+    "prakriti": "Pitta",
+    "condition": "Viral Infection",
+    "symptoms": [
+      "recurrence",
+      "flare_pattern"
+    ],
+    "match_weight": 0.78
+  },
+  {
+    "rec_id": "R283",
+    "prakriti": "Pitta",
+    "condition": "Viral Infection",
+    "symptoms": [
+      "redness",
+      "inflammation"
+    ],
+    "match_weight": 0.76
+  },
+  {
+    "rec_id": "R284",
+    "prakriti": "Kapha",
+    "condition": "Viral Infection",
+    "symptoms": [
+      "recurrence"
+    ],
+    "match_weight": 0.71
+  },
+  {
+    "rec_id": "R285",
+    "prakriti": "Kapha",
+    "condition": "Viral Infection",
+    "symptoms": [
+      "moist_patches",
+      "recurrence"
+    ],
+    "match_weight": 0.75
+  },
+  {
+    "rec_id": "R286",
+    "prakriti": "Kapha",
+    "condition": "Viral Infection",
+    "symptoms": [
+      "moist_patches"
+    ],
+    "match_weight": 0.77
+  }
+]
