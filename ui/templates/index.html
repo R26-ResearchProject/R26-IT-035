@@ -1,0 +1,235 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Prakriti-Aware Recommendation Interface</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='styles.css') }}" />
+  </head>
+  <body>
+    <header class="app-header">
+      <div class="brand">
+        <span class="brand-mark"></span>
+        <span class="brand-name">Ayurveda AI</span>
+      </div>
+      <nav class="app-nav">
+        <a href="#">Home</a>
+        <a href="#">About</a>
+        <a href="#">Disclaimer</a>
+        <a href="#">Contact</a>
+      </nav>
+      <div class="avatar" aria-hidden="true">
+        <svg width="18" height="18" viewBox="0 0 24 24" fill="none"><path d="M12 12a4 4 0 100-8 4 4 0 000 8zM4 20c0-4 4-6 8-6s8 2 8 6" stroke="currentColor" stroke-width="2" stroke-linecap="round"/></svg>
+      </div>
+    </header>
+
+    <div class="app-shell">
+      <aside class="app-sidebar">
+        <div class="nav-track">
+          <div class="nav-group">
+            <span class="nav-circle done">&#10003;</span>
+            <p class="nav-title done">Prakriti Identification</p>
+            <div class="nav-sub">Capture Your Selfie</div>
+            <div class="nav-sub">Questioner</div>
+            <div class="nav-sub">Prakriti Result</div>
+          </div>
+          <div class="nav-group">
+            <span class="nav-circle done">&#10003;</span>
+            <p class="nav-title done">Skin Disease Identification</p>
+            <div class="nav-sub">Upload Image</div>
+            <div class="nav-sub">Questioner</div>
+            <div class="nav-sub">Skin Disease Result</div>
+          </div>
+          <div class="nav-group">
+            <span class="nav-circle done">&#10003;</span>
+            <p class="nav-title done">Dual Perspective Explanation</p>
+          </div>
+          <div class="nav-group">
+            <span class="nav-circle current">4</span>
+            <p class="nav-title current">Prakriti Aware Recommendations</p>
+          </div>
+        </div>
+      </aside>
+
+      <main class="layout">
+      <section class="panel">
+        <h2>Input</h2>
+        <form id="recommendation-form">
+          <label>User ID <input type="text" id="user_id" required /></label>
+          <label>Top K Recommendations
+            <input type="number" id="top_k" min="1" max="12" value="6" />
+          </label>
+
+          <fieldset>
+            <legend>Prakriti Module Output</legend>
+            <label>Dominant Prakriti
+              <select id="dominant_prakriti">
+                <option>Vata</option>
+                <option>Pitta</option>
+                <option>Kapha</option>
+              </select>
+            </label>
+            <label>Secondary Prakriti
+              <select id="secondary_prakriti">
+                <option>Vata</option>
+                <option>Pitta</option>
+                <option>Kapha</option>
+              </select>
+            </label>
+            <label>Vata Score <input type="number" id="score_vata" step="0.01" min="0" max="1" required /></label>
+            <label>Pitta Score <input type="number" id="score_pitta" step="0.01" min="0" max="1" required /></label>
+            <label>Kapha Score <input type="number" id="score_kapha" step="0.01" min="0" max="1" required /></label>
+            <label>Prakriti Confidence <input type="number" id="prakriti_confidence" step="0.01" min="0" max="1" required /></label>
+          </fieldset>
+
+          <fieldset>
+            <legend>Skin Module Output</legend>
+            <label>Predicted Condition
+              <select id="predicted_condition">
+                <option>Eczema</option>
+                <option>Acne</option>
+                <option>Dry Skin</option>
+                <option>Psoriasis</option>
+                <option>Fungal Infection</option>
+              </select>
+            </label>
+            <label>Skin Confidence <input type="number" id="skin_confidence" step="0.01" min="0" max="1" required /></label>
+            <label>Severity
+              <select id="severity">
+                <option>mild</option>
+                <option>moderate</option>
+                <option>severe</option>
+              </select>
+            </label>
+            <label>Symptoms (comma-separated)
+              <input type="text" id="symptoms" placeholder="dryness, itching, redness" required />
+            </label>
+            <label class="checkbox-row">
+              <input type="checkbox" id="referral_required" />
+              Referral required
+            </label>
+          </fieldset>
+
+          <fieldset>
+            <legend>User Context</legend>
+            <label>Age Group
+              <select id="age_group">
+                <option>adult</option>
+                <option>child</option>
+              </select>
+            </label>
+            <label>Known Allergies (comma-separated)
+              <input type="text" id="known_allergies" placeholder="oil_care, pollen" />
+            </label>
+            <label>Dietary Preference
+              <select id="dietary_preference">
+                <option value="">None</option>
+                <option value="vegetarian">Vegetarian</option>
+                <option value="vegan">Vegan</option>
+                <option value="lactose_intolerant">Lactose intolerant</option>
+              </select>
+            </label>
+            <label class="checkbox-row">
+              <input type="checkbox" id="pregnancy_status" />
+              Pregnancy status
+            </label>
+            <label>Preferred Language
+              <input type="text" id="preferred_language" value="English" />
+            </label>
+          </fieldset>
+
+          <div class="button-row">
+            <button type="submit">Generate Recommendations</button>
+            <button type="button" id="load-sample">Load Sample</button>
+            <button type="button" id="reset-form">Reset</button>
+          </div>
+        </form>
+
+        <section class="utility-section">
+          <h3>Scenario Presets</h3>
+          <div class="button-row wrap">
+            <button type="button" class="scenario-btn" data-scenario="vata_eczema">Vata + Eczema</button>
+            <button type="button" class="scenario-btn" data-scenario="pitta_acne">Pitta + Acne</button>
+            <button type="button" class="scenario-btn" data-scenario="kapha_fungal">Kapha + Fungal</button>
+            <button type="button" class="scenario-btn" data-scenario="low_confidence">Low Confidence</button>
+            <button type="button" class="scenario-btn" data-scenario="severe_case">Severe Case</button>
+          </div>
+        </section>
+
+        <div id="dev-tools" class="is-hidden">
+          <section class="utility-section">
+            <h3>Payload JSON</h3>
+            <textarea id="payload_json" rows="8" placeholder="Paste complete input JSON here"></textarea>
+            <div class="button-row">
+              <button type="button" id="apply-json">Apply JSON to Form</button>
+              <button type="button" id="export-json">Export Form JSON</button>
+            </div>
+          </section>
+
+          <section class="utility-section">
+            <h3>Future Module Integration (Mock)</h3>
+            <p class="meta">Use this area now for simulation. Later, replace with real upstream module APIs.</p>
+            <label>Prakriti Module API URL
+              <input type="text" id="prakriti_api_url" value="http://module-a.local/api/prakriti" />
+            </label>
+            <label>Skin Module API URL
+              <input type="text" id="skin_api_url" value="http://module-b.local/api/skin" />
+            </label>
+            <div class="button-row">
+              <button type="button" id="mock-prakriti">Simulate Prakriti Fetch</button>
+              <button type="button" id="mock-skin">Simulate Skin Fetch</button>
+            </div>
+          </section>
+        </div>
+      </section>
+
+      <section class="panel">
+        <h2>Output</h2>
+        <div id="status-box" class="status-box">Run the engine to see results.</div>
+        <div id="summary-box"></div>
+        <div class="button-row" id="output-actions">
+          <button type="button" id="download-output">Download Output JSON</button>
+          <button type="button" id="download-pdf" disabled>Download PDF Report</button>
+        </div>
+        <div id="recommendation-output"></div>
+      </section>
+      </main>
+    </div>
+
+    <button type="button" id="chat-launcher" title="Ask a follow-up question" disabled>
+      <span id="chat-launcher-icon">💬</span>
+      <span id="chat-launcher-badge" class="is-hidden">1</span>
+    </button>
+
+    <div id="chat-popup" class="is-hidden">
+      <div id="chat-popup-header">
+        <div>
+          <strong>Follow-up Assistant</strong>
+          <p class="meta">Ask about your current recommendations</p>
+        </div>
+        <button type="button" id="chat-popup-close" aria-label="Close chat">✕</button>
+      </div>
+
+      <div id="followup-log" aria-live="polite"></div>
+
+      <div id="chat-empty-state" class="meta">
+        Run the engine first, then ask things like:
+      </div>
+      <div id="chat-suggestions" class="button-row wrap">
+        <button type="button" class="chip-btn" data-question="why not Ghee-Enhanced Warm Porridge">Why not a recommendation?</button>
+        <button type="button" class="chip-btn" data-question="what if I'm vegan">What if I'm vegan?</button>
+        <button type="button" class="chip-btn" data-question="what if I have an allergy">What if I have an allergy?</button>
+      </div>
+
+      <form id="followup-form">
+        <input type="text" id="followup-question" placeholder="Ask about these recommendations..." disabled />
+        <button type="submit" id="followup-submit" disabled aria-label="Send">➤</button>
+      </form>
+    </div>
+
+    <script>
+      window.__SAMPLE_INPUT__ = {{ sample_input | tojson }};
+    </script>
+    <script src="{{ url_for('static', filename='app.js') }}"></script>
+  </body>
+</html>
