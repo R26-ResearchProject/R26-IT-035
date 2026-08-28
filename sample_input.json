@@ -1,0 +1,26 @@
+{
+  "user_id": "U001",
+  "prakriti_result": {
+    "dominant_prakriti": "Vata",
+    "secondary_prakriti": "Pitta",
+    "prakriti_scores": {
+      "vata": 0.72,
+      "pitta": 0.2,
+      "kapha": 0.08
+    },
+    "confidence": 0.81
+  },
+  "skin_result": {
+    "predicted_condition": "Eczema",
+    "confidence": 0.87,
+    "severity": "mild",
+    "symptoms": ["dryness", "itching", "redness"],
+    "referral_required": false
+  },
+  "user_context": {
+    "age_group": "adult",
+    "known_allergies": [],
+    "pregnancy_status": false,
+    "preferred_language": "English"
+  }
+}

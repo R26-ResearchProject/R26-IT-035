@@ -1,0 +1,12 @@
+# Environment and local config
+.env
+.env.*
+!.env.example
+
+# Build/cache/test
+coverage/
+.vite/
+*.tsbuildinfo
+node_modules/
+dist/
+build/
