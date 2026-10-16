@@ -1,0 +1,161 @@
+{
+  "categories": [
+    {
+      "category_id": "inflammatory",
+      "description": "Inflammatory skin conditions involving redness heat and irritation",
+      "diseases_included": [
+        "rosacea", "perioral_dermatitis", "intertrigo",
+        "erythema", "erythema_nodosum", "granuloma_annulare",
+        "pyoderma_gangrenosum", "sweet_syndrome"
+      ],
+      "dosha_aggravation": {
+        "vata": 0.30, "pitta": 0.80, "kapha": 0.45
+      },
+      "primary_dosha": "pitta"
+    },
+    {
+      "category_id": "autoimmune",
+      "description": "Autoimmune skin conditions where immune system attacks skin",
+      "diseases_included": [
+        "morphea", "lupus_skin", "dermatomyositis",
+        "pemphigus", "bullous_pemphigoid",
+        "linear_iga_disease", "epidermolysis_bullosa"
+      ],
+      "dosha_aggravation": {
+        "vata": 0.80, "pitta": 0.55, "kapha": 0.40
+      },
+      "primary_dosha": "vata"
+    },
+    {
+      "category_id": "fungal",
+      "description": "Fungal skin infections caused by dermatophytes or yeast",
+      "diseases_included": [
+        "athletes_foot", "tinea_pedis", "candidiasis",
+        "tinea_capitis", "tinea_cruris", "onychomycosis",
+        "nail_fungus", "oral_thrush"
+      ],
+      "dosha_aggravation": {
+        "vata": 0.20, "pitta": 0.50, "kapha": 0.80
+      },
+      "primary_dosha": "kapha"
+    },
+    {
+      "category_id": "allergic",
+      "description": "Allergic and reactive skin conditions triggered by allergens",
+      "diseases_included": [
+        "drug_rash", "contact_allergy", "insect_bite_reaction",
+        "angioedema", "allergic_contact_dermatitis",
+        "photoallergy", "latex_allergy"
+      ],
+      "dosha_aggravation": {
+        "vata": 0.75, "pitta": 0.70, "kapha": 0.20
+      },
+      "primary_dosha": "vata"
+    },
+    {
+      "category_id": "sebaceous",
+      "description": "Conditions involving sebaceous glands and hair follicles",
+      "diseases_included": [
+        "sebaceous_cyst", "hidradenitis", "milia",
+        "comedones", "sebaceous_hyperplasia",
+        "steatocystoma", "pilonidal_cyst"
+      ],
+      "dosha_aggravation": {
+        "vata": 0.20, "pitta": 0.80, "kapha": 0.65
+      },
+      "primary_dosha": "pitta"
+    },
+    {
+      "category_id": "dry_scaling",
+      "description": "Dry and scaling skin conditions with flaking and roughness",
+      "diseases_included": [
+        "keratosis_pilaris", "lichen_simplex",
+        "xerosis", "prurigo", "palmoplantar_keratoderma",
+        "acquired_ichthyosis", "pityriasis_rubra_pilaris"
+      ],
+      "dosha_aggravation": {
+        "vata": 0.85, "pitta": 0.30, "kapha": 0.20
+      },
+      "primary_dosha": "vata"
+    },
+    {
+      "category_id": "pigmentation",
+      "description": "Skin pigmentation disorders affecting melanin distribution",
+      "diseases_included": [
+        "post_inflammatory_pigmentation",
+        "age_spots", "freckles", "lentigo",
+        "cafe_au_lait", "naevus", "ephelides",
+        "solar_lentigo"
+      ],
+      "dosha_aggravation": {
+        "vata": 0.40, "pitta": 0.80, "kapha": 0.25
+      },
+      "primary_dosha": "pitta"
+    },
+    {
+      "category_id": "bacterial",
+      "description": "Bacterial skin infections caused by various bacteria",
+      "diseases_included": [
+        "erysipelas", "abscess", "furuncle",
+        "carbuncle", "ecthyma", "pitted_keratolysis",
+        "erythrasma", "skin_abscess"
+      ],
+      "dosha_aggravation": {
+        "vata": 0.30, "pitta": 0.85, "kapha": 0.55
+      },
+      "primary_dosha": "pitta"
+    },
+    {
+      "category_id": "viral",
+      "description": "Viral skin infections and eruptions",
+      "diseases_included": [
+        "shingles", "herpes_zoster", "herpes_simplex",
+        "molluscum_contagiosum", "hand_foot_mouth",
+        "parvovirus_rash", "roseola"
+      ],
+      "dosha_aggravation": {
+        "vata": 0.50, "pitta": 0.80, "kapha": 0.45
+      },
+      "primary_dosha": "pitta"
+    },
+    {
+      "category_id": "parasitic",
+      "description": "Parasitic skin infestations and insect-related conditions",
+      "diseases_included": [
+        "lice", "pediculosis", "demodex",
+        "cutaneous_larva_migrans", "myiasis",
+        "tick_bite", "flea_bite_dermatitis"
+      ],
+      "dosha_aggravation": {
+        "vata": 0.65, "pitta": 0.55, "kapha": 0.70
+      },
+      "primary_dosha": "kapha"
+    },
+    {
+      "category_id": "genetic",
+      "description": "Genetic and hereditary skin disorders",
+      "diseases_included": [
+        "neurofibromatosis", "tuberous_sclerosis",
+        "ehlers_danlos", "marfan_skin",
+        "xeroderma_pigmentosum", "dariers_disease"
+      ],
+      "dosha_aggravation": {
+        "vata": 0.75, "pitta": 0.40, "kapha": 0.30
+      },
+      "primary_dosha": "vata"
+    },
+    {
+      "category_id": "hair_nail",
+      "description": "Conditions affecting hair and nail health",
+      "diseases_included": [
+        "onycholysis", "nail_psoriasis", "nail_lichen_planus",
+        "traction_alopecia", "telogen_effluvium",
+        "androgenetic_alopecia", "trichotillomania"
+      ],
+      "dosha_aggravation": {
+        "vata": 0.70, "pitta": 0.75, "kapha": 0.25
+      },
+      "primary_dosha": "pitta"
+    }
+  ]
+}

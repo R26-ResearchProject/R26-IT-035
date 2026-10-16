@@ -1,0 +1,7 @@
+{
+  "western": "{disease} is a {category} skin condition. It develops when {description}. People with this condition often experience {symptoms}. The most common reasons this condition occurs include {causes}. Things that can make it worse include {triggers} — so being aware of these can help you stay in control. If left untreated or poorly managed, it may lead to {complications}. The good news is that with the right care, most people see significant improvement.",
+
+  "ayurvedic": "In Ayurveda, {western_name} is known as {ayurveda_name}, which means {ayurveda_meaning}. This condition is seen as a sign of imbalance in your {dosha_list} doshas — the energies that govern your body and health. According to classical Ayurvedic wisdom, this imbalance develops because of {dosha_cause}. Understanding your dosha imbalance is the first step toward restoring natural harmony in your body. Reference: {classical_text}.",
+
+  "personalized": "Based on your unique body constitution, your dominant dosha is {dominant_dosha}. Right now your {dominant_dosha} energy is elevated, which may be contributing to {effect}. Compared to how this condition typically appears, your personal pattern shows {comparison_result}. This means your internal constitution is playing an important role in how {disease} is affecting you and this is exactly why your care plan needs to be tailored specifically to you."
+}
