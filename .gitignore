@@ -1,3 +1,8 @@
+# Environment variables
+.env
+.env.*
+!.env.example
+
 # Global
 .DS_Store
 .vscode/
@@ -11,23 +16,14 @@
 **/.ruff_cache/
 **/venv/
 **/.venv/
-**/env/
 
-# Node
+# React / Node
 **/node_modules/
 **/dist/
 **/build/
-**/.vite/
-**/*.tsbuildinfo
 
-# Environment and secrets
-**/.env
-**/.env.*
-!.env.example
+# Dataset
+**/data/raw/
 
 # Logs
-**/logs/
-**/*.log
-
-# Test coverage
-**/coverage/
+*.log
