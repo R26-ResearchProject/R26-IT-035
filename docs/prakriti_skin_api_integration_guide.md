@@ -9,7 +9,7 @@ This document explains:
 - What the **Skin module** should provide
 - How to merge those outputs and send them to this recommendation module
 
-The recommendation module expects one combined JSON payload.  
+The recommendation module expects one combined JSON payload.
 For now, you can enter values manually. Later, these values should come from API responses.
 
 ## 2) Required Final Input for Recommendation Module

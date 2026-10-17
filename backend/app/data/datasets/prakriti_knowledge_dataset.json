@@ -1,0 +1,130 @@
+{
+  "prakriti_types": [
+    {
+      "prakriti_id": "vata",
+      "name": "Vata",
+      "elements": ["air", "space"],
+      "qualities": {
+        "dry": 0.90,
+        "cold": 0.85,
+        "light": 0.80,
+        "rough": 0.75,
+        "mobile": 0.85,
+        "subtle": 0.70
+      },
+      "physical_traits": {
+        "skin_dryness": 0.90,
+        "skin_roughness": 0.80,
+        "cold_sensitivity": 0.85,
+        "inflammation_tendency": 0.30,
+        "oiliness": 0.10
+      },
+      "aggravating_factors": [
+        {"factor": "cold_weather", "weight": 0.90},
+        {"factor": "dry_weather", "weight": 0.85},
+        {"factor": "irregular_routine", "weight": 0.80},
+        {"factor": "stress_anxiety", "weight": 0.75},
+        {"factor": "poor_sleep", "weight": 0.70},
+        {"factor": "cold_dry_food", "weight": 0.65}
+      ],
+      "balancing_factors": [
+        {"factor": "warm_oils", "weight": 0.90},
+        {"factor": "warm_foods", "weight": 0.85},
+        {"factor": "regular_routine", "weight": 0.80},
+        {"factor": "adequate_sleep", "weight": 0.75},
+        {"factor": "hydration", "weight": 0.70}
+      ],
+      "skin_tendencies": [
+        "dry and rough skin",
+        "prone to cracking",
+        "thin skin texture",
+        "poor circulation"
+      ],
+      "classical_reference": "Charaka Samhita, Sutrasthana 8"
+    },
+    {
+      "prakriti_id": "pitta",
+      "name": "Pitta",
+      "elements": ["fire", "water"],
+      "qualities": {
+        "hot": 0.90,
+        "sharp": 0.80,
+        "light": 0.60,
+        "oily": 0.55,
+        "liquid": 0.65,
+        "spreading": 0.70
+      },
+      "physical_traits": {
+        "skin_warmth": 0.85,
+        "redness_tendency": 0.80,
+        "inflammation_tendency": 0.85,
+        "heat_sensitivity": 0.90,
+        "oiliness": 0.55
+      },
+      "aggravating_factors": [
+        {"factor": "spicy_food", "weight": 0.85},
+        {"factor": "sun_exposure", "weight": 0.80},
+        {"factor": "stress", "weight": 0.75},
+        {"factor": "alcohol", "weight": 0.70},
+        {"factor": "heat_exposure", "weight": 0.85},
+        {"factor": "skipping_meals", "weight": 0.65}
+      ],
+      "balancing_factors": [
+        {"factor": "cooling_foods", "weight": 0.85},
+        {"factor": "shade_and_rest", "weight": 0.80},
+        {"factor": "stress_management", "weight": 0.75},
+        {"factor": "regular_meals", "weight": 0.70},
+        {"factor": "cool_environment", "weight": 0.80}
+      ],
+      "skin_tendencies": [
+        "warm and sensitive skin",
+        "prone to redness and inflammation",
+        "oily in T-zone",
+        "sunburn easily"
+      ],
+      "classical_reference": "Charaka Samhita, Sutrasthana 8"
+    },
+    {
+      "prakriti_id": "kapha",
+      "name": "Kapha",
+      "elements": ["earth", "water"],
+      "qualities": {
+        "heavy": 0.85,
+        "cold": 0.70,
+        "moist": 0.90,
+        "soft": 0.80,
+        "stable": 0.85,
+        "smooth": 0.75
+      },
+      "physical_traits": {
+        "skin_oiliness": 0.85,
+        "skin_thickness": 0.80,
+        "swelling_tendency": 0.75,
+        "congestion_tendency": 0.80,
+        "inflammation_tendency": 0.40
+      },
+      "aggravating_factors": [
+        {"factor": "heavy_oily_food", "weight": 0.85},
+        {"factor": "cold_damp_weather", "weight": 0.80},
+        {"factor": "inactivity", "weight": 0.75},
+        {"factor": "dairy", "weight": 0.70},
+        {"factor": "oversleeping", "weight": 0.65},
+        {"factor": "sweet_food", "weight": 0.60}
+      ],
+      "balancing_factors": [
+        {"factor": "light_foods", "weight": 0.85},
+        {"factor": "exercise", "weight": 0.80},
+        {"factor": "dry_warm_foods", "weight": 0.75},
+        {"factor": "keep_active", "weight": 0.80},
+        {"factor": "warm_dry_environment", "weight": 0.70}
+      ],
+      "skin_tendencies": [
+        "thick and oily skin",
+        "prone to congestion and oozing",
+        "slow healing",
+        "enlarged pores"
+      ],
+      "classical_reference": "Charaka Samhita, Sutrasthana 8"
+    }
+  ]
+}
