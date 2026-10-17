@@ -1,0 +1,14 @@
+{
+  "minimum_skin_confidence": 0.6,
+  "minimum_prakriti_confidence": 0.6,
+  "severe_conditions_require_referral": true,
+  "blocked_recommendation_tags": {
+    "pregnancy": ["strong_detox", "intensive_heat_therapy"],
+    "child": ["strong_herbal_application", "intensive_heat_therapy"]
+  },
+  "dietary_exclusions": {
+    "vegetarian": ["non_vegetarian", "contains_meat", "contains_fish"],
+    "vegan": ["non_vegetarian", "contains_meat", "contains_fish", "contains_dairy", "contains_honey", "contains_ghee"],
+    "lactose_intolerant": ["contains_dairy", "contains_ghee"]
+  }
+}

@@ -1,24 +1,26 @@
+# Environment and local configuration
+.env
+.env.*
+!.env.example
+
+# Build, cache and test output
+coverage/
+.vite/
+*.tsbuildinfo
+node_modules/
+dist/
+dist-ssr/
+build/
+
 # Logs
-logs
+logs/
 *.log
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
 pnpm-debug.log*
-lerna-debug.log*
 
-node_modules
-dist
-dist-ssr
-*.local
-
-# Editor directories and files
-.vscode/*
-!.vscode/extensions.json
-.idea
+# Editors and operating system
 .DS_Store
-*.suo
-*.ntvs*
-*.njsproj
-*.sln
-*.sw?
+.vscode/
+.idea/
