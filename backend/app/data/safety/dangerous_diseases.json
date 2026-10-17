@@ -1,0 +1,31 @@
+{
+  "critical_referral_required": {
+    "diseases": [
+      "melanoma", "basal_cell_carcinoma",
+      "squamous_cell_carcinoma", "merkel_cell_carcinoma",
+      "cutaneous_lymphoma", "kaposi_sarcoma",
+      "skin_cancer", "carcinoma", "sarcoma"
+    ],
+    "message_type": "critical"
+  },
+  "urgent_referral_required": {
+    "diseases": [
+      "stevens_johnson_syndrome",
+      "toxic_epidermal_necrolysis",
+      "pemphigus_vulgaris",
+      "necrotizing_fasciitis",
+      "meningococcal_rash",
+      "purpura_fulminans",
+      "erythroderma"
+    ],
+    "message_type": "urgent"
+  },
+  "medical_supervision_required": {
+    "diseases": [
+      "lupus_skin", "dermatomyositis",
+      "systemic_sclerosis", "vasculitis",
+      "bullous_pemphigoid", "epidermolysis_bullosa"
+    ],
+    "message_type": "supervision"
+  }
+}

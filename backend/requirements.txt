@@ -1,0 +1,14 @@
+fastapi
+uvicorn[standard]
+pymongo
+python-dotenv
+scikit-fuzzy
+numpy
+scipy
+sentence-transformers
+chromadb
+requests
+pydantic
+pydantic-settings
+httpx
+pytest
