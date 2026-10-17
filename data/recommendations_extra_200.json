@@ -1,0 +1,3620 @@
+[
+  {
+    "rec_id": "R051",
+    "category": "diet",
+    "title": "Eczema-friendly: Hydration-first plate",
+    "text": "Prioritize water-rich foods and regular fluids; dehydration can worsen skin discomfort. For dryness/itch flares, keep routines simple and barrier-protective.",
+    "tags": [
+      "eczema",
+      "dryness",
+      "itching",
+      "barrier_repair",
+      "trigger_avoidance",
+      "eczema_support",
+      "hydration",
+      "routine"
+    ],
+    "expert_weight": 0.84,
+    "safety_level": "safe",
+    "advice_strength": "strong"
+  },
+  {
+    "rec_id": "R052",
+    "category": "diet",
+    "title": "Eczema-friendly: Balanced low-spike meals",
+    "text": "Choose balanced meals and reduce frequent high-sugar spikes to support overall skin stability. For dryness/itch flares, keep routines simple and barrier-protective.",
+    "tags": [
+      "eczema",
+      "dryness",
+      "itching",
+      "barrier_repair",
+      "trigger_avoidance",
+      "eczema_support",
+      "balanced_meals",
+      "glycemic_support"
+    ],
+    "expert_weight": 0.84,
+    "safety_level": "safe",
+    "advice_strength": "strong"
+  },
+  {
+    "rec_id": "R053",
+    "category": "diet",
+    "title": "Eczema-friendly: Gentle gut-friendly routine",
+    "text": "Keep meal timing consistent and include fiber-rich foods to support digestion-related skin flares. For dryness/itch flares, keep routines simple and barrier-protective.",
+    "tags": [
+      "eczema",
+      "dryness",
+      "itching",
+      "barrier_repair",
+      "trigger_avoidance",
+      "eczema_support",
+      "routine",
+      "digestion_support"
+    ],
+    "expert_weight": 0.84,
+    "safety_level": "safe",
+    "advice_strength": "strong"
+  },
+  {
+    "rec_id": "R054",
+    "category": "diet",
+    "title": "Eczema-friendly: Cooling foods when heat is high",
+    "text": "When redness/heat sensations are present, prefer mild cooling foods and avoid very spicy choices. For dryness/itch flares, keep routines simple and barrier-protective.",
+    "tags": [
+      "eczema",
+      "dryness",
+      "itching",
+      "barrier_repair",
+      "trigger_avoidance",
+      "eczema_support",
+      "cooling",
+      "heat_support"
+    ],
+    "expert_weight": 0.84,
+    "safety_level": "safe",
+    "advice_strength": "strong"
+  },
+  {
+    "rec_id": "R055",
+    "category": "diet",
+    "title": "Eczema-friendly: Reduce ultra-processed triggers",
+    "text": "Limit ultra-processed foods that often correlate with flare cycles; observe your personal triggers. For dryness/itch flares, keep routines simple and barrier-protective.",
+    "tags": [
+      "eczema",
+      "dryness",
+      "itching",
+      "barrier_repair",
+      "trigger_avoidance",
+      "eczema_support",
+      "tracking"
+    ],
+    "expert_weight": 0.84,
+    "safety_level": "safe",
+    "advice_strength": "strong"
+  },
+  {
+    "rec_id": "R056",
+    "category": "diet",
+    "title": "Eczema-friendly: Healthy fats for barrier support",
+    "text": "Include moderate healthy fats (as tolerated) to support the skin barrier and dryness control. For dryness/itch flares, keep routines simple and barrier-protective.",
+    "tags": [
+      "eczema",
+      "dryness",
+      "itching",
+      "barrier_repair",
+      "trigger_avoidance",
+      "eczema_support",
+      "nutrition"
+    ],
+    "expert_weight": 0.84,
+    "safety_level": "safe",
+    "advice_strength": "strong"
+  },
+  {
+    "rec_id": "R057",
+    "category": "diet",
+    "title": "Eczema-friendly: Mindful dairy check (individualized)",
+    "text": "If you suspect dairy aggravates your skin, trial a short, monitored reduction and track changes. For dryness/itch flares, keep routines simple and barrier-protective.",
+    "tags": [
+      "eczema",
+      "dryness",
+      "itching",
+      "barrier_repair",
+      "trigger_avoidance",
+      "eczema_support",
+      "trigger_tracking",
+      "individualized"
+    ],
+    "expert_weight": 0.84,
+    "safety_level": "caution",
+    "advice_strength": "strong"
+  },
+  {
+    "rec_id": "R058",
+    "category": "lifestyle",
+    "title": "Eczema-friendly: Consistent sleep window",
+    "text": "Aim for a consistent sleep schedule; irregular sleep can worsen itch, stress, and inflammation. For dryness/itch flares, keep routines simple and barrier-protective.",
+    "tags": [
+      "eczema",
+      "dryness",
+      "itching",
+      "barrier_repair",
+      "trigger_avoidance",
+      "eczema_support",
+      "sleep",
+      "routine"
+    ],
+    "expert_weight": 0.83,
+    "safety_level": "safe",
+    "advice_strength": "strong"
+  },
+  {
+    "rec_id": "R059",
+    "category": "lifestyle",
+    "title": "Eczema-friendly: Stress downshift practice",
+    "text": "Use a short daily stress-downshift (breathing, walk, journaling) to reduce flare triggers. For dryness/itch flares, keep routines simple and barrier-protective.",
+    "tags": [
+      "eczema",
+      "dryness",
+      "itching",
+      "barrier_repair",
+      "trigger_avoidance",
+      "eczema_support",
+      "stress_support",
+      "routine"
+    ],
+    "expert_weight": 0.83,
+    "safety_level": "safe",
+    "advice_strength": "strong"
+  },
+  {
+    "rec_id": "R060",
+    "category": "lifestyle",
+    "title": "Eczema-friendly: Sweat management habit",
+    "text": "After heavy sweating, change into dry clothing and cleanse gently to reduce irritation and fungal risk. For dryness/itch flares, keep routines simple and barrier-protective.",
+    "tags": [
+      "eczema",
+      "dryness",
+      "itching",
+      "barrier_repair",
+      "trigger_avoidance",
+      "eczema_support",
+      "hygiene",
+      "moisture_control"
+    ],
+    "expert_weight": 0.83,
+    "safety_level": "safe",
+    "advice_strength": "strong"
+  },
+  {
+    "rec_id": "R061",
+    "category": "lifestyle",
+    "title": "Eczema-friendly: Trigger journal",
+    "text": "Track stress, weather, products, and foods during flares to find repeatable triggers. For dryness/itch flares, keep routines simple and barrier-protective.",
+    "tags": [
+      "eczema",
+      "dryness",
+      "itching",
+      "barrier_repair",
+      "trigger_avoidance",
+      "eczema_support",
+      "tracking",
+      "trigger_tracking"
+    ],
+    "expert_weight": 0.83,
+    "safety_level": "safe",
+    "advice_strength": "strong"
+  },
+  {
+    "rec_id": "R062",
+    "category": "lifestyle",
+    "title": "Eczema-friendly: Sun-smart routine",
+    "text": "Use shade, hats, and consistent sun protection habits to reduce redness and pigmentation worsening. For dryness/itch flares, keep routines simple and barrier-protective.",
+    "tags": [
+      "eczema",
+      "dryness",
+      "itching",
+      "barrier_repair",
+      "trigger_avoidance",
+      "eczema_support",
+      "sun_protection",
+      "routine"
+    ],
+    "expert_weight": 0.83,
+    "safety_level": "safe",
+    "advice_strength": "strong"
+  },
+  {
+    "rec_id": "R063",
+    "category": "lifestyle",
+    "title": "Eczema-friendly: Friction reduction",
+    "text": "Reduce friction from tight clothing and rough fabrics; friction can amplify irritation and redness. For dryness/itch flares, keep routines simple and barrier-protective.",
+    "tags": [
+      "eczema",
+      "dryness",
+      "itching",
+      "barrier_repair",
+      "trigger_avoidance",
+      "eczema_support",
+      "friction_reduction",
+      "gentle_care"
+    ],
+    "expert_weight": 0.83,
+    "safety_level": "safe",
+    "advice_strength": "strong"
+  },
+  {
+    "rec_id": "R064",
+    "category": "lifestyle",
+    "title": "Eczema-friendly: Humidity and ventilation",
+    "text": "Keep living spaces ventilated; humidity control can help reduce fungal and irritation triggers. For dryness/itch flares, keep routines simple and barrier-protective.",
+    "tags": [
+      "eczema",
+      "dryness",
+      "itching",
+      "barrier_repair",
+      "trigger_avoidance",
+      "eczema_support",
+      "home_environment",
+      "moisture_control"
+    ],
+    "expert_weight": 0.83,
+    "safety_level": "safe",
+    "advice_strength": "strong"
+  },
+  {
+    "rec_id": "R065",
+    "category": "home_care",
+    "title": "Eczema-friendly: Gentle cleansing rule",
+    "text": "Cleanse with mild, fragrance-free products; avoid harsh scrubbing that damages the barrier. For dryness/itch flares, keep routines simple and barrier-protective.",
+    "tags": [
+      "eczema",
+      "dryness",
+      "itching",
+      "barrier_repair",
+      "trigger_avoidance",
+      "eczema_support",
+      "gentle_cleansing"
+    ],
+    "expert_weight": 0.9,
+    "safety_level": "safe",
+    "advice_strength": "strong"
+  },
+  {
+    "rec_id": "R066",
+    "category": "home_care",
+    "title": "Eczema-friendly: Moisturize strategically",
+    "text": "Moisturize soon after bathing to lock in water and support barrier recovery. For dryness/itch flares, keep routines simple and barrier-protective.",
+    "tags": [
+      "eczema",
+      "dryness",
+      "itching",
+      "barrier_repair",
+      "trigger_avoidance",
+      "eczema_support",
+      "hydration"
+    ],
+    "expert_weight": 0.9,
+    "safety_level": "safe",
+    "advice_strength": "strong"
+  },
+  {
+    "rec_id": "R067",
+    "category": "home_care",
+    "title": "Eczema-friendly: Short lukewarm showers",
+    "text": "Prefer short lukewarm showers over long hot ones to reduce dryness and irritation. For dryness/itch flares, keep routines simple and barrier-protective.",
+    "tags": [
+      "eczema",
+      "dryness",
+      "itching",
+      "barrier_repair",
+      "trigger_avoidance",
+      "eczema_support",
+      "gentle_care"
+    ],
+    "expert_weight": 0.9,
+    "safety_level": "safe",
+    "advice_strength": "strong"
+  },
+  {
+    "rec_id": "R068",
+    "category": "home_care",
+    "title": "Eczema-friendly: Patch-test new products",
+    "text": "Test new skincare on a small area before full use to reduce contact reactions. For dryness/itch flares, keep routines simple and barrier-protective.",
+    "tags": [
+      "eczema",
+      "dryness",
+      "itching",
+      "barrier_repair",
+      "trigger_avoidance",
+      "eczema_support",
+      "patch_testing",
+      "irritant_avoidance"
+    ],
+    "expert_weight": 0.9,
+    "safety_level": "caution",
+    "advice_strength": "strong"
+  },
+  {
+    "rec_id": "R069",
+    "category": "home_care",
+    "title": "Eczema-friendly: Nail and scratch control",
+    "text": "Keep nails short and use distractions to reduce scratching that worsens barrier injury. For dryness/itch flares, keep routines simple and barrier-protective.",
+    "tags": [
+      "eczema",
+      "dryness",
+      "itching",
+      "barrier_repair",
+      "trigger_avoidance",
+      "eczema_support",
+      "itching_control"
+    ],
+    "expert_weight": 0.9,
+    "safety_level": "safe",
+    "advice_strength": "strong"
+  },
+  {
+    "rec_id": "R070",
+    "category": "home_care",
+    "title": "Eczema-friendly: Clean textiles routine",
+    "text": "Wash towels and pillowcases regularly; clean textiles can reduce irritation and recurrence cycles. For dryness/itch flares, keep routines simple and barrier-protective.",
+    "tags": [
+      "eczema",
+      "dryness",
+      "itching",
+      "barrier_repair",
+      "trigger_avoidance",
+      "eczema_support",
+      "hygiene",
+      "routine"
+    ],
+    "expert_weight": 0.9,
+    "safety_level": "safe",
+    "advice_strength": "strong"
+  },
+  {
+    "rec_id": "R071",
+    "category": "home_care",
+    "title": "Eczema-friendly: Breathable fabric choice",
+    "text": "Use breathable fabrics and avoid prolonged dampness in folds to reduce fungal recurrence risk. For dryness/itch flares, keep routines simple and barrier-protective.",
+    "tags": [
+      "eczema",
+      "dryness",
+      "itching",
+      "barrier_repair",
+      "trigger_avoidance",
+      "eczema_support",
+      "breathable_clothing",
+      "moisture_control"
+    ],
+    "expert_weight": 0.9,
+    "safety_level": "safe",
+    "advice_strength": "strong"
+  },
+  {
+    "rec_id": "R072",
+    "category": "home_care",
+    "title": "Eczema-friendly: Cool compress (brief)",
+    "text": "Use a brief cool compress for heat/itch sensations; avoid prolonged cold exposure. For dryness/itch flares, keep routines simple and barrier-protective.",
+    "tags": [
+      "eczema",
+      "dryness",
+      "itching",
+      "barrier_repair",
+      "trigger_avoidance",
+      "eczema_support",
+      "cooling",
+      "comfort_support"
+    ],
+    "expert_weight": 0.9,
+    "safety_level": "safe",
+    "advice_strength": "strong"
+  },
+  {
+    "rec_id": "R073",
+    "category": "diet",
+    "title": "Acne-support: Hydration-first plate",
+    "text": "Prioritize water-rich foods and regular fluids; dehydration can worsen skin discomfort. For acne-prone skin, emphasize gentle cleansing and avoid picking or harsh over-stripping.",
+    "tags": [
+      "acne",
+      "oil_control",
+      "inflammation",
+      "comedones",
+      "hygiene",
+      "acne_support",
+      "hydration",
+      "routine"
+    ],
+    "expert_weight": 0.84,
+    "safety_level": "safe",
+    "advice_strength": "strong"
+  },
+  {
+    "rec_id": "R074",
+    "category": "diet",
+    "title": "Acne-support: Balanced low-spike meals",
+    "text": "Choose balanced meals and reduce frequent high-sugar spikes to support overall skin stability. For acne-prone skin, emphasize gentle cleansing and avoid picking or harsh over-stripping.",
+    "tags": [
+      "acne",
+      "oil_control",
+      "inflammation",
+      "comedones",
+      "hygiene",
+      "acne_support",
+      "balanced_meals",
+      "glycemic_support"
+    ],
+    "expert_weight": 0.84,
+    "safety_level": "safe",
+    "advice_strength": "strong"
+  },
+  {
+    "rec_id": "R075",
+    "category": "diet",
+    "title": "Acne-support: Gentle gut-friendly routine",
+    "text": "Keep meal timing consistent and include fiber-rich foods to support digestion-related skin flares. For acne-prone skin, emphasize gentle cleansing and avoid picking or harsh over-stripping.",
+    "tags": [
+      "acne",
+      "oil_control",
+      "inflammation",
+      "comedones",
+      "hygiene",
+      "acne_support",
+      "routine",
+      "digestion_support"
+    ],
+    "expert_weight": 0.84,
+    "safety_level": "safe",
+    "advice_strength": "strong"
+  },
+  {
+    "rec_id": "R076",
+    "category": "diet",
+    "title": "Acne-support: Cooling foods when heat is high",
+    "text": "When redness/heat sensations are present, prefer mild cooling foods and avoid very spicy choices. For acne-prone skin, emphasize gentle cleansing and avoid picking or harsh over-stripping.",
+    "tags": [
+      "acne",
+      "oil_control",
+      "inflammation",
+      "comedones",
+      "hygiene",
+      "acne_support",
+      "cooling",
+      "heat_support"
+    ],
+    "expert_weight": 0.84,
+    "safety_level": "safe",
+    "advice_strength": "strong"
+  },
+  {
+    "rec_id": "R077",
+    "category": "diet",
+    "title": "Acne-support: Reduce ultra-processed triggers",
+    "text": "Limit ultra-processed foods that often correlate with flare cycles; observe your personal triggers. For acne-prone skin, emphasize gentle cleansing and avoid picking or harsh over-stripping.",
+    "tags": [
+      "acne",
+      "oil_control",
+      "inflammation",
+      "comedones",
+      "hygiene",
+      "acne_support",
+      "trigger_avoidance",
+      "tracking"
+    ],
+    "expert_weight": 0.84,
+    "safety_level": "safe",
+    "advice_strength": "strong"
+  },
+  {
+    "rec_id": "R078",
+    "category": "diet",
+    "title": "Acne-support: Healthy fats for barrier support",
+    "text": "Include moderate healthy fats (as tolerated) to support the skin barrier and dryness control. For acne-prone skin, emphasize gentle cleansing and avoid picking or harsh over-stripping.",
+    "tags": [
+      "acne",
+      "oil_control",
+      "inflammation",
+      "comedones",
+      "hygiene",
+      "acne_support",
+      "barrier_repair",
+      "nutrition"
+    ],
+    "expert_weight": 0.84,
+    "safety_level": "safe",
+    "advice_strength": "strong"
+  },
+  {
+    "rec_id": "R079",
+    "category": "diet",
+    "title": "Acne-support: Mindful dairy check (individualized)",
+    "text": "If you suspect dairy aggravates your skin, trial a short, monitored reduction and track changes. For acne-prone skin, emphasize gentle cleansing and avoid picking or harsh over-stripping.",
+    "tags": [
+      "acne",
+      "oil_control",
+      "inflammation",
+      "comedones",
+      "hygiene",
+      "acne_support",
+      "trigger_tracking",
+      "individualized"
+    ],
+    "expert_weight": 0.84,
+    "safety_level": "caution",
+    "advice_strength": "strong"
+  },
+  {
+    "rec_id": "R080",
+    "category": "lifestyle",
+    "title": "Acne-support: Consistent sleep window",
+    "text": "Aim for a consistent sleep schedule; irregular sleep can worsen itch, stress, and inflammation. For acne-prone skin, emphasize gentle cleansing and avoid picking or harsh over-stripping.",
+    "tags": [
+      "acne",
+      "oil_control",
+      "inflammation",
+      "comedones",
+      "hygiene",
+      "acne_support",
+      "sleep",
+      "routine"
+    ],
+    "expert_weight": 0.83,
+    "safety_level": "safe",
+    "advice_strength": "strong"
+  },
+  {
+    "rec_id": "R081",
+    "category": "lifestyle",
+    "title": "Acne-support: Stress downshift practice",
+    "text": "Use a short daily stress-downshift (breathing, walk, journaling) to reduce flare triggers. For acne-prone skin, emphasize gentle cleansing and avoid picking or harsh over-stripping.",
+    "tags": [
+      "acne",
+      "oil_control",
+      "inflammation",
+      "comedones",
+      "hygiene",
+      "acne_support",
+      "stress_support",
+      "routine"
+    ],
+    "expert_weight": 0.83,
+    "safety_level": "safe",
+    "advice_strength": "strong"
+  },
+  {
+    "rec_id": "R082",
+    "category": "lifestyle",
+    "title": "Acne-support: Sweat management habit",
+    "text": "After heavy sweating, change into dry clothing and cleanse gently to reduce irritation and fungal risk. For acne-prone skin, emphasize gentle cleansing and avoid picking or harsh over-stripping.",
+    "tags": [
+      "acne",
+      "oil_control",
+      "inflammation",
+      "comedones",
+      "hygiene",
+      "acne_support",
+      "moisture_control"
+    ],
+    "expert_weight": 0.83,
+    "safety_level": "safe",
+    "advice_strength": "strong"
+  },
+  {
+    "rec_id": "R083",
+    "category": "lifestyle",
+    "title": "Acne-support: Trigger journal",
+    "text": "Track stress, weather, products, and foods during flares to find repeatable triggers. For acne-prone skin, emphasize gentle cleansing and avoid picking or harsh over-stripping.",
+    "tags": [
+      "acne",
+      "oil_control",
+      "inflammation",
+      "comedones",
+      "hygiene",
+      "acne_support",
+      "tracking",
+      "trigger_tracking"
+    ],
+    "expert_weight": 0.83,
+    "safety_level": "safe",
+    "advice_strength": "strong"
+  },
+  {
+    "rec_id": "R084",
+    "category": "lifestyle",
+    "title": "Acne-support: Sun-smart routine",
+    "text": "Use shade, hats, and consistent sun protection habits to reduce redness and pigmentation worsening. For acne-prone skin, emphasize gentle cleansing and avoid picking or harsh over-stripping.",
+    "tags": [
+      "acne",
+      "oil_control",
+      "inflammation",
+      "comedones",
+      "hygiene",
+      "acne_support",
+      "sun_protection",
+      "routine"
+    ],
+    "expert_weight": 0.83,
+    "safety_level": "safe",
+    "advice_strength": "strong"
+  },
+  {
+    "rec_id": "R085",
+    "category": "lifestyle",
+    "title": "Acne-support: Friction reduction",
+    "text": "Reduce friction from tight clothing and rough fabrics; friction can amplify irritation and redness. For acne-prone skin, emphasize gentle cleansing and avoid picking or harsh over-stripping.",
+    "tags": [
+      "acne",
+      "oil_control",
+      "inflammation",
+      "comedones",
+      "hygiene",
+      "acne_support",
+      "friction_reduction",
+      "gentle_care"
+    ],
+    "expert_weight": 0.83,
+    "safety_level": "safe",
+    "advice_strength": "strong"
+  },
+  {
+    "rec_id": "R086",
+    "category": "lifestyle",
+    "title": "Acne-support: Humidity and ventilation",
+    "text": "Keep living spaces ventilated; humidity control can help reduce fungal and irritation triggers. For acne-prone skin, emphasize gentle cleansing and avoid picking or harsh over-stripping.",
+    "tags": [
+      "acne",
+      "oil_control",
+      "inflammation",
+      "comedones",
+      "hygiene",
+      "acne_support",
+      "home_environment",
+      "moisture_control"
+    ],
+    "expert_weight": 0.83,
+    "safety_level": "safe",
+    "advice_strength": "strong"
+  },
+  {
+    "rec_id": "R087",
+    "category": "home_care",
+    "title": "Acne-support: Gentle cleansing rule",
+    "text": "Cleanse with mild, fragrance-free products; avoid harsh scrubbing that damages the barrier. For acne-prone skin, emphasize gentle cleansing and avoid picking or harsh over-stripping.",
+    "tags": [
+      "acne",
+      "oil_control",
+      "inflammation",
+      "comedones",
+      "hygiene",
+      "acne_support",
+      "gentle_cleansing",
+      "barrier_repair"
+    ],
+    "expert_weight": 0.9,
+    "safety_level": "safe",
+    "advice_strength": "strong"
+  },
+  {
+    "rec_id": "R088",
+    "category": "home_care",
+    "title": "Acne-support: Moisturize strategically",
+    "text": "Moisturize soon after bathing to lock in water and support barrier recovery. For acne-prone skin, emphasize gentle cleansing and avoid picking or harsh over-stripping.",
+    "tags": [
+      "acne",
+      "oil_control",
+      "inflammation",
+      "comedones",
+      "hygiene",
+      "acne_support",
+      "barrier_repair",
+      "hydration"
+    ],
+    "expert_weight": 0.9,
+    "safety_level": "safe",
+    "advice_strength": "strong"
+  },
+  {
+    "rec_id": "R089",
+    "category": "home_care",
+    "title": "Acne-support: Short lukewarm showers",
+    "text": "Prefer short lukewarm showers over long hot ones to reduce dryness and irritation. For acne-prone skin, emphasize gentle cleansing and avoid picking or harsh over-stripping.",
+    "tags": [
+      "acne",
+      "oil_control",
+      "inflammation",
+      "comedones",
+      "hygiene",
+      "acne_support",
+      "barrier_repair",
+      "gentle_care"
+    ],
+    "expert_weight": 0.9,
+    "safety_level": "safe",
+    "advice_strength": "strong"
+  },
+  {
+    "rec_id": "R090",
+    "category": "home_care",
+    "title": "Acne-support: Patch-test new products",
+    "text": "Test new skincare on a small area before full use to reduce contact reactions. For acne-prone skin, emphasize gentle cleansing and avoid picking or harsh over-stripping.",
+    "tags": [
+      "acne",
+      "oil_control",
+      "inflammation",
+      "comedones",
+      "hygiene",
+      "acne_support",
+      "patch_testing",
+      "irritant_avoidance"
+    ],
+    "expert_weight": 0.9,
+    "safety_level": "caution",
+    "advice_strength": "strong"
+  },
+  {
+    "rec_id": "R091",
+    "category": "home_care",
+    "title": "Acne-support: Nail and scratch control",
+    "text": "Keep nails short and use distractions to reduce scratching that worsens barrier injury. For acne-prone skin, emphasize gentle cleansing and avoid picking or harsh over-stripping.",
+    "tags": [
+      "acne",
+      "oil_control",
+      "inflammation",
+      "comedones",
+      "hygiene",
+      "acne_support",
+      "itching_control",
+      "barrier_repair"
+    ],
+    "expert_weight": 0.9,
+    "safety_level": "safe",
+    "advice_strength": "strong"
+  },
+  {
+    "rec_id": "R092",
+    "category": "home_care",
+    "title": "Acne-support: Clean textiles routine",
+    "text": "Wash towels and pillowcases regularly; clean textiles can reduce irritation and recurrence cycles. For acne-prone skin, emphasize gentle cleansing and avoid picking or harsh over-stripping.",
+    "tags": [
+      "acne",
+      "oil_control",
+      "inflammation",
+      "comedones",
+      "hygiene",
+      "acne_support",
+      "routine"
+    ],
+    "expert_weight": 0.9,
+    "safety_level": "safe",
+    "advice_strength": "strong"
+  },
+  {
+    "rec_id": "R093",
+    "category": "home_care",
+    "title": "Acne-support: Breathable fabric choice",
+    "text": "Use breathable fabrics and avoid prolonged dampness in folds to reduce fungal recurrence risk. For acne-prone skin, emphasize gentle cleansing and avoid picking or harsh over-stripping.",
+    "tags": [
+      "acne",
+      "oil_control",
+      "inflammation",
+      "comedones",
+      "hygiene",
+      "acne_support",
+      "breathable_clothing",
+      "moisture_control"
+    ],
+    "expert_weight": 0.9,
+    "safety_level": "safe",
+    "advice_strength": "strong"
+  },
+  {
+    "rec_id": "R094",
+    "category": "home_care",
+    "title": "Acne-support: Cool compress (brief)",
+    "text": "Use a brief cool compress for heat/itch sensations; avoid prolonged cold exposure. For acne-prone skin, emphasize gentle cleansing and avoid picking or harsh over-stripping.",
+    "tags": [
+      "acne",
+      "oil_control",
+      "inflammation",
+      "comedones",
+      "hygiene",
+      "acne_support",
+      "cooling",
+      "comfort_support"
+    ],
+    "expert_weight": 0.9,
+    "safety_level": "safe",
+    "advice_strength": "strong"
+  },
+  {
+    "rec_id": "R095",
+    "category": "diet",
+    "title": "Psoriasis-support: Hydration-first plate",
+    "text": "Prioritize water-rich foods and regular fluids; dehydration can worsen skin discomfort. For scaling plaques, be extra gentle and avoid aggressive scrubbing.",
+    "tags": [
+      "psoriasis",
+      "scaling",
+      "inflammation",
+      "gentle_care",
+      "routine",
+      "psoriasis_support",
+      "hydration"
+    ],
+    "expert_weight": 0.84,
+    "safety_level": "safe",
+    "advice_strength": "moderate"
+  },
+  {
+    "rec_id": "R096",
+    "category": "diet",
+    "title": "Psoriasis-support: Balanced low-spike meals",
+    "text": "Choose balanced meals and reduce frequent high-sugar spikes to support overall skin stability. For scaling plaques, be extra gentle and avoid aggressive scrubbing.",
+    "tags": [
+      "psoriasis",
+      "scaling",
+      "inflammation",
+      "gentle_care",
+      "routine",
+      "psoriasis_support",
+      "balanced_meals",
+      "glycemic_support"
+    ],
+    "expert_weight": 0.84,
+    "safety_level": "safe",
+    "advice_strength": "moderate"
+  },
+  {
+    "rec_id": "R097",
+    "category": "diet",
+    "title": "Psoriasis-support: Gentle gut-friendly routine",
+    "text": "Keep meal timing consistent and include fiber-rich foods to support digestion-related skin flares. For scaling plaques, be extra gentle and avoid aggressive scrubbing.",
+    "tags": [
+      "psoriasis",
+      "scaling",
+      "inflammation",
+      "gentle_care",
+      "routine",
+      "psoriasis_support",
+      "digestion_support"
+    ],
+    "expert_weight": 0.84,
+    "safety_level": "safe",
+    "advice_strength": "moderate"
+  },
+  {
+    "rec_id": "R098",
+    "category": "diet",
+    "title": "Psoriasis-support: Cooling foods when heat is high",
+    "text": "When redness/heat sensations are present, prefer mild cooling foods and avoid very spicy choices. For scaling plaques, be extra gentle and avoid aggressive scrubbing.",
+    "tags": [
+      "psoriasis",
+      "scaling",
+      "inflammation",
+      "gentle_care",
+      "routine",
+      "psoriasis_support",
+      "cooling",
+      "heat_support"
+    ],
+    "expert_weight": 0.84,
+    "safety_level": "safe",
+    "advice_strength": "moderate"
+  },
+  {
+    "rec_id": "R099",
+    "category": "diet",
+    "title": "Psoriasis-support: Reduce ultra-processed triggers",
+    "text": "Limit ultra-processed foods that often correlate with flare cycles; observe your personal triggers. For scaling plaques, be extra gentle and avoid aggressive scrubbing.",
+    "tags": [
+      "psoriasis",
+      "scaling",
+      "inflammation",
+      "gentle_care",
+      "routine",
+      "psoriasis_support",
+      "trigger_avoidance",
+      "tracking"
+    ],
+    "expert_weight": 0.84,
+    "safety_level": "safe",
+    "advice_strength": "moderate"
+  },
+  {
+    "rec_id": "R100",
+    "category": "diet",
+    "title": "Psoriasis-support: Healthy fats for barrier support",
+    "text": "Include moderate healthy fats (as tolerated) to support the skin barrier and dryness control. For scaling plaques, be extra gentle and avoid aggressive scrubbing.",
+    "tags": [
+      "psoriasis",
+      "scaling",
+      "inflammation",
+      "gentle_care",
+      "routine",
+      "psoriasis_support",
+      "barrier_repair",
+      "nutrition"
+    ],
+    "expert_weight": 0.84,
+    "safety_level": "safe",
+    "advice_strength": "strong"
+  },
+  {
+    "rec_id": "R101",
+    "category": "diet",
+    "title": "Psoriasis-support: Mindful dairy check (individualized)",
+    "text": "If you suspect dairy aggravates your skin, trial a short, monitored reduction and track changes. For scaling plaques, be extra gentle and avoid aggressive scrubbing.",
+    "tags": [
+      "psoriasis",
+      "scaling",
+      "inflammation",
+      "gentle_care",
+      "routine",
+      "psoriasis_support",
+      "trigger_tracking",
+      "individualized"
+    ],
+    "expert_weight": 0.84,
+    "safety_level": "caution",
+    "advice_strength": "moderate"
+  },
+  {
+    "rec_id": "R102",
+    "category": "lifestyle",
+    "title": "Psoriasis-support: Consistent sleep window",
+    "text": "Aim for a consistent sleep schedule; irregular sleep can worsen itch, stress, and inflammation. For scaling plaques, be extra gentle and avoid aggressive scrubbing.",
+    "tags": [
+      "psoriasis",
+      "scaling",
+      "inflammation",
+      "gentle_care",
+      "routine",
+      "psoriasis_support",
+      "sleep"
+    ],
+    "expert_weight": 0.83,
+    "safety_level": "safe",
+    "advice_strength": "moderate"
+  },
+  {
+    "rec_id": "R103",
+    "category": "lifestyle",
+    "title": "Psoriasis-support: Stress downshift practice",
+    "text": "Use a short daily stress-downshift (breathing, walk, journaling) to reduce flare triggers. For scaling plaques, be extra gentle and avoid aggressive scrubbing.",
+    "tags": [
+      "psoriasis",
+      "scaling",
+      "inflammation",
+      "gentle_care",
+      "routine",
+      "psoriasis_support",
+      "stress_support"
+    ],
+    "expert_weight": 0.83,
+    "safety_level": "safe",
+    "advice_strength": "moderate"
+  },
+  {
+    "rec_id": "R104",
+    "category": "lifestyle",
+    "title": "Psoriasis-support: Sweat management habit",
+    "text": "After heavy sweating, change into dry clothing and cleanse gently to reduce irritation and fungal risk. For scaling plaques, be extra gentle and avoid aggressive scrubbing.",
+    "tags": [
+      "psoriasis",
+      "scaling",
+      "inflammation",
+      "gentle_care",
+      "routine",
+      "psoriasis_support",
+      "hygiene",
+      "moisture_control"
+    ],
+    "expert_weight": 0.83,
+    "safety_level": "safe",
+    "advice_strength": "strong"
+  },
+  {
+    "rec_id": "R105",
+    "category": "lifestyle",
+    "title": "Psoriasis-support: Trigger journal",
+    "text": "Track stress, weather, products, and foods during flares to find repeatable triggers. For scaling plaques, be extra gentle and avoid aggressive scrubbing.",
+    "tags": [
+      "psoriasis",
+      "scaling",
+      "inflammation",
+      "gentle_care",
+      "routine",
+      "psoriasis_support",
+      "tracking",
+      "trigger_tracking"
+    ],
+    "expert_weight": 0.83,
+    "safety_level": "safe",
+    "advice_strength": "moderate"
+  },
+  {
+    "rec_id": "R106",
+    "category": "lifestyle",
+    "title": "Psoriasis-support: Sun-smart routine",
+    "text": "Use shade, hats, and consistent sun protection habits to reduce redness and pigmentation worsening. For scaling plaques, be extra gentle and avoid aggressive scrubbing.",
+    "tags": [
+      "psoriasis",
+      "scaling",
+      "inflammation",
+      "gentle_care",
+      "routine",
+      "psoriasis_support",
+      "sun_protection"
+    ],
+    "expert_weight": 0.83,
+    "safety_level": "safe",
+    "advice_strength": "strong"
+  },
+  {
+    "rec_id": "R107",
+    "category": "lifestyle",
+    "title": "Psoriasis-support: Friction reduction",
+    "text": "Reduce friction from tight clothing and rough fabrics; friction can amplify irritation and redness. For scaling plaques, be extra gentle and avoid aggressive scrubbing.",
+    "tags": [
+      "psoriasis",
+      "scaling",
+      "inflammation",
+      "gentle_care",
+      "routine",
+      "psoriasis_support",
+      "friction_reduction"
+    ],
+    "expert_weight": 0.83,
+    "safety_level": "safe",
+    "advice_strength": "moderate"
+  },
+  {
+    "rec_id": "R108",
+    "category": "lifestyle",
+    "title": "Psoriasis-support: Humidity and ventilation",
+    "text": "Keep living spaces ventilated; humidity control can help reduce fungal and irritation triggers. For scaling plaques, be extra gentle and avoid aggressive scrubbing.",
+    "tags": [
+      "psoriasis",
+      "scaling",
+      "inflammation",
+      "gentle_care",
+      "routine",
+      "psoriasis_support",
+      "home_environment",
+      "moisture_control"
+    ],
+    "expert_weight": 0.83,
+    "safety_level": "safe",
+    "advice_strength": "moderate"
+  },
+  {
+    "rec_id": "R109",
+    "category": "home_care",
+    "title": "Psoriasis-support: Gentle cleansing rule",
+    "text": "Cleanse with mild, fragrance-free products; avoid harsh scrubbing that damages the barrier. For scaling plaques, be extra gentle and avoid aggressive scrubbing.",
+    "tags": [
+      "psoriasis",
+      "scaling",
+      "inflammation",
+      "gentle_care",
+      "routine",
+      "psoriasis_support",
+      "gentle_cleansing",
+      "barrier_repair"
+    ],
+    "expert_weight": 0.9,
+    "safety_level": "safe",
+    "advice_strength": "strong"
+  },
+  {
+    "rec_id": "R110",
+    "category": "home_care",
+    "title": "Psoriasis-support: Moisturize strategically",
+    "text": "Moisturize soon after bathing to lock in water and support barrier recovery. For scaling plaques, be extra gentle and avoid aggressive scrubbing.",
+    "tags": [
+      "psoriasis",
+      "scaling",
+      "inflammation",
+      "gentle_care",
+      "routine",
+      "psoriasis_support",
+      "barrier_repair",
+      "hydration"
+    ],
+    "expert_weight": 0.9,
+    "safety_level": "safe",
+    "advice_strength": "strong"
+  },
+  {
+    "rec_id": "R111",
+    "category": "home_care",
+    "title": "Psoriasis-support: Short lukewarm showers",
+    "text": "Prefer short lukewarm showers over long hot ones to reduce dryness and irritation. For scaling plaques, be extra gentle and avoid aggressive scrubbing.",
+    "tags": [
+      "psoriasis",
+      "scaling",
+      "inflammation",
+      "gentle_care",
+      "routine",
+      "psoriasis_support",
+      "barrier_repair"
+    ],
+    "expert_weight": 0.9,
+    "safety_level": "safe",
+    "advice_strength": "strong"
+  },
+  {
+    "rec_id": "R112",
+    "category": "home_care",
+    "title": "Psoriasis-support: Patch-test new products",
+    "text": "Test new skincare on a small area before full use to reduce contact reactions. For scaling plaques, be extra gentle and avoid aggressive scrubbing.",
+    "tags": [
+      "psoriasis",
+      "scaling",
+      "inflammation",
+      "gentle_care",
+      "routine",
+      "psoriasis_support",
+      "patch_testing",
+      "irritant_avoidance"
+    ],
+    "expert_weight": 0.9,
+    "safety_level": "caution",
+    "advice_strength": "moderate"
+  },
+  {
+    "rec_id": "R113",
+    "category": "home_care",
+    "title": "Psoriasis-support: Nail and scratch control",
+    "text": "Keep nails short and use distractions to reduce scratching that worsens barrier injury. For scaling plaques, be extra gentle and avoid aggressive scrubbing.",
+    "tags": [
+      "psoriasis",
+      "scaling",
+      "inflammation",
+      "gentle_care",
+      "routine",
+      "psoriasis_support",
+      "itching_control",
+      "barrier_repair"
+    ],
+    "expert_weight": 0.9,
+    "safety_level": "safe",
+    "advice_strength": "strong"
+  },
+  {
+    "rec_id": "R114",
+    "category": "home_care",
+    "title": "Psoriasis-support: Clean textiles routine",
+    "text": "Wash towels and pillowcases regularly; clean textiles can reduce irritation and recurrence cycles. For scaling plaques, be extra gentle and avoid aggressive scrubbing.",
+    "tags": [
+      "psoriasis",
+      "scaling",
+      "inflammation",
+      "gentle_care",
+      "routine",
+      "psoriasis_support",
+      "hygiene"
+    ],
+    "expert_weight": 0.9,
+    "safety_level": "safe",
+    "advice_strength": "strong"
+  },
+  {
+    "rec_id": "R115",
+    "category": "home_care",
+    "title": "Psoriasis-support: Breathable fabric choice",
+    "text": "Use breathable fabrics and avoid prolonged dampness in folds to reduce fungal recurrence risk. For scaling plaques, be extra gentle and avoid aggressive scrubbing.",
+    "tags": [
+      "psoriasis",
+      "scaling",
+      "inflammation",
+      "gentle_care",
+      "routine",
+      "psoriasis_support",
+      "breathable_clothing",
+      "moisture_control"
+    ],
+    "expert_weight": 0.9,
+    "safety_level": "safe",
+    "advice_strength": "moderate"
+  },
+  {
+    "rec_id": "R116",
+    "category": "home_care",
+    "title": "Psoriasis-support: Cool compress (brief)",
+    "text": "Use a brief cool compress for heat/itch sensations; avoid prolonged cold exposure. For scaling plaques, be extra gentle and avoid aggressive scrubbing.",
+    "tags": [
+      "psoriasis",
+      "scaling",
+      "inflammation",
+      "gentle_care",
+      "routine",
+      "psoriasis_support",
+      "cooling",
+      "comfort_support"
+    ],
+    "expert_weight": 0.9,
+    "safety_level": "safe",
+    "advice_strength": "moderate"
+  },
+  {
+    "rec_id": "R117",
+    "category": "diet",
+    "title": "Fungal-support: Hydration-first plate",
+    "text": "Prioritize water-rich foods and regular fluids; dehydration can worsen skin discomfort. For fungal-prone areas, prioritize dryness, ventilation, and sweat control habits.",
+    "tags": [
+      "fungal_infection",
+      "hygiene",
+      "moisture_control",
+      "breathable_clothing",
+      "fungal_support",
+      "hydration",
+      "routine"
+    ],
+    "expert_weight": 0.84,
+    "safety_level": "safe",
+    "advice_strength": "strong"
+  },
+  {
+    "rec_id": "R118",
+    "category": "diet",
+    "title": "Fungal-support: Balanced low-spike meals",
+    "text": "Choose balanced meals and reduce frequent high-sugar spikes to support overall skin stability. For fungal-prone areas, prioritize dryness, ventilation, and sweat control habits.",
+    "tags": [
+      "fungal_infection",
+      "hygiene",
+      "moisture_control",
+      "breathable_clothing",
+      "fungal_support",
+      "balanced_meals",
+      "glycemic_support"
+    ],
+    "expert_weight": 0.84,
+    "safety_level": "safe",
+    "advice_strength": "strong"
+  },
+  {
+    "rec_id": "R119",
+    "category": "diet",
+    "title": "Fungal-support: Gentle gut-friendly routine",
+    "text": "Keep meal timing consistent and include fiber-rich foods to support digestion-related skin flares. For fungal-prone areas, prioritize dryness, ventilation, and sweat control habits.",
+    "tags": [
+      "fungal_infection",
+      "hygiene",
+      "moisture_control",
+      "breathable_clothing",
+      "fungal_support",
+      "routine",
+      "digestion_support"
+    ],
+    "expert_weight": 0.84,
+    "safety_level": "safe",
+    "advice_strength": "strong"
+  },
+  {
+    "rec_id": "R120",
+    "category": "diet",
+    "title": "Fungal-support: Cooling foods when heat is high",
+    "text": "When redness/heat sensations are present, prefer mild cooling foods and avoid very spicy choices. For fungal-prone areas, prioritize dryness, ventilation, and sweat control habits.",
+    "tags": [
+      "fungal_infection",
+      "hygiene",
+      "moisture_control",
+      "breathable_clothing",
+      "fungal_support",
+      "cooling",
+      "heat_support"
+    ],
+    "expert_weight": 0.84,
+    "safety_level": "safe",
+    "advice_strength": "strong"
+  },
+  {
+    "rec_id": "R121",
+    "category": "diet",
+    "title": "Fungal-support: Reduce ultra-processed triggers",
+    "text": "Limit ultra-processed foods that often correlate with flare cycles; observe your personal triggers. For fungal-prone areas, prioritize dryness, ventilation, and sweat control habits.",
+    "tags": [
+      "fungal_infection",
+      "hygiene",
+      "moisture_control",
+      "breathable_clothing",
+      "fungal_support",
+      "trigger_avoidance",
+      "tracking"
+    ],
+    "expert_weight": 0.84,
+    "safety_level": "safe",
+    "advice_strength": "strong"
+  },
+  {
+    "rec_id": "R122",
+    "category": "diet",
+    "title": "Fungal-support: Healthy fats for barrier support",
+    "text": "Include moderate healthy fats (as tolerated) to support the skin barrier and dryness control. For fungal-prone areas, prioritize dryness, ventilation, and sweat control habits.",
+    "tags": [
+      "fungal_infection",
+      "hygiene",
+      "moisture_control",
+      "breathable_clothing",
+      "fungal_support",
+      "barrier_repair",
+      "nutrition"
+    ],
+    "expert_weight": 0.84,
+    "safety_level": "safe",
+    "advice_strength": "strong"
+  },
+  {
+    "rec_id": "R123",
+    "category": "diet",
+    "title": "Fungal-support: Mindful dairy check (individualized)",
+    "text": "If you suspect dairy aggravates your skin, trial a short, monitored reduction and track changes. For fungal-prone areas, prioritize dryness, ventilation, and sweat control habits.",
+    "tags": [
+      "fungal_infection",
+      "hygiene",
+      "moisture_control",
+      "breathable_clothing",
+      "fungal_support",
+      "trigger_tracking",
+      "individualized"
+    ],
+    "expert_weight": 0.84,
+    "safety_level": "caution",
+    "advice_strength": "strong"
+  },
+  {
+    "rec_id": "R124",
+    "category": "lifestyle",
+    "title": "Fungal-support: Consistent sleep window",
+    "text": "Aim for a consistent sleep schedule; irregular sleep can worsen itch, stress, and inflammation. For fungal-prone areas, prioritize dryness, ventilation, and sweat control habits.",
+    "tags": [
+      "fungal_infection",
+      "hygiene",
+      "moisture_control",
+      "breathable_clothing",
+      "fungal_support",
+      "sleep",
+      "routine"
+    ],
+    "expert_weight": 0.83,
+    "safety_level": "safe",
+    "advice_strength": "strong"
+  },
+  {
+    "rec_id": "R125",
+    "category": "lifestyle",
+    "title": "Fungal-support: Stress downshift practice",
+    "text": "Use a short daily stress-downshift (breathing, walk, journaling) to reduce flare triggers. For fungal-prone areas, prioritize dryness, ventilation, and sweat control habits.",
+    "tags": [
+      "fungal_infection",
+      "hygiene",
+      "moisture_control",
+      "breathable_clothing",
+      "fungal_support",
+      "stress_support",
+      "routine"
+    ],
+    "expert_weight": 0.83,
+    "safety_level": "safe",
+    "advice_strength": "strong"
+  },
+  {
+    "rec_id": "R126",
+    "category": "lifestyle",
+    "title": "Fungal-support: Sweat management habit",
+    "text": "After heavy sweating, change into dry clothing and cleanse gently to reduce irritation and fungal risk. For fungal-prone areas, prioritize dryness, ventilation, and sweat control habits.",
+    "tags": [
+      "fungal_infection",
+      "hygiene",
+      "moisture_control",
+      "breathable_clothing",
+      "fungal_support"
+    ],
+    "expert_weight": 0.83,
+    "safety_level": "safe",
+    "advice_strength": "strong"
+  },
+  {
+    "rec_id": "R127",
+    "category": "lifestyle",
+    "title": "Fungal-support: Trigger journal",
+    "text": "Track stress, weather, products, and foods during flares to find repeatable triggers. For fungal-prone areas, prioritize dryness, ventilation, and sweat control habits.",
+    "tags": [
+      "fungal_infection",
+      "hygiene",
+      "moisture_control",
+      "breathable_clothing",
+      "fungal_support",
+      "tracking",
+      "trigger_tracking"
+    ],
+    "expert_weight": 0.83,
+    "safety_level": "safe",
+    "advice_strength": "strong"
+  },
+  {
+    "rec_id": "R128",
+    "category": "lifestyle",
+    "title": "Fungal-support: Sun-smart routine",
+    "text": "Use shade, hats, and consistent sun protection habits to reduce redness and pigmentation worsening. For fungal-prone areas, prioritize dryness, ventilation, and sweat control habits.",
+    "tags": [
+      "fungal_infection",
+      "hygiene",
+      "moisture_control",
+      "breathable_clothing",
+      "fungal_support",
+      "sun_protection",
+      "routine"
+    ],
+    "expert_weight": 0.83,
+    "safety_level": "safe",
+    "advice_strength": "strong"
+  },
+  {
+    "rec_id": "R129",
+    "category": "lifestyle",
+    "title": "Fungal-support: Friction reduction",
+    "text": "Reduce friction from tight clothing and rough fabrics; friction can amplify irritation and redness. For fungal-prone areas, prioritize dryness, ventilation, and sweat control habits.",
+    "tags": [
+      "fungal_infection",
+      "hygiene",
+      "moisture_control",
+      "breathable_clothing",
+      "fungal_support",
+      "friction_reduction",
+      "gentle_care"
+    ],
+    "expert_weight": 0.83,
+    "safety_level": "safe",
+    "advice_strength": "strong"
+  },
+  {
+    "rec_id": "R130",
+    "category": "lifestyle",
+    "title": "Fungal-support: Humidity and ventilation",
+    "text": "Keep living spaces ventilated; humidity control can help reduce fungal and irritation triggers. For fungal-prone areas, prioritize dryness, ventilation, and sweat control habits.",
+    "tags": [
+      "fungal_infection",
+      "hygiene",
+      "moisture_control",
+      "breathable_clothing",
+      "fungal_support",
+      "home_environment"
+    ],
+    "expert_weight": 0.83,
+    "safety_level": "safe",
+    "advice_strength": "strong"
+  },
+  {
+    "rec_id": "R131",
+    "category": "home_care",
+    "title": "Fungal-support: Gentle cleansing rule",
+    "text": "Cleanse with mild, fragrance-free products; avoid harsh scrubbing that damages the barrier. For fungal-prone areas, prioritize dryness, ventilation, and sweat control habits.",
+    "tags": [
+      "fungal_infection",
+      "hygiene",
+      "moisture_control",
+      "breathable_clothing",
+      "fungal_support",
+      "gentle_cleansing",
+      "barrier_repair"
+    ],
+    "expert_weight": 0.9,
+    "safety_level": "safe",
+    "advice_strength": "strong"
+  },
+  {
+    "rec_id": "R132",
+    "category": "home_care",
+    "title": "Fungal-support: Moisturize strategically",
+    "text": "Moisturize soon after bathing to lock in water and support barrier recovery. For fungal-prone areas, prioritize dryness, ventilation, and sweat control habits.",
+    "tags": [
+      "fungal_infection",
+      "hygiene",
+      "moisture_control",
+      "breathable_clothing",
+      "fungal_support",
+      "barrier_repair",
+      "hydration"
+    ],
+    "expert_weight": 0.9,
+    "safety_level": "safe",
+    "advice_strength": "strong"
+  },
+  {
+    "rec_id": "R133",
+    "category": "home_care",
+    "title": "Fungal-support: Short lukewarm showers",
+    "text": "Prefer short lukewarm showers over long hot ones to reduce dryness and irritation. For fungal-prone areas, prioritize dryness, ventilation, and sweat control habits.",
+    "tags": [
+      "fungal_infection",
+      "hygiene",
+      "moisture_control",
+      "breathable_clothing",
+      "fungal_support",
+      "barrier_repair",
+      "gentle_care"
+    ],
+    "expert_weight": 0.9,
+    "safety_level": "safe",
+    "advice_strength": "strong"
+  },
+  {
+    "rec_id": "R134",
+    "category": "home_care",
+    "title": "Fungal-support: Patch-test new products",
+    "text": "Test new skincare on a small area before full use to reduce contact reactions. For fungal-prone areas, prioritize dryness, ventilation, and sweat control habits.",
+    "tags": [
+      "fungal_infection",
+      "hygiene",
+      "moisture_control",
+      "breathable_clothing",
+      "fungal_support",
+      "patch_testing",
+      "irritant_avoidance"
+    ],
+    "expert_weight": 0.9,
+    "safety_level": "caution",
+    "advice_strength": "strong"
+  },
+  {
+    "rec_id": "R135",
+    "category": "home_care",
+    "title": "Fungal-support: Nail and scratch control",
+    "text": "Keep nails short and use distractions to reduce scratching that worsens barrier injury. For fungal-prone areas, prioritize dryness, ventilation, and sweat control habits.",
+    "tags": [
+      "fungal_infection",
+      "hygiene",
+      "moisture_control",
+      "breathable_clothing",
+      "fungal_support",
+      "itching_control",
+      "barrier_repair"
+    ],
+    "expert_weight": 0.9,
+    "safety_level": "safe",
+    "advice_strength": "strong"
+  },
+  {
+    "rec_id": "R136",
+    "category": "home_care",
+    "title": "Fungal-support: Clean textiles routine",
+    "text": "Wash towels and pillowcases regularly; clean textiles can reduce irritation and recurrence cycles. For fungal-prone areas, prioritize dryness, ventilation, and sweat control habits.",
+    "tags": [
+      "fungal_infection",
+      "hygiene",
+      "moisture_control",
+      "breathable_clothing",
+      "fungal_support",
+      "routine"
+    ],
+    "expert_weight": 0.9,
+    "safety_level": "safe",
+    "advice_strength": "strong"
+  },
+  {
+    "rec_id": "R137",
+    "category": "home_care",
+    "title": "Fungal-support: Breathable fabric choice",
+    "text": "Use breathable fabrics and avoid prolonged dampness in folds to reduce fungal recurrence risk. For fungal-prone areas, prioritize dryness, ventilation, and sweat control habits.",
+    "tags": [
+      "fungal_infection",
+      "hygiene",
+      "moisture_control",
+      "breathable_clothing",
+      "fungal_support"
+    ],
+    "expert_weight": 0.9,
+    "safety_level": "safe",
+    "advice_strength": "strong"
+  },
+  {
+    "rec_id": "R138",
+    "category": "home_care",
+    "title": "Fungal-support: Cool compress (brief)",
+    "text": "Use a brief cool compress for heat/itch sensations; avoid prolonged cold exposure. For fungal-prone areas, prioritize dryness, ventilation, and sweat control habits.",
+    "tags": [
+      "fungal_infection",
+      "hygiene",
+      "moisture_control",
+      "breathable_clothing",
+      "fungal_support",
+      "cooling",
+      "comfort_support"
+    ],
+    "expert_weight": 0.9,
+    "safety_level": "safe",
+    "advice_strength": "strong"
+  },
+  {
+    "rec_id": "R139",
+    "category": "diet",
+    "title": "Dry-skin support: Hydration-first plate",
+    "text": "Prioritize water-rich foods and regular fluids; dehydration can worsen skin discomfort. For chronic dryness, prioritize moisture retention and barrier repair habits.",
+    "tags": [
+      "dry_skin",
+      "hydration",
+      "barrier_repair",
+      "gentle_cleansing",
+      "dryness",
+      "routine"
+    ],
+    "expert_weight": 0.84,
+    "safety_level": "safe",
+    "advice_strength": "strong"
+  },
+  {
+    "rec_id": "R140",
+    "category": "diet",
+    "title": "Dry-skin support: Balanced low-spike meals",
+    "text": "Choose balanced meals and reduce frequent high-sugar spikes to support overall skin stability. For chronic dryness, prioritize moisture retention and barrier repair habits.",
+    "tags": [
+      "dry_skin",
+      "hydration",
+      "barrier_repair",
+      "gentle_cleansing",
+      "dryness",
+      "balanced_meals",
+      "glycemic_support"
+    ],
+    "expert_weight": 0.84,
+    "safety_level": "safe",
+    "advice_strength": "strong"
+  },
+  {
+    "rec_id": "R141",
+    "category": "diet",
+    "title": "Dry-skin support: Gentle gut-friendly routine",
+    "text": "Keep meal timing consistent and include fiber-rich foods to support digestion-related skin flares. For chronic dryness, prioritize moisture retention and barrier repair habits.",
+    "tags": [
+      "dry_skin",
+      "hydration",
+      "barrier_repair",
+      "gentle_cleansing",
+      "dryness",
+      "routine",
+      "digestion_support"
+    ],
+    "expert_weight": 0.84,
+    "safety_level": "safe",
+    "advice_strength": "strong"
+  },
+  {
+    "rec_id": "R142",
+    "category": "diet",
+    "title": "Dry-skin support: Cooling foods when heat is high",
+    "text": "When redness/heat sensations are present, prefer mild cooling foods and avoid very spicy choices. For chronic dryness, prioritize moisture retention and barrier repair habits.",
+    "tags": [
+      "dry_skin",
+      "hydration",
+      "barrier_repair",
+      "gentle_cleansing",
+      "dryness",
+      "cooling",
+      "heat_support"
+    ],
+    "expert_weight": 0.84,
+    "safety_level": "safe",
+    "advice_strength": "strong"
+  },
+  {
+    "rec_id": "R143",
+    "category": "diet",
+    "title": "Dry-skin support: Reduce ultra-processed triggers",
+    "text": "Limit ultra-processed foods that often correlate with flare cycles; observe your personal triggers. For chronic dryness, prioritize moisture retention and barrier repair habits.",
+    "tags": [
+      "dry_skin",
+      "hydration",
+      "barrier_repair",
+      "gentle_cleansing",
+      "dryness",
+      "trigger_avoidance",
+      "tracking"
+    ],
+    "expert_weight": 0.84,
+    "safety_level": "safe",
+    "advice_strength": "strong"
+  },
+  {
+    "rec_id": "R144",
+    "category": "diet",
+    "title": "Dry-skin support: Healthy fats for barrier support",
+    "text": "Include moderate healthy fats (as tolerated) to support the skin barrier and dryness control. For chronic dryness, prioritize moisture retention and barrier repair habits.",
+    "tags": [
+      "dry_skin",
+      "hydration",
+      "barrier_repair",
+      "gentle_cleansing",
+      "dryness",
+      "nutrition"
+    ],
+    "expert_weight": 0.84,
+    "safety_level": "safe",
+    "advice_strength": "strong"
+  },
+  {
+    "rec_id": "R145",
+    "category": "diet",
+    "title": "Dry-skin support: Mindful dairy check (individualized)",
+    "text": "If you suspect dairy aggravates your skin, trial a short, monitored reduction and track changes. For chronic dryness, prioritize moisture retention and barrier repair habits.",
+    "tags": [
+      "dry_skin",
+      "hydration",
+      "barrier_repair",
+      "gentle_cleansing",
+      "dryness",
+      "trigger_tracking",
+      "individualized"
+    ],
+    "expert_weight": 0.84,
+    "safety_level": "caution",
+    "advice_strength": "strong"
+  },
+  {
+    "rec_id": "R146",
+    "category": "lifestyle",
+    "title": "Dry-skin support: Consistent sleep window",
+    "text": "Aim for a consistent sleep schedule; irregular sleep can worsen itch, stress, and inflammation. For chronic dryness, prioritize moisture retention and barrier repair habits.",
+    "tags": [
+      "dry_skin",
+      "hydration",
+      "barrier_repair",
+      "gentle_cleansing",
+      "dryness",
+      "sleep",
+      "routine"
+    ],
+    "expert_weight": 0.83,
+    "safety_level": "safe",
+    "advice_strength": "strong"
+  },
+  {
+    "rec_id": "R147",
+    "category": "lifestyle",
+    "title": "Dry-skin support: Stress downshift practice",
+    "text": "Use a short daily stress-downshift (breathing, walk, journaling) to reduce flare triggers. For chronic dryness, prioritize moisture retention and barrier repair habits.",
+    "tags": [
+      "dry_skin",
+      "hydration",
+      "barrier_repair",
+      "gentle_cleansing",
+      "dryness",
+      "stress_support",
+      "routine"
+    ],
+    "expert_weight": 0.83,
+    "safety_level": "safe",
+    "advice_strength": "strong"
+  },
+  {
+    "rec_id": "R148",
+    "category": "lifestyle",
+    "title": "Dry-skin support: Sweat management habit",
+    "text": "After heavy sweating, change into dry clothing and cleanse gently to reduce irritation and fungal risk. For chronic dryness, prioritize moisture retention and barrier repair habits.",
+    "tags": [
+      "dry_skin",
+      "hydration",
+      "barrier_repair",
+      "gentle_cleansing",
+      "dryness",
+      "hygiene",
+      "moisture_control"
+    ],
+    "expert_weight": 0.83,
+    "safety_level": "safe",
+    "advice_strength": "strong"
+  },
+  {
+    "rec_id": "R149",
+    "category": "lifestyle",
+    "title": "Dry-skin support: Trigger journal",
+    "text": "Track stress, weather, products, and foods during flares to find repeatable triggers. For chronic dryness, prioritize moisture retention and barrier repair habits.",
+    "tags": [
+      "dry_skin",
+      "hydration",
+      "barrier_repair",
+      "gentle_cleansing",
+      "dryness",
+      "tracking",
+      "trigger_tracking"
+    ],
+    "expert_weight": 0.83,
+    "safety_level": "safe",
+    "advice_strength": "strong"
+  },
+  {
+    "rec_id": "R150",
+    "category": "lifestyle",
+    "title": "Dry-skin support: Sun-smart routine",
+    "text": "Use shade, hats, and consistent sun protection habits to reduce redness and pigmentation worsening. For chronic dryness, prioritize moisture retention and barrier repair habits.",
+    "tags": [
+      "dry_skin",
+      "hydration",
+      "barrier_repair",
+      "gentle_cleansing",
+      "dryness",
+      "sun_protection",
+      "routine"
+    ],
+    "expert_weight": 0.83,
+    "safety_level": "safe",
+    "advice_strength": "strong"
+  },
+  {
+    "rec_id": "R151",
+    "category": "lifestyle",
+    "title": "Dry-skin support: Friction reduction",
+    "text": "Reduce friction from tight clothing and rough fabrics; friction can amplify irritation and redness. For chronic dryness, prioritize moisture retention and barrier repair habits.",
+    "tags": [
+      "dry_skin",
+      "hydration",
+      "barrier_repair",
+      "gentle_cleansing",
+      "dryness",
+      "friction_reduction",
+      "gentle_care"
+    ],
+    "expert_weight": 0.83,
+    "safety_level": "safe",
+    "advice_strength": "strong"
+  },
+  {
+    "rec_id": "R152",
+    "category": "lifestyle",
+    "title": "Dry-skin support: Humidity and ventilation",
+    "text": "Keep living spaces ventilated; humidity control can help reduce fungal and irritation triggers. For chronic dryness, prioritize moisture retention and barrier repair habits.",
+    "tags": [
+      "dry_skin",
+      "hydration",
+      "barrier_repair",
+      "gentle_cleansing",
+      "dryness",
+      "home_environment",
+      "moisture_control"
+    ],
+    "expert_weight": 0.83,
+    "safety_level": "safe",
+    "advice_strength": "strong"
+  },
+  {
+    "rec_id": "R153",
+    "category": "home_care",
+    "title": "Dry-skin support: Gentle cleansing rule",
+    "text": "Cleanse with mild, fragrance-free products; avoid harsh scrubbing that damages the barrier. For chronic dryness, prioritize moisture retention and barrier repair habits.",
+    "tags": [
+      "dry_skin",
+      "hydration",
+      "barrier_repair",
+      "gentle_cleansing",
+      "dryness"
+    ],
+    "expert_weight": 0.9,
+    "safety_level": "safe",
+    "advice_strength": "strong"
+  },
+  {
+    "rec_id": "R154",
+    "category": "home_care",
+    "title": "Dry-skin support: Moisturize strategically",
+    "text": "Moisturize soon after bathing to lock in water and support barrier recovery. For chronic dryness, prioritize moisture retention and barrier repair habits.",
+    "tags": [
+      "dry_skin",
+      "hydration",
+      "barrier_repair",
+      "gentle_cleansing",
+      "dryness"
+    ],
+    "expert_weight": 0.9,
+    "safety_level": "safe",
+    "advice_strength": "strong"
+  },
+  {
+    "rec_id": "R155",
+    "category": "home_care",
+    "title": "Dry-skin support: Short lukewarm showers",
+    "text": "Prefer short lukewarm showers over long hot ones to reduce dryness and irritation. For chronic dryness, prioritize moisture retention and barrier repair habits.",
+    "tags": [
+      "dry_skin",
+      "hydration",
+      "barrier_repair",
+      "gentle_cleansing",
+      "dryness",
+      "gentle_care"
+    ],
+    "expert_weight": 0.9,
+    "safety_level": "safe",
+    "advice_strength": "strong"
+  },
+  {
+    "rec_id": "R156",
+    "category": "home_care",
+    "title": "Dry-skin support: Patch-test new products",
+    "text": "Test new skincare on a small area before full use to reduce contact reactions. For chronic dryness, prioritize moisture retention and barrier repair habits.",
+    "tags": [
+      "dry_skin",
+      "hydration",
+      "barrier_repair",
+      "gentle_cleansing",
+      "dryness",
+      "patch_testing",
+      "irritant_avoidance"
+    ],
+    "expert_weight": 0.9,
+    "safety_level": "caution",
+    "advice_strength": "strong"
+  },
+  {
+    "rec_id": "R157",
+    "category": "home_care",
+    "title": "Dry-skin support: Nail and scratch control",
+    "text": "Keep nails short and use distractions to reduce scratching that worsens barrier injury. For chronic dryness, prioritize moisture retention and barrier repair habits.",
+    "tags": [
+      "dry_skin",
+      "hydration",
+      "barrier_repair",
+      "gentle_cleansing",
+      "dryness",
+      "itching_control"
+    ],
+    "expert_weight": 0.9,
+    "safety_level": "safe",
+    "advice_strength": "strong"
+  },
+  {
+    "rec_id": "R158",
+    "category": "home_care",
+    "title": "Dry-skin support: Clean textiles routine",
+    "text": "Wash towels and pillowcases regularly; clean textiles can reduce irritation and recurrence cycles. For chronic dryness, prioritize moisture retention and barrier repair habits.",
+    "tags": [
+      "dry_skin",
+      "hydration",
+      "barrier_repair",
+      "gentle_cleansing",
+      "dryness",
+      "hygiene",
+      "routine"
+    ],
+    "expert_weight": 0.9,
+    "safety_level": "safe",
+    "advice_strength": "strong"
+  },
+  {
+    "rec_id": "R159",
+    "category": "home_care",
+    "title": "Dry-skin support: Breathable fabric choice",
+    "text": "Use breathable fabrics and avoid prolonged dampness in folds to reduce fungal recurrence risk. For chronic dryness, prioritize moisture retention and barrier repair habits.",
+    "tags": [
+      "dry_skin",
+      "hydration",
+      "barrier_repair",
+      "gentle_cleansing",
+      "dryness",
+      "breathable_clothing",
+      "moisture_control"
+    ],
+    "expert_weight": 0.9,
+    "safety_level": "safe",
+    "advice_strength": "strong"
+  },
+  {
+    "rec_id": "R160",
+    "category": "home_care",
+    "title": "Dry-skin support: Cool compress (brief)",
+    "text": "Use a brief cool compress for heat/itch sensations; avoid prolonged cold exposure. For chronic dryness, prioritize moisture retention and barrier repair habits.",
+    "tags": [
+      "dry_skin",
+      "hydration",
+      "barrier_repair",
+      "gentle_cleansing",
+      "dryness",
+      "cooling",
+      "comfort_support"
+    ],
+    "expert_weight": 0.9,
+    "safety_level": "safe",
+    "advice_strength": "strong"
+  },
+  {
+    "rec_id": "R161",
+    "category": "diet",
+    "title": "Irritant-aware: Hydration-first plate",
+    "text": "Prioritize water-rich foods and regular fluids; dehydration can worsen skin discomfort. If product irritation is suspected, reduce product load and introduce changes one-by-one.",
+    "tags": [
+      "contact_dermatitis",
+      "irritant_avoidance",
+      "barrier_repair",
+      "patch_testing",
+      "contact_dermatitis_support",
+      "hydration",
+      "routine"
+    ],
+    "expert_weight": 0.84,
+    "safety_level": "caution",
+    "advice_strength": "strong"
+  },
+  {
+    "rec_id": "R162",
+    "category": "diet",
+    "title": "Irritant-aware: Balanced low-spike meals",
+    "text": "Choose balanced meals and reduce frequent high-sugar spikes to support overall skin stability. If product irritation is suspected, reduce product load and introduce changes one-by-one.",
+    "tags": [
+      "contact_dermatitis",
+      "irritant_avoidance",
+      "barrier_repair",
+      "patch_testing",
+      "contact_dermatitis_support",
+      "balanced_meals",
+      "glycemic_support"
+    ],
+    "expert_weight": 0.84,
+    "safety_level": "caution",
+    "advice_strength": "strong"
+  },
+  {
+    "rec_id": "R163",
+    "category": "diet",
+    "title": "Irritant-aware: Gentle gut-friendly routine",
+    "text": "Keep meal timing consistent and include fiber-rich foods to support digestion-related skin flares. If product irritation is suspected, reduce product load and introduce changes one-by-one.",
+    "tags": [
+      "contact_dermatitis",
+      "irritant_avoidance",
+      "barrier_repair",
+      "patch_testing",
+      "contact_dermatitis_support",
+      "routine",
+      "digestion_support"
+    ],
+    "expert_weight": 0.84,
+    "safety_level": "caution",
+    "advice_strength": "strong"
+  },
+  {
+    "rec_id": "R164",
+    "category": "diet",
+    "title": "Irritant-aware: Cooling foods when heat is high",
+    "text": "When redness/heat sensations are present, prefer mild cooling foods and avoid very spicy choices. If product irritation is suspected, reduce product load and introduce changes one-by-one.",
+    "tags": [
+      "contact_dermatitis",
+      "irritant_avoidance",
+      "barrier_repair",
+      "patch_testing",
+      "contact_dermatitis_support",
+      "cooling",
+      "heat_support"
+    ],
+    "expert_weight": 0.84,
+    "safety_level": "caution",
+    "advice_strength": "strong"
+  },
+  {
+    "rec_id": "R165",
+    "category": "diet",
+    "title": "Irritant-aware: Reduce ultra-processed triggers",
+    "text": "Limit ultra-processed foods that often correlate with flare cycles; observe your personal triggers. If product irritation is suspected, reduce product load and introduce changes one-by-one.",
+    "tags": [
+      "contact_dermatitis",
+      "irritant_avoidance",
+      "barrier_repair",
+      "patch_testing",
+      "contact_dermatitis_support",
+      "trigger_avoidance",
+      "tracking"
+    ],
+    "expert_weight": 0.84,
+    "safety_level": "caution",
+    "advice_strength": "strong"
+  },
+  {
+    "rec_id": "R166",
+    "category": "diet",
+    "title": "Irritant-aware: Healthy fats for barrier support",
+    "text": "Include moderate healthy fats (as tolerated) to support the skin barrier and dryness control. If product irritation is suspected, reduce product load and introduce changes one-by-one.",
+    "tags": [
+      "contact_dermatitis",
+      "irritant_avoidance",
+      "barrier_repair",
+      "patch_testing",
+      "contact_dermatitis_support",
+      "nutrition"
+    ],
+    "expert_weight": 0.84,
+    "safety_level": "caution",
+    "advice_strength": "strong"
+  },
+  {
+    "rec_id": "R167",
+    "category": "diet",
+    "title": "Irritant-aware: Mindful dairy check (individualized)",
+    "text": "If you suspect dairy aggravates your skin, trial a short, monitored reduction and track changes. If product irritation is suspected, reduce product load and introduce changes one-by-one.",
+    "tags": [
+      "contact_dermatitis",
+      "irritant_avoidance",
+      "barrier_repair",
+      "patch_testing",
+      "contact_dermatitis_support",
+      "trigger_tracking",
+      "individualized"
+    ],
+    "expert_weight": 0.84,
+    "safety_level": "caution",
+    "advice_strength": "strong"
+  },
+  {
+    "rec_id": "R168",
+    "category": "lifestyle",
+    "title": "Irritant-aware: Consistent sleep window",
+    "text": "Aim for a consistent sleep schedule; irregular sleep can worsen itch, stress, and inflammation. If product irritation is suspected, reduce product load and introduce changes one-by-one.",
+    "tags": [
+      "contact_dermatitis",
+      "irritant_avoidance",
+      "barrier_repair",
+      "patch_testing",
+      "contact_dermatitis_support",
+      "sleep",
+      "routine"
+    ],
+    "expert_weight": 0.83,
+    "safety_level": "caution",
+    "advice_strength": "strong"
+  },
+  {
+    "rec_id": "R169",
+    "category": "lifestyle",
+    "title": "Irritant-aware: Stress downshift practice",
+    "text": "Use a short daily stress-downshift (breathing, walk, journaling) to reduce flare triggers. If product irritation is suspected, reduce product load and introduce changes one-by-one.",
+    "tags": [
+      "contact_dermatitis",
+      "irritant_avoidance",
+      "barrier_repair",
+      "patch_testing",
+      "contact_dermatitis_support",
+      "stress_support",
+      "routine"
+    ],
+    "expert_weight": 0.83,
+    "safety_level": "caution",
+    "advice_strength": "strong"
+  },
+  {
+    "rec_id": "R170",
+    "category": "lifestyle",
+    "title": "Irritant-aware: Sweat management habit",
+    "text": "After heavy sweating, change into dry clothing and cleanse gently to reduce irritation and fungal risk. If product irritation is suspected, reduce product load and introduce changes one-by-one.",
+    "tags": [
+      "contact_dermatitis",
+      "irritant_avoidance",
+      "barrier_repair",
+      "patch_testing",
+      "contact_dermatitis_support",
+      "hygiene",
+      "moisture_control"
+    ],
+    "expert_weight": 0.83,
+    "safety_level": "caution",
+    "advice_strength": "strong"
+  },
+  {
+    "rec_id": "R171",
+    "category": "lifestyle",
+    "title": "Irritant-aware: Trigger journal",
+    "text": "Track stress, weather, products, and foods during flares to find repeatable triggers. If product irritation is suspected, reduce product load and introduce changes one-by-one.",
+    "tags": [
+      "contact_dermatitis",
+      "irritant_avoidance",
+      "barrier_repair",
+      "patch_testing",
+      "contact_dermatitis_support",
+      "tracking",
+      "trigger_tracking"
+    ],
+    "expert_weight": 0.83,
+    "safety_level": "caution",
+    "advice_strength": "strong"
+  },
+  {
+    "rec_id": "R172",
+    "category": "lifestyle",
+    "title": "Irritant-aware: Sun-smart routine",
+    "text": "Use shade, hats, and consistent sun protection habits to reduce redness and pigmentation worsening. If product irritation is suspected, reduce product load and introduce changes one-by-one.",
+    "tags": [
+      "contact_dermatitis",
+      "irritant_avoidance",
+      "barrier_repair",
+      "patch_testing",
+      "contact_dermatitis_support",
+      "sun_protection",
+      "routine"
+    ],
+    "expert_weight": 0.83,
+    "safety_level": "caution",
+    "advice_strength": "strong"
+  },
+  {
+    "rec_id": "R173",
+    "category": "lifestyle",
+    "title": "Irritant-aware: Friction reduction",
+    "text": "Reduce friction from tight clothing and rough fabrics; friction can amplify irritation and redness. If product irritation is suspected, reduce product load and introduce changes one-by-one.",
+    "tags": [
+      "contact_dermatitis",
+      "irritant_avoidance",
+      "barrier_repair",
+      "patch_testing",
+      "contact_dermatitis_support",
+      "friction_reduction",
+      "gentle_care"
+    ],
+    "expert_weight": 0.83,
+    "safety_level": "caution",
+    "advice_strength": "strong"
+  },
+  {
+    "rec_id": "R174",
+    "category": "lifestyle",
+    "title": "Irritant-aware: Humidity and ventilation",
+    "text": "Keep living spaces ventilated; humidity control can help reduce fungal and irritation triggers. If product irritation is suspected, reduce product load and introduce changes one-by-one.",
+    "tags": [
+      "contact_dermatitis",
+      "irritant_avoidance",
+      "barrier_repair",
+      "patch_testing",
+      "contact_dermatitis_support",
+      "home_environment",
+      "moisture_control"
+    ],
+    "expert_weight": 0.83,
+    "safety_level": "caution",
+    "advice_strength": "strong"
+  },
+  {
+    "rec_id": "R175",
+    "category": "home_care",
+    "title": "Irritant-aware: Gentle cleansing rule",
+    "text": "Cleanse with mild, fragrance-free products; avoid harsh scrubbing that damages the barrier. If product irritation is suspected, reduce product load and introduce changes one-by-one.",
+    "tags": [
+      "contact_dermatitis",
+      "irritant_avoidance",
+      "barrier_repair",
+      "patch_testing",
+      "contact_dermatitis_support",
+      "gentle_cleansing"
+    ],
+    "expert_weight": 0.9,
+    "safety_level": "caution",
+    "advice_strength": "strong"
+  },
+  {
+    "rec_id": "R176",
+    "category": "home_care",
+    "title": "Irritant-aware: Moisturize strategically",
+    "text": "Moisturize soon after bathing to lock in water and support barrier recovery. If product irritation is suspected, reduce product load and introduce changes one-by-one.",
+    "tags": [
+      "contact_dermatitis",
+      "irritant_avoidance",
+      "barrier_repair",
+      "patch_testing",
+      "contact_dermatitis_support",
+      "hydration"
+    ],
+    "expert_weight": 0.9,
+    "safety_level": "caution",
+    "advice_strength": "strong"
+  },
+  {
+    "rec_id": "R177",
+    "category": "home_care",
+    "title": "Irritant-aware: Short lukewarm showers",
+    "text": "Prefer short lukewarm showers over long hot ones to reduce dryness and irritation. If product irritation is suspected, reduce product load and introduce changes one-by-one.",
+    "tags": [
+      "contact_dermatitis",
+      "irritant_avoidance",
+      "barrier_repair",
+      "patch_testing",
+      "contact_dermatitis_support",
+      "gentle_care"
+    ],
+    "expert_weight": 0.9,
+    "safety_level": "caution",
+    "advice_strength": "strong"
+  },
+  {
+    "rec_id": "R178",
+    "category": "home_care",
+    "title": "Irritant-aware: Patch-test new products",
+    "text": "Test new skincare on a small area before full use to reduce contact reactions. If product irritation is suspected, reduce product load and introduce changes one-by-one.",
+    "tags": [
+      "contact_dermatitis",
+      "irritant_avoidance",
+      "barrier_repair",
+      "patch_testing",
+      "contact_dermatitis_support"
+    ],
+    "expert_weight": 0.9,
+    "safety_level": "caution",
+    "advice_strength": "strong"
+  },
+  {
+    "rec_id": "R179",
+    "category": "home_care",
+    "title": "Irritant-aware: Nail and scratch control",
+    "text": "Keep nails short and use distractions to reduce scratching that worsens barrier injury. If product irritation is suspected, reduce product load and introduce changes one-by-one.",
+    "tags": [
+      "contact_dermatitis",
+      "irritant_avoidance",
+      "barrier_repair",
+      "patch_testing",
+      "contact_dermatitis_support",
+      "itching_control"
+    ],
+    "expert_weight": 0.9,
+    "safety_level": "caution",
+    "advice_strength": "strong"
+  },
+  {
+    "rec_id": "R180",
+    "category": "home_care",
+    "title": "Irritant-aware: Clean textiles routine",
+    "text": "Wash towels and pillowcases regularly; clean textiles can reduce irritation and recurrence cycles. If product irritation is suspected, reduce product load and introduce changes one-by-one.",
+    "tags": [
+      "contact_dermatitis",
+      "irritant_avoidance",
+      "barrier_repair",
+      "patch_testing",
+      "contact_dermatitis_support",
+      "hygiene",
+      "routine"
+    ],
+    "expert_weight": 0.9,
+    "safety_level": "caution",
+    "advice_strength": "strong"
+  },
+  {
+    "rec_id": "R181",
+    "category": "home_care",
+    "title": "Irritant-aware: Breathable fabric choice",
+    "text": "Use breathable fabrics and avoid prolonged dampness in folds to reduce fungal recurrence risk. If product irritation is suspected, reduce product load and introduce changes one-by-one.",
+    "tags": [
+      "contact_dermatitis",
+      "irritant_avoidance",
+      "barrier_repair",
+      "patch_testing",
+      "contact_dermatitis_support",
+      "breathable_clothing",
+      "moisture_control"
+    ],
+    "expert_weight": 0.9,
+    "safety_level": "caution",
+    "advice_strength": "strong"
+  },
+  {
+    "rec_id": "R182",
+    "category": "home_care",
+    "title": "Irritant-aware: Cool compress (brief)",
+    "text": "Use a brief cool compress for heat/itch sensations; avoid prolonged cold exposure. If product irritation is suspected, reduce product load and introduce changes one-by-one.",
+    "tags": [
+      "contact_dermatitis",
+      "irritant_avoidance",
+      "barrier_repair",
+      "patch_testing",
+      "contact_dermatitis_support",
+      "cooling",
+      "comfort_support"
+    ],
+    "expert_weight": 0.9,
+    "safety_level": "caution",
+    "advice_strength": "strong"
+  },
+  {
+    "rec_id": "R183",
+    "category": "diet",
+    "title": "Scalp/flake support: Hydration-first plate",
+    "text": "Prioritize water-rich foods and regular fluids; dehydration can worsen skin discomfort. For flaking patterns, keep cleansing consistent and avoid heavy occlusive buildup.",
+    "tags": [
+      "seborrheic_dermatitis",
+      "scalp_care",
+      "gentle_cleansing",
+      "stress_support",
+      "seborrheic_support",
+      "hydration",
+      "routine"
+    ],
+    "expert_weight": 0.84,
+    "safety_level": "safe",
+    "advice_strength": "moderate"
+  },
+  {
+    "rec_id": "R184",
+    "category": "diet",
+    "title": "Scalp/flake support: Balanced low-spike meals",
+    "text": "Choose balanced meals and reduce frequent high-sugar spikes to support overall skin stability. For flaking patterns, keep cleansing consistent and avoid heavy occlusive buildup.",
+    "tags": [
+      "seborrheic_dermatitis",
+      "scalp_care",
+      "gentle_cleansing",
+      "stress_support",
+      "seborrheic_support",
+      "balanced_meals",
+      "glycemic_support"
+    ],
+    "expert_weight": 0.84,
+    "safety_level": "safe",
+    "advice_strength": "moderate"
+  },
+  {
+    "rec_id": "R185",
+    "category": "diet",
+    "title": "Scalp/flake support: Gentle gut-friendly routine",
+    "text": "Keep meal timing consistent and include fiber-rich foods to support digestion-related skin flares. For flaking patterns, keep cleansing consistent and avoid heavy occlusive buildup.",
+    "tags": [
+      "seborrheic_dermatitis",
+      "scalp_care",
+      "gentle_cleansing",
+      "stress_support",
+      "seborrheic_support",
+      "routine",
+      "digestion_support"
+    ],
+    "expert_weight": 0.84,
+    "safety_level": "safe",
+    "advice_strength": "moderate"
+  },
+  {
+    "rec_id": "R186",
+    "category": "diet",
+    "title": "Scalp/flake support: Cooling foods when heat is high",
+    "text": "When redness/heat sensations are present, prefer mild cooling foods and avoid very spicy choices. For flaking patterns, keep cleansing consistent and avoid heavy occlusive buildup.",
+    "tags": [
+      "seborrheic_dermatitis",
+      "scalp_care",
+      "gentle_cleansing",
+      "stress_support",
+      "seborrheic_support",
+      "cooling",
+      "heat_support"
+    ],
+    "expert_weight": 0.84,
+    "safety_level": "safe",
+    "advice_strength": "moderate"
+  },
+  {
+    "rec_id": "R187",
+    "category": "diet",
+    "title": "Scalp/flake support: Reduce ultra-processed triggers",
+    "text": "Limit ultra-processed foods that often correlate with flare cycles; observe your personal triggers. For flaking patterns, keep cleansing consistent and avoid heavy occlusive buildup.",
+    "tags": [
+      "seborrheic_dermatitis",
+      "scalp_care",
+      "gentle_cleansing",
+      "stress_support",
+      "seborrheic_support",
+      "trigger_avoidance",
+      "tracking"
+    ],
+    "expert_weight": 0.84,
+    "safety_level": "safe",
+    "advice_strength": "moderate"
+  },
+  {
+    "rec_id": "R188",
+    "category": "diet",
+    "title": "Scalp/flake support: Healthy fats for barrier support",
+    "text": "Include moderate healthy fats (as tolerated) to support the skin barrier and dryness control. For flaking patterns, keep cleansing consistent and avoid heavy occlusive buildup.",
+    "tags": [
+      "seborrheic_dermatitis",
+      "scalp_care",
+      "gentle_cleansing",
+      "stress_support",
+      "seborrheic_support",
+      "barrier_repair",
+      "nutrition"
+    ],
+    "expert_weight": 0.84,
+    "safety_level": "safe",
+    "advice_strength": "strong"
+  },
+  {
+    "rec_id": "R189",
+    "category": "diet",
+    "title": "Scalp/flake support: Mindful dairy check (individualized)",
+    "text": "If you suspect dairy aggravates your skin, trial a short, monitored reduction and track changes. For flaking patterns, keep cleansing consistent and avoid heavy occlusive buildup.",
+    "tags": [
+      "seborrheic_dermatitis",
+      "scalp_care",
+      "gentle_cleansing",
+      "stress_support",
+      "seborrheic_support",
+      "trigger_tracking",
+      "individualized"
+    ],
+    "expert_weight": 0.84,
+    "safety_level": "caution",
+    "advice_strength": "moderate"
+  },
+  {
+    "rec_id": "R190",
+    "category": "lifestyle",
+    "title": "Scalp/flake support: Consistent sleep window",
+    "text": "Aim for a consistent sleep schedule; irregular sleep can worsen itch, stress, and inflammation. For flaking patterns, keep cleansing consistent and avoid heavy occlusive buildup.",
+    "tags": [
+      "seborrheic_dermatitis",
+      "scalp_care",
+      "gentle_cleansing",
+      "stress_support",
+      "seborrheic_support",
+      "sleep",
+      "routine"
+    ],
+    "expert_weight": 0.83,
+    "safety_level": "safe",
+    "advice_strength": "moderate"
+  },
+  {
+    "rec_id": "R191",
+    "category": "lifestyle",
+    "title": "Scalp/flake support: Stress downshift practice",
+    "text": "Use a short daily stress-downshift (breathing, walk, journaling) to reduce flare triggers. For flaking patterns, keep cleansing consistent and avoid heavy occlusive buildup.",
+    "tags": [
+      "seborrheic_dermatitis",
+      "scalp_care",
+      "gentle_cleansing",
+      "stress_support",
+      "seborrheic_support",
+      "routine"
+    ],
+    "expert_weight": 0.83,
+    "safety_level": "safe",
+    "advice_strength": "moderate"
+  },
+  {
+    "rec_id": "R192",
+    "category": "lifestyle",
+    "title": "Scalp/flake support: Sweat management habit",
+    "text": "After heavy sweating, change into dry clothing and cleanse gently to reduce irritation and fungal risk. For flaking patterns, keep cleansing consistent and avoid heavy occlusive buildup.",
+    "tags": [
+      "seborrheic_dermatitis",
+      "scalp_care",
+      "gentle_cleansing",
+      "stress_support",
+      "seborrheic_support",
+      "hygiene",
+      "moisture_control"
+    ],
+    "expert_weight": 0.83,
+    "safety_level": "safe",
+    "advice_strength": "strong"
+  },
+  {
+    "rec_id": "R193",
+    "category": "lifestyle",
+    "title": "Scalp/flake support: Trigger journal",
+    "text": "Track stress, weather, products, and foods during flares to find repeatable triggers. For flaking patterns, keep cleansing consistent and avoid heavy occlusive buildup.",
+    "tags": [
+      "seborrheic_dermatitis",
+      "scalp_care",
+      "gentle_cleansing",
+      "stress_support",
+      "seborrheic_support",
+      "tracking",
+      "trigger_tracking"
+    ],
+    "expert_weight": 0.83,
+    "safety_level": "safe",
+    "advice_strength": "moderate"
+  },
+  {
+    "rec_id": "R194",
+    "category": "lifestyle",
+    "title": "Scalp/flake support: Sun-smart routine",
+    "text": "Use shade, hats, and consistent sun protection habits to reduce redness and pigmentation worsening. For flaking patterns, keep cleansing consistent and avoid heavy occlusive buildup.",
+    "tags": [
+      "seborrheic_dermatitis",
+      "scalp_care",
+      "gentle_cleansing",
+      "stress_support",
+      "seborrheic_support",
+      "sun_protection",
+      "routine"
+    ],
+    "expert_weight": 0.83,
+    "safety_level": "safe",
+    "advice_strength": "strong"
+  },
+  {
+    "rec_id": "R195",
+    "category": "lifestyle",
+    "title": "Scalp/flake support: Friction reduction",
+    "text": "Reduce friction from tight clothing and rough fabrics; friction can amplify irritation and redness. For flaking patterns, keep cleansing consistent and avoid heavy occlusive buildup.",
+    "tags": [
+      "seborrheic_dermatitis",
+      "scalp_care",
+      "gentle_cleansing",
+      "stress_support",
+      "seborrheic_support",
+      "friction_reduction",
+      "gentle_care"
+    ],
+    "expert_weight": 0.83,
+    "safety_level": "safe",
+    "advice_strength": "moderate"
+  },
+  {
+    "rec_id": "R196",
+    "category": "lifestyle",
+    "title": "Scalp/flake support: Humidity and ventilation",
+    "text": "Keep living spaces ventilated; humidity control can help reduce fungal and irritation triggers. For flaking patterns, keep cleansing consistent and avoid heavy occlusive buildup.",
+    "tags": [
+      "seborrheic_dermatitis",
+      "scalp_care",
+      "gentle_cleansing",
+      "stress_support",
+      "seborrheic_support",
+      "home_environment",
+      "moisture_control"
+    ],
+    "expert_weight": 0.83,
+    "safety_level": "safe",
+    "advice_strength": "moderate"
+  },
+  {
+    "rec_id": "R197",
+    "category": "home_care",
+    "title": "Scalp/flake support: Gentle cleansing rule",
+    "text": "Cleanse with mild, fragrance-free products; avoid harsh scrubbing that damages the barrier. For flaking patterns, keep cleansing consistent and avoid heavy occlusive buildup.",
+    "tags": [
+      "seborrheic_dermatitis",
+      "scalp_care",
+      "gentle_cleansing",
+      "stress_support",
+      "seborrheic_support",
+      "barrier_repair"
+    ],
+    "expert_weight": 0.9,
+    "safety_level": "safe",
+    "advice_strength": "strong"
+  },
+  {
+    "rec_id": "R198",
+    "category": "home_care",
+    "title": "Scalp/flake support: Moisturize strategically",
+    "text": "Moisturize soon after bathing to lock in water and support barrier recovery. For flaking patterns, keep cleansing consistent and avoid heavy occlusive buildup.",
+    "tags": [
+      "seborrheic_dermatitis",
+      "scalp_care",
+      "gentle_cleansing",
+      "stress_support",
+      "seborrheic_support",
+      "barrier_repair",
+      "hydration"
+    ],
+    "expert_weight": 0.9,
+    "safety_level": "safe",
+    "advice_strength": "strong"
+  },
+  {
+    "rec_id": "R199",
+    "category": "home_care",
+    "title": "Scalp/flake support: Short lukewarm showers",
+    "text": "Prefer short lukewarm showers over long hot ones to reduce dryness and irritation. For flaking patterns, keep cleansing consistent and avoid heavy occlusive buildup.",
+    "tags": [
+      "seborrheic_dermatitis",
+      "scalp_care",
+      "gentle_cleansing",
+      "stress_support",
+      "seborrheic_support",
+      "barrier_repair",
+      "gentle_care"
+    ],
+    "expert_weight": 0.9,
+    "safety_level": "safe",
+    "advice_strength": "strong"
+  },
+  {
+    "rec_id": "R200",
+    "category": "home_care",
+    "title": "Scalp/flake support: Patch-test new products",
+    "text": "Test new skincare on a small area before full use to reduce contact reactions. For flaking patterns, keep cleansing consistent and avoid heavy occlusive buildup.",
+    "tags": [
+      "seborrheic_dermatitis",
+      "scalp_care",
+      "gentle_cleansing",
+      "stress_support",
+      "seborrheic_support",
+      "patch_testing",
+      "irritant_avoidance"
+    ],
+    "expert_weight": 0.9,
+    "safety_level": "caution",
+    "advice_strength": "moderate"
+  },
+  {
+    "rec_id": "R201",
+    "category": "home_care",
+    "title": "Scalp/flake support: Nail and scratch control",
+    "text": "Keep nails short and use distractions to reduce scratching that worsens barrier injury. For flaking patterns, keep cleansing consistent and avoid heavy occlusive buildup.",
+    "tags": [
+      "seborrheic_dermatitis",
+      "scalp_care",
+      "gentle_cleansing",
+      "stress_support",
+      "seborrheic_support",
+      "itching_control",
+      "barrier_repair"
+    ],
+    "expert_weight": 0.9,
+    "safety_level": "safe",
+    "advice_strength": "strong"
+  },
+  {
+    "rec_id": "R202",
+    "category": "home_care",
+    "title": "Scalp/flake support: Clean textiles routine",
+    "text": "Wash towels and pillowcases regularly; clean textiles can reduce irritation and recurrence cycles. For flaking patterns, keep cleansing consistent and avoid heavy occlusive buildup.",
+    "tags": [
+      "seborrheic_dermatitis",
+      "scalp_care",
+      "gentle_cleansing",
+      "stress_support",
+      "seborrheic_support",
+      "hygiene",
+      "routine"
+    ],
+    "expert_weight": 0.9,
+    "safety_level": "safe",
+    "advice_strength": "strong"
+  },
+  {
+    "rec_id": "R203",
+    "category": "home_care",
+    "title": "Scalp/flake support: Breathable fabric choice",
+    "text": "Use breathable fabrics and avoid prolonged dampness in folds to reduce fungal recurrence risk. For flaking patterns, keep cleansing consistent and avoid heavy occlusive buildup.",
+    "tags": [
+      "seborrheic_dermatitis",
+      "scalp_care",
+      "gentle_cleansing",
+      "stress_support",
+      "seborrheic_support",
+      "breathable_clothing",
+      "moisture_control"
+    ],
+    "expert_weight": 0.9,
+    "safety_level": "safe",
+    "advice_strength": "moderate"
+  },
+  {
+    "rec_id": "R204",
+    "category": "home_care",
+    "title": "Scalp/flake support: Cool compress (brief)",
+    "text": "Use a brief cool compress for heat/itch sensations; avoid prolonged cold exposure. For flaking patterns, keep cleansing consistent and avoid heavy occlusive buildup.",
+    "tags": [
+      "seborrheic_dermatitis",
+      "scalp_care",
+      "gentle_cleansing",
+      "stress_support",
+      "seborrheic_support",
+      "cooling",
+      "comfort_support"
+    ],
+    "expert_weight": 0.9,
+    "safety_level": "safe",
+    "advice_strength": "moderate"
+  },
+  {
+    "rec_id": "R205",
+    "category": "diet",
+    "title": "Hives-support: Hydration-first plate",
+    "text": "Prioritize water-rich foods and regular fluids; dehydration can worsen skin discomfort. For hive-like flares, focus on trigger tracking and calming routines; seek care for severe reactions.",
+    "tags": [
+      "urticaria",
+      "trigger_tracking",
+      "cooling",
+      "stress_support",
+      "urticaria_support",
+      "hydration",
+      "routine"
+    ],
+    "expert_weight": 0.84,
+    "safety_level": "safe",
+    "advice_strength": "moderate"
+  },
+  {
+    "rec_id": "R206",
+    "category": "diet",
+    "title": "Hives-support: Balanced low-spike meals",
+    "text": "Choose balanced meals and reduce frequent high-sugar spikes to support overall skin stability. For hive-like flares, focus on trigger tracking and calming routines; seek care for severe reactions.",
+    "tags": [
+      "urticaria",
+      "trigger_tracking",
+      "cooling",
+      "stress_support",
+      "urticaria_support",
+      "balanced_meals",
+      "glycemic_support"
+    ],
+    "expert_weight": 0.84,
+    "safety_level": "safe",
+    "advice_strength": "moderate"
+  },
+  {
+    "rec_id": "R207",
+    "category": "diet",
+    "title": "Hives-support: Gentle gut-friendly routine",
+    "text": "Keep meal timing consistent and include fiber-rich foods to support digestion-related skin flares. For hive-like flares, focus on trigger tracking and calming routines; seek care for severe reactions.",
+    "tags": [
+      "urticaria",
+      "trigger_tracking",
+      "cooling",
+      "stress_support",
+      "urticaria_support",
+      "routine",
+      "digestion_support"
+    ],
+    "expert_weight": 0.84,
+    "safety_level": "safe",
+    "advice_strength": "moderate"
+  },
+  {
+    "rec_id": "R208",
+    "category": "diet",
+    "title": "Hives-support: Cooling foods when heat is high",
+    "text": "When redness/heat sensations are present, prefer mild cooling foods and avoid very spicy choices. For hive-like flares, focus on trigger tracking and calming routines; seek care for severe reactions.",
+    "tags": [
+      "urticaria",
+      "trigger_tracking",
+      "cooling",
+      "stress_support",
+      "urticaria_support",
+      "heat_support"
+    ],
+    "expert_weight": 0.84,
+    "safety_level": "safe",
+    "advice_strength": "moderate"
+  },
+  {
+    "rec_id": "R209",
+    "category": "diet",
+    "title": "Hives-support: Reduce ultra-processed triggers",
+    "text": "Limit ultra-processed foods that often correlate with flare cycles; observe your personal triggers. For hive-like flares, focus on trigger tracking and calming routines; seek care for severe reactions.",
+    "tags": [
+      "urticaria",
+      "trigger_tracking",
+      "cooling",
+      "stress_support",
+      "urticaria_support",
+      "trigger_avoidance",
+      "tracking"
+    ],
+    "expert_weight": 0.84,
+    "safety_level": "safe",
+    "advice_strength": "moderate"
+  },
+  {
+    "rec_id": "R210",
+    "category": "diet",
+    "title": "Hives-support: Healthy fats for barrier support",
+    "text": "Include moderate healthy fats (as tolerated) to support the skin barrier and dryness control. For hive-like flares, focus on trigger tracking and calming routines; seek care for severe reactions.",
+    "tags": [
+      "urticaria",
+      "trigger_tracking",
+      "cooling",
+      "stress_support",
+      "urticaria_support",
+      "barrier_repair",
+      "nutrition"
+    ],
+    "expert_weight": 0.84,
+    "safety_level": "safe",
+    "advice_strength": "strong"
+  },
+  {
+    "rec_id": "R211",
+    "category": "diet",
+    "title": "Hives-support: Mindful dairy check (individualized)",
+    "text": "If you suspect dairy aggravates your skin, trial a short, monitored reduction and track changes. For hive-like flares, focus on trigger tracking and calming routines; seek care for severe reactions.",
+    "tags": [
+      "urticaria",
+      "trigger_tracking",
+      "cooling",
+      "stress_support",
+      "urticaria_support",
+      "individualized"
+    ],
+    "expert_weight": 0.84,
+    "safety_level": "caution",
+    "advice_strength": "moderate"
+  },
+  {
+    "rec_id": "R212",
+    "category": "lifestyle",
+    "title": "Hives-support: Consistent sleep window",
+    "text": "Aim for a consistent sleep schedule; irregular sleep can worsen itch, stress, and inflammation. For hive-like flares, focus on trigger tracking and calming routines; seek care for severe reactions.",
+    "tags": [
+      "urticaria",
+      "trigger_tracking",
+      "cooling",
+      "stress_support",
+      "urticaria_support",
+      "sleep",
+      "routine"
+    ],
+    "expert_weight": 0.83,
+    "safety_level": "safe",
+    "advice_strength": "moderate"
+  },
+  {
+    "rec_id": "R213",
+    "category": "lifestyle",
+    "title": "Hives-support: Stress downshift practice",
+    "text": "Use a short daily stress-downshift (breathing, walk, journaling) to reduce flare triggers. For hive-like flares, focus on trigger tracking and calming routines; seek care for severe reactions.",
+    "tags": [
+      "urticaria",
+      "trigger_tracking",
+      "cooling",
+      "stress_support",
+      "urticaria_support",
+      "routine"
+    ],
+    "expert_weight": 0.83,
+    "safety_level": "safe",
+    "advice_strength": "moderate"
+  },
+  {
+    "rec_id": "R214",
+    "category": "lifestyle",
+    "title": "Hives-support: Sweat management habit",
+    "text": "After heavy sweating, change into dry clothing and cleanse gently to reduce irritation and fungal risk. For hive-like flares, focus on trigger tracking and calming routines; seek care for severe reactions.",
+    "tags": [
+      "urticaria",
+      "trigger_tracking",
+      "cooling",
+      "stress_support",
+      "urticaria_support",
+      "hygiene",
+      "moisture_control"
+    ],
+    "expert_weight": 0.83,
+    "safety_level": "safe",
+    "advice_strength": "strong"
+  },
+  {
+    "rec_id": "R215",
+    "category": "lifestyle",
+    "title": "Hives-support: Trigger journal",
+    "text": "Track stress, weather, products, and foods during flares to find repeatable triggers. For hive-like flares, focus on trigger tracking and calming routines; seek care for severe reactions.",
+    "tags": [
+      "urticaria",
+      "trigger_tracking",
+      "cooling",
+      "stress_support",
+      "urticaria_support",
+      "tracking"
+    ],
+    "expert_weight": 0.83,
+    "safety_level": "safe",
+    "advice_strength": "moderate"
+  },
+  {
+    "rec_id": "R216",
+    "category": "lifestyle",
+    "title": "Hives-support: Sun-smart routine",
+    "text": "Use shade, hats, and consistent sun protection habits to reduce redness and pigmentation worsening. For hive-like flares, focus on trigger tracking and calming routines; seek care for severe reactions.",
+    "tags": [
+      "urticaria",
+      "trigger_tracking",
+      "cooling",
+      "stress_support",
+      "urticaria_support",
+      "sun_protection",
+      "routine"
+    ],
+    "expert_weight": 0.83,
+    "safety_level": "safe",
+    "advice_strength": "strong"
+  },
+  {
+    "rec_id": "R217",
+    "category": "lifestyle",
+    "title": "Hives-support: Friction reduction",
+    "text": "Reduce friction from tight clothing and rough fabrics; friction can amplify irritation and redness. For hive-like flares, focus on trigger tracking and calming routines; seek care for severe reactions.",
+    "tags": [
+      "urticaria",
+      "trigger_tracking",
+      "cooling",
+      "stress_support",
+      "urticaria_support",
+      "friction_reduction",
+      "gentle_care"
+    ],
+    "expert_weight": 0.83,
+    "safety_level": "safe",
+    "advice_strength": "moderate"
+  },
+  {
+    "rec_id": "R218",
+    "category": "lifestyle",
+    "title": "Hives-support: Humidity and ventilation",
+    "text": "Keep living spaces ventilated; humidity control can help reduce fungal and irritation triggers. For hive-like flares, focus on trigger tracking and calming routines; seek care for severe reactions.",
+    "tags": [
+      "urticaria",
+      "trigger_tracking",
+      "cooling",
+      "stress_support",
+      "urticaria_support",
+      "home_environment",
+      "moisture_control"
+    ],
+    "expert_weight": 0.83,
+    "safety_level": "safe",
+    "advice_strength": "moderate"
+  },
+  {
+    "rec_id": "R219",
+    "category": "home_care",
+    "title": "Hives-support: Gentle cleansing rule",
+    "text": "Cleanse with mild, fragrance-free products; avoid harsh scrubbing that damages the barrier. For hive-like flares, focus on trigger tracking and calming routines; seek care for severe reactions.",
+    "tags": [
+      "urticaria",
+      "trigger_tracking",
+      "cooling",
+      "stress_support",
+      "urticaria_support",
+      "gentle_cleansing",
+      "barrier_repair"
+    ],
+    "expert_weight": 0.9,
+    "safety_level": "safe",
+    "advice_strength": "strong"
+  },
+  {
+    "rec_id": "R220",
+    "category": "home_care",
+    "title": "Hives-support: Moisturize strategically",
+    "text": "Moisturize soon after bathing to lock in water and support barrier recovery. For hive-like flares, focus on trigger tracking and calming routines; seek care for severe reactions.",
+    "tags": [
+      "urticaria",
+      "trigger_tracking",
+      "cooling",
+      "stress_support",
+      "urticaria_support",
+      "barrier_repair",
+      "hydration"
+    ],
+    "expert_weight": 0.9,
+    "safety_level": "safe",
+    "advice_strength": "strong"
+  },
+  {
+    "rec_id": "R221",
+    "category": "home_care",
+    "title": "Hives-support: Short lukewarm showers",
+    "text": "Prefer short lukewarm showers over long hot ones to reduce dryness and irritation. For hive-like flares, focus on trigger tracking and calming routines; seek care for severe reactions.",
+    "tags": [
+      "urticaria",
+      "trigger_tracking",
+      "cooling",
+      "stress_support",
+      "urticaria_support",
+      "barrier_repair",
+      "gentle_care"
+    ],
+    "expert_weight": 0.9,
+    "safety_level": "safe",
+    "advice_strength": "strong"
+  },
+  {
+    "rec_id": "R222",
+    "category": "home_care",
+    "title": "Hives-support: Patch-test new products",
+    "text": "Test new skincare on a small area before full use to reduce contact reactions. For hive-like flares, focus on trigger tracking and calming routines; seek care for severe reactions.",
+    "tags": [
+      "urticaria",
+      "trigger_tracking",
+      "cooling",
+      "stress_support",
+      "urticaria_support",
+      "patch_testing",
+      "irritant_avoidance"
+    ],
+    "expert_weight": 0.9,
+    "safety_level": "caution",
+    "advice_strength": "moderate"
+  },
+  {
+    "rec_id": "R223",
+    "category": "home_care",
+    "title": "Hives-support: Nail and scratch control",
+    "text": "Keep nails short and use distractions to reduce scratching that worsens barrier injury. For hive-like flares, focus on trigger tracking and calming routines; seek care for severe reactions.",
+    "tags": [
+      "urticaria",
+      "trigger_tracking",
+      "cooling",
+      "stress_support",
+      "urticaria_support",
+      "itching_control",
+      "barrier_repair"
+    ],
+    "expert_weight": 0.9,
+    "safety_level": "safe",
+    "advice_strength": "strong"
+  },
+  {
+    "rec_id": "R224",
+    "category": "home_care",
+    "title": "Hives-support: Clean textiles routine",
+    "text": "Wash towels and pillowcases regularly; clean textiles can reduce irritation and recurrence cycles. For hive-like flares, focus on trigger tracking and calming routines; seek care for severe reactions.",
+    "tags": [
+      "urticaria",
+      "trigger_tracking",
+      "cooling",
+      "stress_support",
+      "urticaria_support",
+      "hygiene",
+      "routine"
+    ],
+    "expert_weight": 0.9,
+    "safety_level": "safe",
+    "advice_strength": "strong"
+  },
+  {
+    "rec_id": "R225",
+    "category": "home_care",
+    "title": "Hives-support: Breathable fabric choice",
+    "text": "Use breathable fabrics and avoid prolonged dampness in folds to reduce fungal recurrence risk. For hive-like flares, focus on trigger tracking and calming routines; seek care for severe reactions.",
+    "tags": [
+      "urticaria",
+      "trigger_tracking",
+      "cooling",
+      "stress_support",
+      "urticaria_support",
+      "breathable_clothing",
+      "moisture_control"
+    ],
+    "expert_weight": 0.9,
+    "safety_level": "safe",
+    "advice_strength": "moderate"
+  },
+  {
+    "rec_id": "R226",
+    "category": "home_care",
+    "title": "Hives-support: Cool compress (brief)",
+    "text": "Use a brief cool compress for heat/itch sensations; avoid prolonged cold exposure. For hive-like flares, focus on trigger tracking and calming routines; seek care for severe reactions.",
+    "tags": [
+      "urticaria",
+      "trigger_tracking",
+      "cooling",
+      "stress_support",
+      "urticaria_support",
+      "comfort_support"
+    ],
+    "expert_weight": 0.9,
+    "safety_level": "safe",
+    "advice_strength": "moderate"
+  },
+  {
+    "rec_id": "R227",
+    "category": "diet",
+    "title": "Redness-support: Hydration-first plate",
+    "text": "Prioritize water-rich foods and regular fluids; dehydration can worsen skin discomfort. For flushing/redness, avoid heat triggers and keep products gentle and fragrance-free.",
+    "tags": [
+      "rosacea_like_redness",
+      "heat_avoidance",
+      "gentle_cleansing",
+      "cooling",
+      "redness_support",
+      "hydration",
+      "routine"
+    ],
+    "expert_weight": 0.84,
+    "safety_level": "safe",
+    "advice_strength": "moderate"
+  },
+  {
+    "rec_id": "R228",
+    "category": "diet",
+    "title": "Redness-support: Balanced low-spike meals",
+    "text": "Choose balanced meals and reduce frequent high-sugar spikes to support overall skin stability. For flushing/redness, avoid heat triggers and keep products gentle and fragrance-free.",
+    "tags": [
+      "rosacea_like_redness",
+      "heat_avoidance",
+      "gentle_cleansing",
+      "cooling",
+      "redness_support",
+      "balanced_meals",
+      "glycemic_support"
+    ],
+    "expert_weight": 0.84,
+    "safety_level": "safe",
+    "advice_strength": "moderate"
+  },
+  {
+    "rec_id": "R229",
+    "category": "diet",
+    "title": "Redness-support: Gentle gut-friendly routine",
+    "text": "Keep meal timing consistent and include fiber-rich foods to support digestion-related skin flares. For flushing/redness, avoid heat triggers and keep products gentle and fragrance-free.",
+    "tags": [
+      "rosacea_like_redness",
+      "heat_avoidance",
+      "gentle_cleansing",
+      "cooling",
+      "redness_support",
+      "routine",
+      "digestion_support"
+    ],
+    "expert_weight": 0.84,
+    "safety_level": "safe",
+    "advice_strength": "moderate"
+  },
+  {
+    "rec_id": "R230",
+    "category": "diet",
+    "title": "Redness-support: Cooling foods when heat is high",
+    "text": "When redness/heat sensations are present, prefer mild cooling foods and avoid very spicy choices. For flushing/redness, avoid heat triggers and keep products gentle and fragrance-free.",
+    "tags": [
+      "rosacea_like_redness",
+      "heat_avoidance",
+      "gentle_cleansing",
+      "cooling",
+      "redness_support",
+      "heat_support"
+    ],
+    "expert_weight": 0.84,
+    "safety_level": "safe",
+    "advice_strength": "moderate"
+  },
+  {
+    "rec_id": "R231",
+    "category": "diet",
+    "title": "Redness-support: Reduce ultra-processed triggers",
+    "text": "Limit ultra-processed foods that often correlate with flare cycles; observe your personal triggers. For flushing/redness, avoid heat triggers and keep products gentle and fragrance-free.",
+    "tags": [
+      "rosacea_like_redness",
+      "heat_avoidance",
+      "gentle_cleansing",
+      "cooling",
+      "redness_support",
+      "trigger_avoidance",
+      "tracking"
+    ],
+    "expert_weight": 0.84,
+    "safety_level": "safe",
+    "advice_strength": "moderate"
+  },
+  {
+    "rec_id": "R232",
+    "category": "diet",
+    "title": "Redness-support: Healthy fats for barrier support",
+    "text": "Include moderate healthy fats (as tolerated) to support the skin barrier and dryness control. For flushing/redness, avoid heat triggers and keep products gentle and fragrance-free.",
+    "tags": [
+      "rosacea_like_redness",
+      "heat_avoidance",
+      "gentle_cleansing",
+      "cooling",
+      "redness_support",
+      "barrier_repair",
+      "nutrition"
+    ],
+    "expert_weight": 0.84,
+    "safety_level": "safe",
+    "advice_strength": "strong"
+  },
+  {
+    "rec_id": "R233",
+    "category": "diet",
+    "title": "Redness-support: Mindful dairy check (individualized)",
+    "text": "If you suspect dairy aggravates your skin, trial a short, monitored reduction and track changes. For flushing/redness, avoid heat triggers and keep products gentle and fragrance-free.",
+    "tags": [
+      "rosacea_like_redness",
+      "heat_avoidance",
+      "gentle_cleansing",
+      "cooling",
+      "redness_support",
+      "trigger_tracking",
+      "individualized"
+    ],
+    "expert_weight": 0.84,
+    "safety_level": "caution",
+    "advice_strength": "moderate"
+  },
+  {
+    "rec_id": "R234",
+    "category": "lifestyle",
+    "title": "Redness-support: Consistent sleep window",
+    "text": "Aim for a consistent sleep schedule; irregular sleep can worsen itch, stress, and inflammation. For flushing/redness, avoid heat triggers and keep products gentle and fragrance-free.",
+    "tags": [
+      "rosacea_like_redness",
+      "heat_avoidance",
+      "gentle_cleansing",
+      "cooling",
+      "redness_support",
+      "sleep",
+      "routine"
+    ],
+    "expert_weight": 0.83,
+    "safety_level": "safe",
+    "advice_strength": "moderate"
+  },
+  {
+    "rec_id": "R235",
+    "category": "lifestyle",
+    "title": "Redness-support: Stress downshift practice",
+    "text": "Use a short daily stress-downshift (breathing, walk, journaling) to reduce flare triggers. For flushing/redness, avoid heat triggers and keep products gentle and fragrance-free.",
+    "tags": [
+      "rosacea_like_redness",
+      "heat_avoidance",
+      "gentle_cleansing",
+      "cooling",
+      "redness_support",
+      "stress_support",
+      "routine"
+    ],
+    "expert_weight": 0.83,
+    "safety_level": "safe",
+    "advice_strength": "moderate"
+  },
+  {
+    "rec_id": "R236",
+    "category": "lifestyle",
+    "title": "Redness-support: Sweat management habit",
+    "text": "After heavy sweating, change into dry clothing and cleanse gently to reduce irritation and fungal risk. For flushing/redness, avoid heat triggers and keep products gentle and fragrance-free.",
+    "tags": [
+      "rosacea_like_redness",
+      "heat_avoidance",
+      "gentle_cleansing",
+      "cooling",
+      "redness_support",
+      "hygiene",
+      "moisture_control"
+    ],
+    "expert_weight": 0.83,
+    "safety_level": "safe",
+    "advice_strength": "strong"
+  },
+  {
+    "rec_id": "R237",
+    "category": "lifestyle",
+    "title": "Redness-support: Trigger journal",
+    "text": "Track stress, weather, products, and foods during flares to find repeatable triggers. For flushing/redness, avoid heat triggers and keep products gentle and fragrance-free.",
+    "tags": [
+      "rosacea_like_redness",
+      "heat_avoidance",
+      "gentle_cleansing",
+      "cooling",
+      "redness_support",
+      "tracking",
+      "trigger_tracking"
+    ],
+    "expert_weight": 0.83,
+    "safety_level": "safe",
+    "advice_strength": "moderate"
+  },
+  {
+    "rec_id": "R238",
+    "category": "lifestyle",
+    "title": "Redness-support: Sun-smart routine",
+    "text": "Use shade, hats, and consistent sun protection habits to reduce redness and pigmentation worsening. For flushing/redness, avoid heat triggers and keep products gentle and fragrance-free.",
+    "tags": [
+      "rosacea_like_redness",
+      "heat_avoidance",
+      "gentle_cleansing",
+      "cooling",
+      "redness_support",
+      "sun_protection",
+      "routine"
+    ],
+    "expert_weight": 0.83,
+    "safety_level": "safe",
+    "advice_strength": "strong"
+  },
+  {
+    "rec_id": "R239",
+    "category": "lifestyle",
+    "title": "Redness-support: Friction reduction",
+    "text": "Reduce friction from tight clothing and rough fabrics; friction can amplify irritation and redness. For flushing/redness, avoid heat triggers and keep products gentle and fragrance-free.",
+    "tags": [
+      "rosacea_like_redness",
+      "heat_avoidance",
+      "gentle_cleansing",
+      "cooling",
+      "redness_support",
+      "friction_reduction",
+      "gentle_care"
+    ],
+    "expert_weight": 0.83,
+    "safety_level": "safe",
+    "advice_strength": "moderate"
+  },
+  {
+    "rec_id": "R240",
+    "category": "lifestyle",
+    "title": "Redness-support: Humidity and ventilation",
+    "text": "Keep living spaces ventilated; humidity control can help reduce fungal and irritation triggers. For flushing/redness, avoid heat triggers and keep products gentle and fragrance-free.",
+    "tags": [
+      "rosacea_like_redness",
+      "heat_avoidance",
+      "gentle_cleansing",
+      "cooling",
+      "redness_support",
+      "home_environment",
+      "moisture_control"
+    ],
+    "expert_weight": 0.83,
+    "safety_level": "safe",
+    "advice_strength": "moderate"
+  },
+  {
+    "rec_id": "R241",
+    "category": "home_care",
+    "title": "Redness-support: Gentle cleansing rule",
+    "text": "Cleanse with mild, fragrance-free products; avoid harsh scrubbing that damages the barrier. For flushing/redness, avoid heat triggers and keep products gentle and fragrance-free.",
+    "tags": [
+      "rosacea_like_redness",
+      "heat_avoidance",
+      "gentle_cleansing",
+      "cooling",
+      "redness_support",
+      "barrier_repair"
+    ],
+    "expert_weight": 0.9,
+    "safety_level": "safe",
+    "advice_strength": "strong"
+  },
+  {
+    "rec_id": "R242",
+    "category": "home_care",
+    "title": "Redness-support: Moisturize strategically",
+    "text": "Moisturize soon after bathing to lock in water and support barrier recovery. For flushing/redness, avoid heat triggers and keep products gentle and fragrance-free.",
+    "tags": [
+      "rosacea_like_redness",
+      "heat_avoidance",
+      "gentle_cleansing",
+      "cooling",
+      "redness_support",
+      "barrier_repair",
+      "hydration"
+    ],
+    "expert_weight": 0.9,
+    "safety_level": "safe",
+    "advice_strength": "strong"
+  },
+  {
+    "rec_id": "R243",
+    "category": "home_care",
+    "title": "Redness-support: Short lukewarm showers",
+    "text": "Prefer short lukewarm showers over long hot ones to reduce dryness and irritation. For flushing/redness, avoid heat triggers and keep products gentle and fragrance-free.",
+    "tags": [
+      "rosacea_like_redness",
+      "heat_avoidance",
+      "gentle_cleansing",
+      "cooling",
+      "redness_support",
+      "barrier_repair",
+      "gentle_care"
+    ],
+    "expert_weight": 0.9,
+    "safety_level": "safe",
+    "advice_strength": "strong"
+  },
+  {
+    "rec_id": "R244",
+    "category": "home_care",
+    "title": "Redness-support: Patch-test new products",
+    "text": "Test new skincare on a small area before full use to reduce contact reactions. For flushing/redness, avoid heat triggers and keep products gentle and fragrance-free.",
+    "tags": [
+      "rosacea_like_redness",
+      "heat_avoidance",
+      "gentle_cleansing",
+      "cooling",
+      "redness_support",
+      "patch_testing",
+      "irritant_avoidance"
+    ],
+    "expert_weight": 0.9,
+    "safety_level": "caution",
+    "advice_strength": "moderate"
+  },
+  {
+    "rec_id": "R245",
+    "category": "home_care",
+    "title": "Redness-support: Nail and scratch control",
+    "text": "Keep nails short and use distractions to reduce scratching that worsens barrier injury. For flushing/redness, avoid heat triggers and keep products gentle and fragrance-free.",
+    "tags": [
+      "rosacea_like_redness",
+      "heat_avoidance",
+      "gentle_cleansing",
+      "cooling",
+      "redness_support",
+      "itching_control",
+      "barrier_repair"
+    ],
+    "expert_weight": 0.9,
+    "safety_level": "safe",
+    "advice_strength": "strong"
+  },
+  {
+    "rec_id": "R246",
+    "category": "home_care",
+    "title": "Redness-support: Clean textiles routine",
+    "text": "Wash towels and pillowcases regularly; clean textiles can reduce irritation and recurrence cycles. For flushing/redness, avoid heat triggers and keep products gentle and fragrance-free.",
+    "tags": [
+      "rosacea_like_redness",
+      "heat_avoidance",
+      "gentle_cleansing",
+      "cooling",
+      "redness_support",
+      "hygiene",
+      "routine"
+    ],
+    "expert_weight": 0.9,
+    "safety_level": "safe",
+    "advice_strength": "strong"
+  },
+  {
+    "rec_id": "R247",
+    "category": "home_care",
+    "title": "Redness-support: Breathable fabric choice",
+    "text": "Use breathable fabrics and avoid prolonged dampness in folds to reduce fungal recurrence risk. For flushing/redness, avoid heat triggers and keep products gentle and fragrance-free.",
+    "tags": [
+      "rosacea_like_redness",
+      "heat_avoidance",
+      "gentle_cleansing",
+      "cooling",
+      "redness_support",
+      "breathable_clothing",
+      "moisture_control"
+    ],
+    "expert_weight": 0.9,
+    "safety_level": "safe",
+    "advice_strength": "moderate"
+  },
+  {
+    "rec_id": "R248",
+    "category": "home_care",
+    "title": "Redness-support: Cool compress (brief)",
+    "text": "Use a brief cool compress for heat/itch sensations; avoid prolonged cold exposure. For flushing/redness, avoid heat triggers and keep products gentle and fragrance-free.",
+    "tags": [
+      "rosacea_like_redness",
+      "heat_avoidance",
+      "gentle_cleansing",
+      "cooling",
+      "redness_support",
+      "comfort_support"
+    ],
+    "expert_weight": 0.9,
+    "safety_level": "safe",
+    "advice_strength": "moderate"
+  },
+  {
+    "rec_id": "R249",
+    "category": "diet",
+    "title": "Tone-support: Hydration-first plate",
+    "text": "Prioritize water-rich foods and regular fluids; dehydration can worsen skin discomfort. For uneven tone, prioritize sun protection and gentle routines; avoid irritation that can worsen marks.",
+    "tags": [
+      "hyperpigmentation_support",
+      "sun_protection",
+      "gentle_care",
+      "routine",
+      "pigmentation_support",
+      "hydration"
+    ],
+    "expert_weight": 0.84,
+    "safety_level": "safe",
+    "advice_strength": "strong"
+  },
+  {
+    "rec_id": "R250",
+    "category": "diet",
+    "title": "Tone-support: Balanced low-spike meals",
+    "text": "Choose balanced meals and reduce frequent high-sugar spikes to support overall skin stability. For uneven tone, prioritize sun protection and gentle routines; avoid irritation that can worsen marks.",
+    "tags": [
+      "hyperpigmentation_support",
+      "sun_protection",
+      "gentle_care",
+      "routine",
+      "pigmentation_support",
+      "balanced_meals",
+      "glycemic_support"
+    ],
+    "expert_weight": 0.84,
+    "safety_level": "safe",
+    "advice_strength": "strong"
+  }
+]

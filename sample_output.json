@@ -1,0 +1,115 @@
+{
+  "user_id": "U001",
+  "status": "success",
+  "recommendation_summary": "Generated 6 personalized recommendations using Vata-dominant prakriti and mild Eczema profile.",
+  "overall_confidence_level": "high",
+  "explanation_summary": "Ranking prioritized Eczema mappings, mixed-prakriti alignment (Vata/Pitta), and symptom overlap (dryness, itching, redness) across 6 items.",
+  "recommendations_by_category": {
+    "diet": [
+      {
+        "rec_id": "R001",
+        "category": "diet",
+        "title": "Warm Hydrating Meals",
+        "text": "Prefer warm, hydrating meals and avoid excessively dry foods.",
+        "score": 0.9307,
+        "reason": "Selected because it aligns with Vata traits, Eczema support needs, and matched symptoms: dryness, itching.",
+        "matched_factors": {
+          "prakriti": "Vata",
+          "condition": "Eczema",
+          "symptoms": [
+            "dryness",
+            "itching"
+          ]
+        },
+        "confidence_explanation": "Confidence combines prakriti (0.81) and skin condition (0.87) signals, with symptom overlap score 0.93."
+      },
+      {
+        "rec_id": "R004",
+        "category": "diet",
+        "title": "Cooling Bitters in Moderation",
+        "text": "Use mild cooling foods in moderation when heat symptoms are present.",
+        "score": 0.7113,
+        "reason": "Selected because it aligns with Pitta traits, Eczema support needs, and matched symptoms: redness.",
+        "matched_factors": {
+          "prakriti": "Pitta",
+          "condition": "Eczema",
+          "symptoms": [
+            "redness"
+          ]
+        },
+        "confidence_explanation": "Confidence combines prakriti (0.81) and skin condition (0.87) signals, with symptom overlap score 0.87."
+      }
+    ],
+    "lifestyle": [
+      {
+        "rec_id": "R003",
+        "category": "lifestyle",
+        "title": "Regular Sleep and Stress Reduction",
+        "text": "Maintain a regular sleep routine and include gentle stress reduction practices.",
+        "score": 0.8313,
+        "reason": "Selected because it aligns with Vata traits, Eczema support needs, and matched symptoms: itching.",
+        "matched_factors": {
+          "prakriti": "Vata",
+          "condition": "Eczema",
+          "symptoms": [
+            "itching"
+          ]
+        },
+        "confidence_explanation": "Confidence combines prakriti (0.81) and skin condition (0.87) signals, with symptom overlap score 0.47."
+      },
+      {
+        "rec_id": "R013",
+        "category": "lifestyle",
+        "title": "Trigger Tracking Journal",
+        "text": "Track sleep, stress, and food triggers to identify flare patterns.",
+        "score": 0.8173,
+        "reason": "Selected because it aligns with Vata traits, Eczema support needs, and matched symptoms: itching.",
+        "matched_factors": {
+          "prakriti": "Vata",
+          "condition": "Eczema",
+          "symptoms": [
+            "itching"
+          ]
+        },
+        "confidence_explanation": "Confidence combines prakriti (0.81) and skin condition (0.87) signals, with symptom overlap score 0.47."
+      },
+      {
+        "rec_id": "R018",
+        "category": "lifestyle",
+        "title": "Structured Meal and Sleep Timing",
+        "text": "Follow consistent daily meal and sleep timings to stabilize dosha fluctuations.",
+        "score": 0.7317,
+        "reason": "Selected because it aligns with Pitta traits, Eczema support needs, and matched symptoms: itching, redness.",
+        "matched_factors": {
+          "prakriti": "Pitta",
+          "condition": "Eczema",
+          "symptoms": [
+            "itching",
+            "redness"
+          ]
+        },
+        "confidence_explanation": "Confidence combines prakriti (0.81) and skin condition (0.87) signals, with symptom overlap score 0.93."
+      }
+    ],
+    "home_care": [
+      {
+        "rec_id": "R002",
+        "category": "home_care",
+        "title": "Gentle Oil-Based Moisturizing",
+        "text": "Use gentle oil-based moisturizing care for dry areas.",
+        "score": 0.9243,
+        "reason": "Selected because it aligns with Vata traits, Eczema support needs, and matched symptoms: dryness.",
+        "matched_factors": {
+          "prakriti": "Vata",
+          "condition": "Eczema",
+          "symptoms": [
+            "dryness"
+          ]
+        },
+        "confidence_explanation": "Confidence combines prakriti (0.81) and skin condition (0.87) signals, with symptom overlap score 0.87."
+      }
+    ]
+  },
+  "safety_note": "These recommendations are supportive lifestyle and home-care guidance only. They are not a substitute for professional medical diagnosis or treatment.",
+  "referral_warning": ""
+}
